@@ -1,0 +1,722 @@
+[
+  {
+    "id": "F4CB4A87-C64A-4118-9AAC-FDBFCCC2C109",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Acknowledging AI deserves national debate on definition and regulation"
+  },
+  {
+    "id": "FFF7633C-1A04-4F8C-BBE8-FBF77FFAC2BD",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Clarifying Bill does not regulate digital products/AI, has wider AI regulation program"
+  },
+  {
+    "id": "9B84B143-9442-4105-9B12-A41CB957CAAC",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Calls for government review of product legislation to address AI opportunities and challenges"
+  },
+  {
+    "id": "65B6B379-6E71-41C8-A27D-53AEA92C8F33",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Lists AI among global challenges to address with international partners"
+  },
+  {
+    "id": "3692C1D4-B180-49E8-8183-028D88D60630",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Raises concern about AI being used to create child sexual abuse materials"
+  },
+  {
+    "id": "456CFD74-1D05-4F52-80FA-F9D69BF1CEFB",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government funding research into AI and VR to support people with drug addictions"
+  },
+  {
+    "id": "E60567CE-B14B-4ECB-8103-74EABF7A2D44",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaks positively about AI as new industrial revolution and opportunity for UK"
+  },
+  {
+    "id": "092EB8FD-97A1-44D0-8027-6FE56EC69523",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government funding cyber-AI hub as leading cyber-security research centre"
+  },
+  {
+    "id": "31799B30-63F9-496A-860F-A19321F96165",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Discusses AI and automation raising expectations and uprooting old ways of working"
+  },
+  {
+    "id": "FBA43F20-6397-4FB9-9514-E7C9809FBB24",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Strategy discusses using AI tools to maximize efficiency in enforcement"
+  },
+  {
+    "id": "92FD099B-F5DE-41A2-BADE-36AA6BCF6437",
+    "sentiment": "neutral",
+    "confidence": 0.65,
+    "reasoning": "Hypothetical mention of wanting AI/GPT to do word count of arguments"
+  },
+  {
+    "id": "9BD52FB6-335A-48BE-9705-A2ACDEFE7FF5",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Hopes AI will help clinicians identify and diagnose rare diseases in future"
+  },
+  {
+    "id": "848AD937-A426-4AB9-B5C4-43A6E2E81985",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Concerned about Bill being read in context of AI developments and practice"
+  },
+  {
+    "id": "DF95CB2E-3551-4815-B897-2A355A7CF05E",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Building massive advances in AI into medical devices and technology for NHS"
+  },
+  {
+    "id": "DC779BD7-F1F9-4296-85C1-D966618D9F92",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Clarifying Bill will not regulate digital products or AI, government developing wider AI policy"
+  },
+  {
+    "id": "6D696668-A95A-4426-9530-14EAF73D8659",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Driving innovation and adoption of technology from AI to net zero"
+  },
+  {
+    "id": "4F90DB47-9A13-403B-9E6D-3BB57FFAB936",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Singapore using AI with surveillance to monitor offenders and prevent violence"
+  },
+  {
+    "id": "F674C29D-6F7A-405D-BB7B-8FEF8A7D4D7E",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Calling for urgent regulation of AI, tech industry should not dictate policy"
+  },
+  {
+    "id": "BC967EC1-5947-46CE-97B0-6E3E21E0C4EC",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Reflecting on AI committee work addressing risks but not anticipating dramatic impact"
+  },
+  {
+    "id": "23875851-17A0-4418-A99C-7FC284EF2178",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Worried about safeguards defining scientific research as AI increasingly gives rise to issues"
+  },
+  {
+    "id": "36310D4C-4E3A-443F-BAC2-DFA548776CAE",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Questioning reported use of AI by IDF against civilians in Gaza"
+  },
+  {
+    "id": "83FE51B7-B172-44DB-8B26-DD118718A792",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerned about Chinese infiltration for IP theft in AI and quantum computing"
+  },
+  {
+    "id": "B215D3F8-E776-4FA2-98A0-2C66A1198BC4",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Describing proposal compatible with various international AI frameworks and conventions"
+  },
+  {
+    "id": "1BE87494-EA43-4CEF-98B0-4D24B429F016",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "AI and automated decision-making tools increasingly used across public sector"
+  },
+  {
+    "id": "3C1C075C-DABA-4800-BC61-DD1D48894B90",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Noting ADM now proliferates across society and economy since first data bills"
+  },
+  {
+    "id": "9E9D45B9-F483-45E2-8128-280799579066",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Expressing fears of autonomous drones with AI hunting down children in Gaza"
+  },
+  {
+    "id": "7DB67E86-A4FB-4CCB-A2CB-D6FB33F015DB",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Refers to being on skills advisory board for Google's AI campus"
+  },
+  {
+    "id": "7C006AE9-DF75-43EF-A352-B8DFC7A58BCA",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerned issue of unreliable computer evidence will grow with growth of AI"
+  },
+  {
+    "id": "F77266FC-CCC8-4E8D-AC85-E9C8A22695EF",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Praising opportunity to bring excellent AI work into being through statute"
+  },
+  {
+    "id": "6131AE29-6E33-4C1B-A056-87D8D8035865",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerned about university partnerships with Chinese institutions linked to PLA on AI"
+  },
+  {
+    "id": "C039E13F-E5E3-4ABC-91E5-E13E78BAE034",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Tackling exponential rise in AI-facilitated child sexual abuse material"
+  },
+  {
+    "id": "8AB41208-86F6-45BA-9024-31EE5294C903",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Will roll out AI and other technology to boost capacity and deliver excellent care"
+  },
+  {
+    "id": "313070C7-AFBB-4986-AB0A-778E335B0546",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Funded £3.5bn NHS productivity plan to capitalize on benefits of AI"
+  },
+  {
+    "id": "C26F5E2E-A119-4D0B-AAB4-47720B6B62C7",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Surgeon reporting wounds reflecting some form of AI from drones targeting children"
+  },
+  {
+    "id": "FEB69066-1A1D-497D-9C06-72CFC5329DC8",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Discussing need to look at AI and grooming online as serious issue"
+  },
+  {
+    "id": "C09BC25F-7E9C-4208-9E1B-4D0D2F03B2E2",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about steps to protect copyright in creative industries in context of AI"
+  },
+  {
+    "id": "DE1BE3D5-54CA-4EC3-ADC6-06B2106C93E0",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "AI technology allows perpetrators to create pornographic deepfakes at click of button"
+  },
+  {
+    "id": "000E232A-97FC-438D-AE0D-BD24DDC05CB4",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Hopes for discussion about copyright and AI concerns"
+  },
+  {
+    "id": "9A5257EB-0876-47DC-A0E2-EF75F72D42E4",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questioning if MOD has specialist cadre to assess AI weapons systems schemes"
+  },
+  {
+    "id": "BB1A05F2-AB55-4121-A613-533D0A132C8C",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Need more clarity about what's happening in MOD when it comes to AI"
+  },
+  {
+    "id": "5B0CFC4A-9656-4B4B-9C28-0D5D4BD1CDDC",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Future will be tech geeks, gamers, coders providing human interface with AI"
+  },
+  {
+    "id": "4594A0E1-C70D-4D1E-90BC-97A71E30691E",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "With AI and new technology we can do things we couldn't envisage before"
+  },
+  {
+    "id": "AB5FAB0B-4CA6-43C1-B683-27C377F76D66",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Rules-based system faces challenges from AI to advanced weapons systems"
+  },
+  {
+    "id": "178FC61C-3993-45D0-8271-C7DCC35D8DB4",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Creative industries worried about government consultation on AI and copyright"
+  },
+  {
+    "id": "55AE2F63-E733-43CD-BC93-D7620D131F10",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Applying AI to information from Northwood to predict ships threatening undersea cables"
+  },
+  {
+    "id": "4A8A36F2-D54A-4042-92EE-A50E557F9194",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Lessons on regulatory capture should be implemented across AI and tech industry"
+  },
+  {
+    "id": "9E56CC3A-1712-42A7-8846-ED29F5C6B20F",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concern about rapidly evolving AI-facilitated child sexual abuse material"
+  },
+  {
+    "id": "8D5C8582-5D35-4665-92AF-298C207A84B9",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "GCAP must be flexible to adapt to emerging technologies including AI"
+  },
+  {
+    "id": "2C0943FB-A9DA-4F2B-926A-6AEC54AC9CB2",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "New CMA chair brings understanding of importance of AI to promote growth"
+  },
+  {
+    "id": "268110B7-88BA-401A-9262-251C695DA193",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Must join up UK's strength in AI and education technology to support education"
+  },
+  {
+    "id": "BEC6DD16-9777-4D5F-8577-CD6246FFA554",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Asking about collaboration to develop skilled AI workforce per opportunities action plan"
+  },
+  {
+    "id": "C20A5066-DC0F-4FA9-955B-CA0B864C139A",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Reform and reliance on AI led DEFRA to pilot Microsoft Copilot with benefits"
+  },
+  {
+    "id": "E0A7E40D-B701-43CC-B3E2-9E6AADE9EC49",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Secured £63bn investment at summit and leading the way on AI"
+  },
+  {
+    "id": "FCB3CF8E-B4AB-4227-BAB6-419DD6C0C8A4",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Since last Cabinet questions government launched AI opportunities plan"
+  },
+  {
+    "id": "75621180-1743-43A8-A6E7-77E45E73CD88",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Industrial strategy should incentivize investment in ethical AI and clean energy"
+  },
+  {
+    "id": "j97fxzxj5fmfng1asdj0j53czn7wjmw2",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "AI-generated sexual abuse material relating to children and adults causing harm"
+  },
+  {
+    "id": "j9725md5423ca73fp7nrwvyyzn7wkykz",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ting' should be 'waiting' - not about AI"
+  },
+  {
+    "id": "j970hc1hddqjgqkk3yb9y7jq9x7wkk0m",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' should be 'chair' - not about AI"
+  },
+  {
+    "id": "j97as72jnvd4z9hqb15hmvsvc17wj3dq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai ls' should be 'fails' - not about AI"
+  },
+  {
+    "id": "j972d3hsdq51n4fhynarh0s5317wjjm1",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI going to solve many problems in economy and society"
+  },
+  {
+    "id": "j97a0rz3a1tt4mzfn2xaacaqts7wkv1y",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' should be 'against' - not about AI"
+  },
+  {
+    "id": "j9700yamfjhq24k2r5gn4hgsnx7wjjz3",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Declares AI interests as set out in register"
+  },
+  {
+    "id": "j97amp7j0y3ctkrb45vfg9a84d7wkfrw",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'R ai der' should be 'Raider' (Tomb Raider) - not about AI"
+  },
+  {
+    "id": "j97a97bs76q4xxeaqn89mt74qn7wjnm0",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai n' should be 'train' - not about AI"
+  },
+  {
+    "id": "j974jq5z2ktz5dtmpd0z5tq8d57wk0xq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'pr ai se' should be 'praise' - not about AI"
+  },
+  {
+    "id": "j976ye8p2224evfadn108r7m597wj6as",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' should be 'raise' - not about AI"
+  },
+  {
+    "id": "j972z9nhdxj5ymvqf4t6yg46497wjzmj",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Agrees about use of AI to improve productivity in NHS"
+  },
+  {
+    "id": "j972zkwnkf4hgh8r60dd3echm97wjtyg",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai ntain' should be 'maintain' - not about AI"
+  },
+  {
+    "id": "j973rxq2d3tg1nhgx3y5pbcrfh7wjvxa",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI reading of films and scans as good or better than radiologist"
+  },
+  {
+    "id": "j97bbnnk3fcs3cbmenveftq6217wk4q7",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ag ai n' should be 'Again' - not about AI"
+  },
+  {
+    "id": "j97f9xw1pwvdf7dh0awdhbhrk57wk1t4",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Important role of training for staff and investment in AI to speed up diagnostics"
+  },
+  {
+    "id": "j973ada8qkb9v7j65j8gsmagzn7wk90m",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questioning if defamation laws adequate to deal with AI and social media threats"
+  },
+  {
+    "id": "j9783xrv1wnnetjcsghn5mr34d7wj305",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'M ai denhead' should be 'Maidenhead' - not about AI"
+  },
+  {
+    "id": "j97e0mp81zgrkgae6vw61w09sd7wkk7y",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'rem ai ns' should be 'remains' - not about AI"
+  },
+  {
+    "id": "j9754a584s9erpzbzdfjh7amyd7wjapq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lable' should be 'available' - not about AI"
+  },
+  {
+    "id": "j97fdptmx1ybvyg0ag2rf9c9td7wj6f4",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'afr ai d' should be 'afraid' - not about AI"
+  },
+  {
+    "id": "j97bxapvh3kk5a5k6v0g9wtjwn7wjq1b",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Asking for reassurances about copyright exception for AI learning"
+  },
+  {
+    "id": "j9701b382z1b1qt4x4f360pyzs7wkm2j",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Asking if transparency crucial for creators to understand where works used by AI"
+  },
+  {
+    "id": "j97acngd29hsm1pbyec15jj0zd7wk0wk",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Transparency key element of consultation package for AI developers and creators"
+  },
+  {
+    "id": "j97e3j3qdsrpbh7qyackhv9yw57wksqy",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "NHS trusts rapidly speeding up diagnostic waiting times using highly accurate AI models"
+  },
+  {
+    "id": "j976v0wvvq5h1yy4tw63hzz5617wjaba",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about progress on AI algorithms to analyze medical images"
+  },
+  {
+    "id": "j977pvq3m65ehsfx56335j3xcn7wjh02",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Visited hospital that fully integrated AI, saw power for early diagnosis"
+  },
+  {
+    "id": "j977ehvp51d97wxz2f4jy9xx5n7wj3rv",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cert ai nty' should be 'certainty' - not about AI"
+  },
+  {
+    "id": "j97fpvjjzem6kp4g58w24kx6g57wj8b3",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Investment summit secured record £60bn with £24bn AI-related investment"
+  },
+  {
+    "id": "j9748y2cmrg69wzhztzye80bph7wk4fn",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' should be 'training' - not about AI"
+  },
+  {
+    "id": "j975z5vmptfnrhvehb3127z3xd7wj5jc",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' should be 'against' - not about AI"
+  },
+  {
+    "id": "j979s8e5378gpzhq0gfnn9a2057wj2cc",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'der ai l' should be 'derail' - not about AI"
+  },
+  {
+    "id": "j971jvfpfaqetf40dq034nf8kh7wjzcj",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'camp ai gner' should be 'campaigner' - not about AI"
+  },
+  {
+    "id": "j978chjqqakg4hwzr73br5x97x7wk9kw",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai ls' should be 'details' - not about AI"
+  },
+  {
+    "id": "j97ap12d8yx6w10pq6y33a8by97wkjaq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' should be 'chairmanship' - not about AI"
+  },
+  {
+    "id": "j97ck2w1vtgz36vw36gtqa9g4x7wkef6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' should be 'raise' - not about AI"
+  },
+  {
+    "id": "j97cf95f5xtejkdnk6kyx1rmgs7wkvry",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sed' should be 'raised' - not about AI"
+  },
+  {
+    "id": "j97awdp03jvhp92rqhx7vr5cr17wj1c0",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Created AI Energy Council and data centre energy needs taken into account"
+  },
+  {
+    "id": "j977jjqajq53zvqeh0vn2vz6b17wkq35",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Consultation on copyright and AI, not forcing choice between creative and AI sectors"
+  },
+  {
+    "id": "j978t9c4p67hcjy2zkks410eyn7wj39q",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' should be 'said' - not about AI"
+  },
+  {
+    "id": "j9729wepycte9mvpp4yqfd5by17wktz0",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sed' should be 'raised' - not about AI"
+  },
+  {
+    "id": "j9729rrd17wdww03r1ysx0gvcs7wjf3x",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about progress on assessing UK skills gap when it comes to AI"
+  },
+  {
+    "id": "j971tasr1b3wzqsm35z9a5ranx7wj9z3",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI Energy Council will ensure government engage with innovations in energy"
+  },
+  {
+    "id": "j974t4zmeqh8xm0sarx8gcewr57wj070",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI has enormous potential for health service to improve productivity and treatments"
+  },
+  {
+    "id": "j97btexjt29t2ybkyc3p5d7mvh7wjwqv",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI moving rapidly and MOD needs to harness it quickly as adversaries are"
+  },
+  {
+    "id": "j972697r6p0cfmz03pf1atbmm17wkcw6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Acknowledging opportunities AI presents but asking about police training for risks"
+  },
+  {
+    "id": "j97e5201wr0exj62m2817yrfx97wky6c",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sed' should be 'raised' - not about AI"
+  },
+  {
+    "id": "j971s4fpcrytms12fh498ar5vh7wkmpd",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Piloting, developing and deploying AI across Government to drive efficiencies"
+  },
+  {
+    "id": "j97dfre6fpvdskw6h9fzyn8cyd7wj5g2",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about role digital centre will play in driving AI adoption"
+  },
+  {
+    "id": "j97drdqqeny8fygrn4vy7t32k17wjc32",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Action plan refers to expertise and development in AI that already exists in Edinburgh"
+  },
+  {
+    "id": "j971dhrr8kej1h387jbjg0a9gh7wj8tr",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "People not reassured, artists face prospect of works being ingested by AI companies"
+  },
+  {
+    "id": "j970yrmsnqmk231knze1mn8gmh7wkdq5",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Referencing Times article about Rachel Reeves using AI to reply to emails"
+  },
+  {
+    "id": "j9711crn61e34f5n2pga4825m57wkq42",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "University of Sussex AI research centre established in 1960s shows long history"
+  },
+  {
+    "id": "j972sydq2qn7zwbddvatv23gy17wk23r",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government choice to safely explore all potential AI has for country and economy"
+  },
+  {
+    "id": "j97fkx4z4erxcksa5z88yyvjj17wkcmx",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Ambition to make UK frontier home for AI firms and increase data centres"
+  },
+  {
+    "id": "j971cgqnteygttbgmvhzgq3a5s7wjc6w",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Attracted £24bn of AI investment since taking office plus £14bn this week"
+  },
+  {
+    "id": "j97cdn6hhh5fwn2hbw6xcd6ar57wkqbr",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI will lead to investment in data-intensive industries like chemicals and life sciences"
+  },
+  {
+    "id": "j975bx20z3gzdgsz5bjam7e4r17wkaz9",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI will improve investment landscape and mean technological advances in industries"
+  },
+  {
+    "id": "j974sbhhjm88jzavttwry44k4h7wj3q3",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI brings opportunities and dangers especially in military realm for decision-making"
+  },
+  {
+    "id": "j977t0db4sb2typm793kh8jv0x7wknfb",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai ses' should be 'raises' - not about AI"
+  },
+  {
+    "id": "j97eqm87rqfeqpxdm7x5xy7wnd7wjt9a",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai ls' should be 'details' - not about AI"
+  },
+  {
+    "id": "j97eq97gae0bdv4waxk9sbag817wj7md",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' should be 'Chair' - not about AI"
+  },
+  {
+    "id": "j9715vepnhy7zdhqhc0zxj5vwd7wjmbc",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' should be 'raise' - not about AI"
+  },
+  {
+    "id": "j970550hjqv7eq5q2sjfnn90sd7wkt12",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' should be 'said' - not about AI"
+  },
+  {
+    "id": "j97der4c3ch218jvqh6z0r0vyn7wjzhn",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai ses' should be 'raises' - not about AI"
+  }
+]

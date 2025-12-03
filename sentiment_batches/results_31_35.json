@@ -1,0 +1,644 @@
+[
+  {
+    "id": "j975fagz6csghwpvkpf4e9zbfn7wjs1n",
+    "sentiment": "positive",
+    "confidence": 0.9,
+    "reasoning": "Minister discusses AI Opportunities Action Plan with £42M investment to boost productivity and citizen experience using flexible approach"
+  },
+  {
+    "id": "j97fm9w8e3smvnyzre2f55h3h57wk0j7",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'cert ai nly' is formatting artifact for 'certainly', not related to artificial intelligence"
+  },
+  {
+    "id": "j9744kmyspvzy18jya5rxcp0an7wk4gz",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j97e5b2etd4zb4np6fvm3wh3a57wkzhd",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'cont ai ning' is formatting artifact for 'containing', not related to artificial intelligence"
+  },
+  {
+    "id": "j970s2gz6jpscwr8dwayd7cekx7wkmze",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j971m42vb9f78632tmgxa2cty17wk0dd",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Speaker describes AI ripping content from Holocaust survivor's book as theft by algorithm to profit from suffering"
+  },
+  {
+    "id": "j97bkhe23cm50p26vh4736p4wn7wjgb4",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister references AI in context of data quality concerns, noting bad data in means bad data out"
+  },
+  {
+    "id": "j97b8dvfqqe5pc7sd9hhffaj897wk915",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'Brit ai n' is formatting artifact for 'Britain', not related to artificial intelligence"
+  },
+  {
+    "id": "j975bx9e1yknx0w6nn1pv9get57wjvsh",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'obt ai ned' is formatting artifact for 'obtained', not related to artificial intelligence"
+  },
+  {
+    "id": "j97b7dv8pwp35cnmh2bhtfv9bn7wk1j0",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'av ai lable' is formatting artifact for 'available', not related to artificial intelligence"
+  },
+  {
+    "id": "j971ky1xjmy4nd5em5syzs84zh7wkat0",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Speaker notes AI won't replace human journalists covering Parliament, emphasizing need for human witness alongside technology"
+  },
+  {
+    "id": "j9745ewhc3h9pew5fepm0r97vh7wkvs0",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about government backing creatives on AI and copyright, procedural inquiry without clear stance"
+  },
+  {
+    "id": "j978phwhyk5maheb585qs954657wk69g",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ag ai n' is formatting artifact for 'again', not related to artificial intelligence"
+  },
+  {
+    "id": "j973ryvjhf9j8zkjjt9ntcxd8x7wjg72",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j971r7r9t5jb8fspayqhh7vawh7wk9ed",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker notes children's author not against AI but concerned about regulation and responsible use"
+  },
+  {
+    "id": "j97dree635tf4m85g9jz502mc17wkdd5",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Colleague reports AI sector wanting BBC archive for free, highlighting concerns about unfair access to creative content"
+  },
+  {
+    "id": "j974fxpvgf7gcmpqa0w33p0ncn7wk77p",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister discussing technical questions about AI-generated works and copyright ownership through consultation process"
+  },
+  {
+    "id": "j975h2szb0f12w0knjjantfk917wjgmz",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker warns genomics data theft by AI is shocking and not casual matter, expressing serious concern about data misuse"
+  },
+  {
+    "id": "j978ynfjycykw4sv79yzah22hh7wjj57",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j974cek9ybz2twg1ay3nckqp517wj49y",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'f ai rly' is formatting artifact for 'fairly', not related to artificial intelligence"
+  },
+  {
+    "id": "j97bc9jbfz5k2whtfbjyjpvh357wjwvw",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker urgent about generative AI ingesting creative catalogue, demanding immediate action rather than waiting years"
+  },
+  {
+    "id": "j97bm9pbn782ahv0kbbt1207bx7wkssh",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about how to respond to AI providers threatening to deny UK access if regulations too difficult"
+  },
+  {
+    "id": "j9726mvhj6m6gznxry9g8h0kbx7wkkvc",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker describes existential threat of generative AI to creative industries, criticizing lackadaisical government approach"
+  },
+  {
+    "id": "j97e76gmd86t0gy837q8vxdpys7wkr66",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about carve-outs for creatives against AI-generated material from abroad to protect rights framework"
+  },
+  {
+    "id": "j97a4jph90gmmdjsf2a5qg9ep57wkzpt",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker supports government approach to enforce copyright law with transparency and remuneration for AI systems"
+  },
+  {
+    "id": "j978azdg83nt90t65j905d6d5x7wkcnf",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about need to strengthen regulation as self-regulation in AI and tech companies doesn't work"
+  },
+  {
+    "id": "j9767 7acv4dkectka2eh7yktan7wkfqs",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'dr ai ning' is formatting artifact for 'draining', not related to artificial intelligence"
+  },
+  {
+    "id": "j97cdtnrta2v6783qhkjcjbmmd7wjcwe",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Speaker confirms agreement with protecting copyright and ensuring artists compensated if output used in AI"
+  },
+  {
+    "id": "j97c5152k74wqx123p14yszqc97wkmca",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Speaker warns AI companies putting social and economic benefits at risk through wholesale transfer of copyright"
+  },
+  {
+    "id": "j977xhtwp6wb1yseqyfg8mdcrh7wkzqx",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'Ch ai r' is formatting artifact for 'Chair', not related to artificial intelligence"
+  },
+  {
+    "id": "j97dja6e35dg92wx21yex17zkx7wj0wj",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Speaker pleased government amendment addresses relationship between AI and copyright, welcomes broader scope"
+  },
+  {
+    "id": "j97cs2nhta8qyebzhkeaerk6sd7wjesa",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaker strongly welcomes new clause addressing AI and copyright relationship, noting existing framework not fit for purpose"
+  },
+  {
+    "id": "j976hwddzvy208x4f6tvf84nyh7wkvbv",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker paying tribute to passionate speeches about protection of copyright in AI from various members"
+  },
+  {
+    "id": "j97f1tyy8qyqfjm464cfnsdda97wkqzk",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Speaker states AI and creativity can work together, advocating for collaboration not divergence between sectors"
+  },
+  {
+    "id": "j97fhfc79yd48yw9d6y9b5nke97wkpme",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister discussing need for technical solution allowing creatives to develop AI while asserting copyright rights simply"
+  },
+  {
+    "id": "j9742ptckqvqzpyswkv65ezqzs7wk4st",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'Brit ai n' is formatting artifact for 'Britain', not related to artificial intelligence"
+  },
+  {
+    "id": "j972gwn6nfacd7wg1z0shx3p917wkhj5",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker states AI has already ingested everything online without legal disclosure requirement, making it difficult for creators to enforce rights and be paid"
+  },
+  {
+    "id": "j97er9k2pgfbatgc1pe1080ez97wjjq4",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'r ai se' is formatting artifact for 'raise', not related to artificial intelligence"
+  },
+  {
+    "id": "j979tr3mrh1bjfb7dycsac3cxn7wkwhd",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Speaker notes creative industries embrace technology and want to use AI responsibly, not be replaced by it"
+  },
+  {
+    "id": "j973tjvdmgs9q80y0ta82095n97wj1w0",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'g ai n' is formatting artifact for 'gain', not related to artificial intelligence"
+  },
+  {
+    "id": "j97egqqzehc1jd6dyv941kp1b97wj517",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker warns overuse of children's data increases harm risk through toxic algorithms and discriminatory AI systems with lifelong consequences"
+  },
+  {
+    "id": "j973armwfbs6ep4fyjj3sk7kah7wkk15",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'p ai nters' is formatting artifact for 'painters', not related to artificial intelligence"
+  },
+  {
+    "id": "j979hk001nvt2mg249ft8tpg717wjv1p",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaker enthusiastic about AI offering massive opportunities to make services more effective and improve lives"
+  },
+  {
+    "id": "j972dm96a2b0k6wm3ahztz4y9n7wjn27",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'r ai se' is formatting artifact for 'raise', not related to artificial intelligence"
+  },
+  {
+    "id": "j970my78wqrc5t2007mfww0mys7wk0ke",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaker supports amendment giving media and creative sectors transparency over AI copyright use, believing in AI's transformative power"
+  },
+  {
+    "id": "j977gg2wmm09g5nmqzjvfsa9cx7wj0wh",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'guardr ai ls' is formatting artifact for 'guardrails', not related to artificial intelligence"
+  },
+  {
+    "id": "j97cne06ktp9m2w6r4htn8kttd7wjwqh",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker asking how to regulate AI models interaction with creative works, noting concerns from both houses"
+  },
+  {
+    "id": "j97856r2k2kjbc7q0zt6vhydx17wj1gx",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural text listing government new clause title about report on copyright works in AI systems development"
+  },
+  {
+    "id": "j974v98ep1q9vymd74pr1506mn7wjqwp",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker notes need for anyone operating web crawlers for AI to comply with UK copyright law"
+  },
+  {
+    "id": "j972528qf9a2g6rx7nqp2eey0n7wj48a",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ag ai nst' is formatting artifact for 'against', not related to artificial intelligence"
+  },
+  {
+    "id": "j974c1tqg18by3vwg3f1y293p57wj433",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about government protection of film industry property rights from overseas AI companies during data legislation"
+  },
+  {
+    "id": "j97cbzd86fm03wyjtd32ajpj7h7wkpaw",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about assessment of benefits and risks of people using AI platforms like ChatGPT for mental health care"
+  },
+  {
+    "id": "j97efxc28r15m391kway2zs7gx7wkt3c",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'uncert ai n' is formatting artifact for 'uncertain', not related to artificial intelligence"
+  },
+  {
+    "id": "j9753md324fx5pj6231ep2r62h7wkg9y",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'pr ai se' is formatting artifact for 'praise', not related to artificial intelligence"
+  },
+  {
+    "id": "j9712r2gd9fhaw08r4rmr6kab57wjana",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker declares interest and thanks ministers for engagement on AI policy conference, showing balanced involvement"
+  },
+  {
+    "id": "j976211gbddc8dn5gfky9se8n17wk123",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about what Shakespeare would make of AI, with humorous comparison to typewriter monkeys analogy"
+  },
+  {
+    "id": "j979944zhxhs50mr98hmzjb0trd7wjhzs",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker declaring 20-year research experience with sensitive patient data including work with medtech and AI companies"
+  },
+  {
+    "id": "j9762gsj423sc3cynh3jq0e6gs7wk8ca",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Amendment proposes adding consideration of extraterritorial use of works by AI systems and digital watermarking"
+  },
+  {
+    "id": "j978wt5x59tmd69yefxy7s6es97wjd60",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'Brit ai n' is formatting artifact for 'Britain', not related to artificial intelligence"
+  },
+  {
+    "id": "j974ymv96bn6gssgv57vrpnsas7wjtrn",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister discussing four challenges including fundamental AI research at Alan Turing Institute and major role in repositioning"
+  },
+  {
+    "id": "j972kk85rf856vdbz4kh413fn17wjfhw",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'tr ai ning' is formatting artifact for 'training', not related to artificial intelligence"
+  },
+  {
+    "id": "j976dxs0p71x74vz915576d7th7wkhs6",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ag ai nst' is formatting artifact for 'against', not related to artificial intelligence"
+  },
+  {
+    "id": "j974853c1pc05jw0b2n19kfz9s7wkqhz",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'r ai sed' is formatting artifact for 'raised', not related to artificial intelligence"
+  },
+  {
+    "id": "j979qvefavmw9ct2bank8thrwd7wj18m",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ag ai n' is formatting artifact for 'again', not related to artificial intelligence"
+  },
+  {
+    "id": "j97arhnfvf6942360t3zfehr6x7wkvfj",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'g ai n' is formatting artifact for 'gain', not related to artificial intelligence"
+  },
+  {
+    "id": "j9791ty8w42js72bs6bg246y3x7wk8ka",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Question acknowledges AI and data centres will lead to major electricity demand increase and government awareness"
+  },
+  {
+    "id": "j971egq4rakb08gcgnxhy0hrv97wkbj8",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'cl ai ming' is formatting artifact for 'claiming', not related to artificial intelligence"
+  },
+  {
+    "id": "j97edga5gv51qxtzcv2aw5wp417wjjm5",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister acknowledging shared ambition for vibrant creative industries and wanting to get AI copyright response right"
+  },
+  {
+    "id": "j9726mvhj6m6gznxry9g8h0kbx7wkkvc",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker accepting government amendments while noting transparency provisions under development for AI systems"
+  },
+  {
+    "id": "j978qy7dped9jc40g2j8h4hq7s7wkcb5",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Speaker raising trust concerns about AI systems exploiting others' work without permission and government standing by creatives"
+  },
+  {
+    "id": "j972wasa3652v0vsmdhfc5mvv17wkjw1",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Question about Turing Institute pivotal role in readying public servants and regulators for AI benefits and optimization"
+  },
+  {
+    "id": "j97b737eb6thte749ydz537x1d7wkq77",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Speaker hopes Government ensures policy enforced and expresses concern about public trust if data reused by AI companies"
+  },
+  {
+    "id": "j977rcd6vpf4fn55wcatz6rryd7wkmtm",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Speaker questioning Government arguments that regulating AI requires dealing with everything or it's too global to act locally"
+  },
+  {
+    "id": "j97ftpahrj7rjmg0hwv9n6s6317wj1c2",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'm ai n' is formatting artifact for 'main', not related to artificial intelligence"
+  },
+  {
+    "id": "j97d3f0769tzk70yn4pgrt9k517wk32a",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Question welcoming government commitment to SMRs to power AI and asking about AI Energy Council for efficiency opportunities"
+  },
+  {
+    "id": "j97dc869d4c63xhxj6e04beqph7wkcx9",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j9701ypnac4e631jhtstjn5st97wj300",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaker notes ICS.AI helped Derby save millions using AI and supports government focus on smarter technology use"
+  },
+  {
+    "id": "j979sgmx2z3j0ct94zddjegt6n7wkm38",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'f ai ling' is formatting artifact for 'failing', not related to artificial intelligence"
+  },
+  {
+    "id": "j97brk0mpf59f1der0hyeqns2h7wjm6p",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j9781rfevsfwqdtbv505y7a5357wjh7t",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'm ai n' is formatting artifact for 'main', not related to artificial intelligence"
+  },
+  {
+    "id": "j9732mwrevj69zqkwpqbtp6zxd7wjdem",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'r ai sed' is formatting artifact for 'raised', not related to artificial intelligence"
+  },
+  {
+    "id": "j9723a4bm62xr9z1bwsakxex397wjz3y",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister assures AI development aligns with sustainability goals, promoting renewable energy and chairing AI Ministers group"
+  },
+  {
+    "id": "j973hcvyy1ats6cgc1f77ap0617wjhkt",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question noting AI in radiotherapy increases productivity twentyfold but funding decision could cost waiting lists days"
+  },
+  {
+    "id": "j976rdysstfbd2jbqva17snem17wjh5b",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister assures heavy AI investment across NHS, noting full integration in Huddersfield hospital radiography benefiting patients"
+  },
+  {
+    "id": "j97et4pq9840bjk0ce406sn8bx7wkank",
+    "sentiment": "positive",
+    "confidence": 0.9,
+    "reasoning": "Statement on harnessing technology power including AI to create smarter state and improve public service productivity"
+  },
+  {
+    "id": "j97detsh3z7c1489mw5bwpr1s97wjhyd",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Speaker emphasizing importance of having AI and creative industries in same room, noting panic from consultation hare-setting"
+  },
+  {
+    "id": "j97a7xsm0cwzfyyzzjt3ctmvmn7wkbf9",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister notes works created with AI exist and creative industries at forefront of innovation not luddite"
+  },
+  {
+    "id": "j97dm7xez2ak274dt6034vzngn7wjwjc",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question noting AI has power to transform civilization but huge environmental drain is problem needing discussion"
+  },
+  {
+    "id": "j97ebkssf72by14wkgectvtj7d7wj0hc",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j9756rfpfv7ecddxwqwdmx6dgn7wjgz6",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Speaker states creative heritage being scraped with songs and books in charts totally designed by AI happening now"
+  },
+  {
+    "id": "j9740zzracp6njvarjx013g55x7wj3fm",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'Aff ai rs' is formatting artifact for 'Affairs', not related to artificial intelligence"
+  },
+  {
+    "id": "j97fs1yzqfwtb4gtwvhjqe8dfh7wk5a0",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'det ai ls' is formatting artifact for 'details', not related to artificial intelligence"
+  },
+  {
+    "id": "j976a6r343mn27dt95q3r63pjd7wkg2p",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'cert ai n' is formatting artifact for 'certain', not related to artificial intelligence"
+  },
+  {
+    "id": "j97bpgbhh4hdhv1x484thsvhes7wkcn0",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "US Copyright Office report concludes AI training copying threatens significant harm to copyrighted works market value"
+  },
+  {
+    "id": "j970mpsknn8w62j58y61jxh7es7wk7td",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about government steps to enforce law protecting copyright as AI companies continue using content without permission"
+  },
+  {
+    "id": "j972vrbfwddn1wz90yba9qgpe17wk17w",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister states wanting to get AI right for everyone and creatives properly rewarded through transparency"
+  },
+  {
+    "id": "j978n4h9ew50k6s39v782h7cr17wj4pg",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Minister states government wants creative industries and AI companies to flourish through interrelating solutions for both sectors"
+  },
+  {
+    "id": "j976dg26ym9mfvygt716tap0mx7wj0w0",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about government recognizing AI models need creative sector content and why not give transparency for negotiations"
+  },
+  {
+    "id": "j97ba6wqvv3csxhhat24xypwhs7wk0p3",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister recognizes transparency key element for creators and government aim to provide certainty for UK creative and AI sectors"
+  },
+  {
+    "id": "j97723zrezkmbjxpbt4r2fen897wjm44",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question noting AI businesses need world-class content requiring effective copyright protection for content creators"
+  },
+  {
+    "id": "j97e2t9m12yjen4dar8qn6qpen7wjaaj",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Minister states aim to provide certainty for creative and AI sectors through copyright regime with transparency"
+  },
+  {
+    "id": "j97d5p6019kc48eqs62jrz1jnx7wjrye",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government recognizes significant global value of UK creative content in AI development and exploring how to unlock value"
+  },
+  {
+    "id": "j97dpcvyd2tm1r8sk615hsj9e57wkvqm",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Minister notes 38% creative businesses already using AI technologies with nearly 50% using AI for business operations"
+  },
+  {
+    "id": "j97776c713j6e29d702ms2p4xd7wkng4",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 's ai d' is formatting artifact for 'said', not related to artificial intelligence"
+  },
+  {
+    "id": "j97ctad9kj4dgzx758f8h3typn7wjavb",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ch ai r' is formatting artifact for 'chair', not related to artificial intelligence"
+  },
+  {
+    "id": "j972bmydhyjwmc5bvqszr33f8h7wj8c5",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ch ai r' is formatting artifact for 'chair', not related to artificial intelligence"
+  },
+  {
+    "id": "j979ym18zrp92pb6t2m613zjkn7wjzxc",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive - 'ag ai n' is formatting artifact for 'again', not related to artificial intelligence"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "AI Action Plan Tracker",
+  "description": "A progress tracker for the UK Government's AI Opportunities Action Plan, featuring a dashboard, detailed recommendation tracker, and timeline view.",
+  "requestFramePermissions": []
+}

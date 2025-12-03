@@ -1,0 +1,770 @@
+[
+  {
+    "id": "D5075BC4-B8A2-498A-80D7-CBF126EDF92E",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question asking about DWP's use of AI and governance processes"
+  },
+  {
+    "id": "EB347F4A-C6E1-40EF-BE3D-D813397B5396",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Balanced view recognizing both opportunities and risks, referencing Bletchley declaration on safety"
+  },
+  {
+    "id": "A6D672C6-7E61-40A7-ADFC-939FA7B9838A",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Critical of AI use for spreading disinformation and deepfakes to undermine democracy"
+  },
+  {
+    "id": "0C864A72-917A-469E-85F9-022435E426D7",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Supportive of AI as part of emerging technologies requiring flexibility for adaptation"
+  },
+  {
+    "id": "7194C88A-1697-4436-AAC7-68CB6DC36F4A",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Factual statement about AI developments creating both challenges and opportunities"
+  },
+  {
+    "id": "A6813C8B-D969-4294-851C-F5313F2AA1A1",
+    "sentiment": "negative",
+    "confidence": 0.87,
+    "reasoning": "Critical concern about AI and deepfakes spreading false narratives and disinformation"
+  },
+  {
+    "id": "7CF0D25C-30BE-432F-9CCC-17030F2252FB",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of recruiting AI talent through global talent network"
+  },
+  {
+    "id": "35D48086-489A-4A09-98DB-CCA0BA327939",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Discussing AI for reducing bureaucracy, questioning its implementation"
+  },
+  {
+    "id": "DCE0C68F-5E36-4636-B173-81704A7D9051",
+    "sentiment": "negative",
+    "confidence": 0.90,
+    "reasoning": "Concerned about AI presenting risks of bias and discrimination in recruitment"
+  },
+  {
+    "id": "FBADD15F-E233-4A3E-9B02-349D07008E99",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Warning about AI and machine learning risks to financial stability"
+  },
+  {
+    "id": "9900454D-3EBD-4CCD-875B-56730F6C0D92",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question about discussions on AI biases regarding protected characteristics"
+  },
+  {
+    "id": "94ADA753-91C9-49D8-BBF8-E2833F3EF610",
+    "sentiment": "negative",
+    "confidence": 0.90,
+    "reasoning": "Critical of government liberalizing AI decision-making while reducing appeal rights"
+  },
+  {
+    "id": "313D5492-5D08-46E6-865A-EB222B5A64D5",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Critical of China's use of AI for mass surveillance and spying in Tibet"
+  },
+  {
+    "id": "BC647509-3ABC-488A-AC8C-443BEDF27F96",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of using AI to optimize traffic flow and improve road infrastructure"
+  },
+  {
+    "id": "62904B49-D02C-4420-A48D-662939F9EE24",
+    "sentiment": "positive",
+    "confidence": 0.90,
+    "reasoning": "Enthusiastic about AI innovation in advanced military program inspiring future generation"
+  },
+  {
+    "id": "2C0A847D-A9AD-4B59-83D5-48A6E19488A8",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Acknowledging AI advances while calling for smart, adaptive legislation"
+  },
+  {
+    "id": "FC46C17E-88C0-4420-95C5-B69AD9EF1B49",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Optimistic about AI tools providing better financial advice at viable prices"
+  },
+  {
+    "id": "28FB1D50-79C5-4CA7-AC57-3335F7219A91",
+    "sentiment": "negative",
+    "confidence": 0.82,
+    "reasoning": "Concerned about AI's role in spreading antisemitism online"
+  },
+  {
+    "id": "44A18694-C37B-47E9-AC46-F5C897A3CE77",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "National security concerns about reliance on AI systems in vehicles"
+  },
+  {
+    "id": "4F799AED-5FEE-44CE-918A-AAF458B06920",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Frustrated by government uncertainty and delays on AI regulation"
+  },
+  {
+    "id": "886B36BD-4E46-4F0D-948D-621A22B064B8",
+    "sentiment": "positive",
+    "confidence": 0.83,
+    "reasoning": "Supportive of Innovate UK helping businesses with AI uptake"
+  },
+  {
+    "id": "D08AD856-078E-420E-BC49-639BAC905BCF",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Concerned about AI making it harder to detect malicious incidents than Horizon system"
+  },
+  {
+    "id": "FBEA2A83-FF3B-4565-B9F3-0251286FCDC7",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Question about requiring AI developers to provide information on works usage"
+  },
+  {
+    "id": "7BD324A5-19A1-4F83-A589-C263EFBE11F2",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'r ai ses' is 'raises' split by Hansard highlighting"
+  },
+  {
+    "id": "55A0029E-A90E-46F3-8EC2-3536EDBED008",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Enthusiastic about AI benefits in public services like hospital management and procurement"
+  },
+  {
+    "id": "2C17E156-2A73-4705-8417-AD96401DBEB8",
+    "sentiment": "disregard",
+    "confidence": 0.90,
+    "reasoning": "False positive: 'r ai sed' is 'raised' split by Hansard highlighting"
+  },
+  {
+    "id": "33FE112B-0716-4122-ABDE-A2AA266B0235",
+    "sentiment": "disregard",
+    "confidence": 0.90,
+    "reasoning": "False positive: 'ret ai l' is 'retail' split by Hansard highlighting"
+  },
+  {
+    "id": "EF40B111-4C3E-4E69-AF46-CD1DA3FD3804",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "5B749902-12D2-4001-B1D9-06D7508F4F3D",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'laudable ai m' is 'laudable aim' split by Hansard highlighting"
+  },
+  {
+    "id": "ACCBC766-012A-4D23-9BA8-7D863CF0613E",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'm ai den speech' is 'maiden speech' split by Hansard highlighting"
+  },
+  {
+    "id": "FD1C5ED3-BEBB-4B51-866E-FAAB8E3A7669",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'unp ai d' is 'unpaid' split by Hansard highlighting"
+  },
+  {
+    "id": "A1F8FAC6-8E1B-4DD5-BE55-C55CE8B07AA9",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'ag ai nst' is 'against' split by Hansard highlighting"
+  },
+  {
+    "id": "EEF09DF0-C324-4B40-B2DA-05A5AB8DB8BF",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'm ai den speech' is 'maiden speech' split by Hansard highlighting"
+  },
+  {
+    "id": "FF24040B-2E5B-43EE-9FA1-88C734BDD8D6",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'm ai den speech' is 'maiden speech' split by Hansard highlighting"
+  },
+  {
+    "id": "7CD7B416-6725-4B7A-B849-5F3D4616F269",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'm ai den speech' is 'maiden speech' split by Hansard highlighting"
+  },
+  {
+    "id": "23495F4A-CE11-45FE-A268-1699341F185A",
+    "sentiment": "disregard",
+    "confidence": 0.93,
+    "reasoning": "False positive: 'm ai den speech' is 'maiden speech' split by Hansard highlighting"
+  },
+  {
+    "id": "8E10ABD3-9005-449A-9EA2-C2E705387D94",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "B95B5CE1-2605-4E66-911C-D2F86966BBA2",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "8EA98643-7F85-457C-B0EF-FC1CD1927492",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'cont ai n' is 'contain' split by Hansard highlighting"
+  },
+  {
+    "id": "AF6EFB17-D046-4068-9312-EB1806EC91E7",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'rem ai ning' is 'remaining' split by Hansard highlighting"
+  },
+  {
+    "id": "FCAB373A-AB57-492B-BC2A-E10D57834667",
+    "sentiment": "disregard",
+    "confidence": 0.90,
+    "reasoning": "False positive: 'Ethics in AI' but focus is on data protection register interests, not AI discussion"
+  },
+  {
+    "id": "464F35B1-0790-48FC-AB12-532FC17DF955",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Discussing data ownership in AI models, emphasizing consent and trustworthiness"
+  },
+  {
+    "id": "A4083204-0CEC-435C-9D68-0C8BD53A2BB8",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "0871DDAC-4C32-4F7D-AF21-EBCA0B72E21F",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question about AI skills training access"
+  },
+  {
+    "id": "20654910-E50D-40F3-BB5E-3C4142702241",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Highlighting government investment and guidance to support AI adoption"
+  },
+  {
+    "id": "3FEA69F7-3D1A-487E-BF77-D2DE16992220",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Question about UK approach to AI compared to EU AI Act"
+  },
+  {
+    "id": "8096AAD5-C4F5-466E-B1D8-2976EEE3E7FF",
+    "sentiment": "positive",
+    "confidence": 0.83,
+    "reasoning": "Defending government investment in AI skills"
+  },
+  {
+    "id": "552CE33F-140A-4D80-8B25-3B7EBB4B4F4E",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'r ai sed' is 'raised' split by Hansard highlighting"
+  },
+  {
+    "id": "64518EDC-79AD-477A-B6A1-1402F2BCE04E",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Balanced discussion of AI risks versus opportunities"
+  },
+  {
+    "id": "71DF840F-03F0-4D58-9D08-7B4C063455A0",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Supportive of UK approach to foster AI innovation and opportunities"
+  },
+  {
+    "id": "CEF9D173-7F33-44C1-A280-6EB3B4E9F8FE",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'Brit ai n' is 'Britain' split by Hansard highlighting"
+  },
+  {
+    "id": "938BD0BB-09E9-4133-B80E-049450E9211D",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Critical question about missing AI skills framework promised two years ago"
+  },
+  {
+    "id": "6144D994-F829-47B4-A6F7-84DE8320F8BE",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of government AI skills initiatives and guidance"
+  },
+  {
+    "id": "B198164A-7B43-4D8F-8A15-9B3E9DED2449",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'm ai ntain' is 'maintain' split by Hansard highlighting"
+  },
+  {
+    "id": "F67530EE-5959-49B4-B31A-B02DBF431954",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "AE14232C-F32C-4228-854D-1F5ED9E8793E",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerned about AI-generated deepfakes and misinformation threatening electoral system"
+  },
+  {
+    "id": "E323F483-35FD-49CD-AEB0-88C9FC36D4F1",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Discussing copyright protections for creative work in AI age"
+  },
+  {
+    "id": "777D744F-285F-4E3F-994E-CBDB3ACCE11F",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Critical that copyright law doesn't account for AI reproduction without consent"
+  },
+  {
+    "id": "250A65A9-2605-48C5-BC2E-E0F0F5A8B681",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Recognizing both AI potential and risks, engagement with creative sector"
+  },
+  {
+    "id": "4891133F-1237-4E6B-AF43-C424DCD022EA",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Discussing importance of transparency from AI developers in White Paper"
+  },
+  {
+    "id": "0F3265E1-EC24-47AA-B5FA-E75EF8F86398",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Referencing White Paper on transparency while continuing work with industry"
+  },
+  {
+    "id": "BE062998-13F7-4914-84D4-B7D719AB80B1",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Assuring continued work on AI regulatory solutions beyond initial group"
+  },
+  {
+    "id": "F5EC8CE3-68C8-4FFA-93C9-60007B011BC1",
+    "sentiment": "negative",
+    "confidence": 0.90,
+    "reasoning": "Critical of AI firms abusing copyrighted material without consent or compensation"
+  },
+  {
+    "id": "24BE84F5-D2F6-45EC-B80E-C4632E6F3D3B",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai r' is 'chair' split by Hansard highlighting"
+  },
+  {
+    "id": "E913A361-F729-41F4-84D0-71118CB59884",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'sust ai nable' is 'sustainable' split by Hansard highlighting"
+  },
+  {
+    "id": "2BBD7B01-B831-49FD-BBF0-D52592C4BBBB",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'av ai lable' is 'available' split by Hansard highlighting"
+  },
+  {
+    "id": "7796EC9D-9EE0-410F-9ADD-9E5DB5D07366",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'cert ai nly' is 'certainly' split by Hansard highlighting"
+  },
+  {
+    "id": "6DC727A4-4EC7-4A78-8BB7-B5E12035A672",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'entert ai ned' is 'entertained' split by Hansard highlighting"
+  },
+  {
+    "id": "88C15EEE-4D9E-439F-9521-193D389B9469",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Discussing AI in context of future-proofing and need for labelling"
+  },
+  {
+    "id": "6F74BFD0-CC91-4D4C-96DE-E41F1ED1D2F7",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' split by Hansard highlighting"
+  },
+  {
+    "id": "5ECCABEA-1DCF-4136-BD03-81AC1E31D078",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'cert ai n' is 'certain' split by Hansard highlighting"
+  },
+  {
+    "id": "91109AEC-C04B-483A-AB4D-01924B8E7F9A",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai r' is 'chair' split by Hansard highlighting"
+  },
+  {
+    "id": "99911D45-D11A-47C8-A591-F5D7FC0FE5FA",
+    "sentiment": "positive",
+    "confidence": 0.90,
+    "reasoning": "Proud of UK's AI revolution leadership including safety institute and summit"
+  },
+  {
+    "id": "7C9A23EC-97BE-4E93-8736-D6A8427CE93E",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'f ai r' is 'fair' split by Hansard highlighting"
+  },
+  {
+    "id": "3FA5D426-286A-4673-9DC8-09B36B3FCF81",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of AUKUS partnership including AI cooperation for advanced capability"
+  },
+  {
+    "id": "4A2715FA-D516-4A60-9657-2A516A174734",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerned about deepfakes being troubling issue related to AI"
+  },
+  {
+    "id": "048DAEB0-3B67-490F-B8DD-737B7AD95387",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Announcing AI experts to drive adoption across public sector for efficiency"
+  },
+  {
+    "id": "77C88685-0970-4BBE-B5BF-7597184EFD04",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'H ai lsham' is 'Hailsham' (name) split by Hansard highlighting"
+  },
+  {
+    "id": "EE7B94A2-F6C9-4891-BFE4-A9BD0BD55190",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'aff ai rs' is 'affairs' split by Hansard highlighting"
+  },
+  {
+    "id": "D0630237-CCE4-4DD0-AEAA-66BD11665E13",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'str ai ghtaway' is 'straightaway' split by Hansard highlighting"
+  },
+  {
+    "id": "3F1737F1-9557-4B96-9F95-B84D2F8942AE",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'Brit ai n' is 'Britain' split by Hansard highlighting"
+  },
+  {
+    "id": "E8228BA7-B4B6-4C17-8662-61DE73C46878",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Question about insurers accessing AI/software data to prove autonomous driving"
+  },
+  {
+    "id": "F14012F8-26E9-44D1-932B-4B7CFFA58984",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'uncert ai n' is 'uncertain' split by Hansard highlighting"
+  },
+  {
+    "id": "989B1211-870D-44A8-9B83-A462E4AE59D9",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "A4DD9281-F646-45E4-999A-ED3481C5E21F",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'm ai n' is 'main' split by Hansard highlighting"
+  },
+  {
+    "id": "042F9350-C8BA-4DD9-B285-205ECDEE60FC",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 's ai d' is 'said' split by Hansard highlighting"
+  },
+  {
+    "id": "DD546F28-2598-4652-B0D8-01E5158FB49E",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' split by Hansard highlighting"
+  },
+  {
+    "id": "1DE083E4-0470-468E-8462-DCEB804EC173",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'cert ai n' is 'certain' split by Hansard highlighting"
+  },
+  {
+    "id": "784905E1-E0F0-4269-9842-C5B6A83236ED",
+    "sentiment": "disregard",
+    "confidence": 0.90,
+    "reasoning": "False positive: 'Rhythm AI' is a company name, not substantive AI discussion"
+  },
+  {
+    "id": "F867883C-84B3-4316-BBB8-47821C6CA21F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Discussing AI's ability to deliver information in new formats for consumers"
+  },
+  {
+    "id": "E6AAF2DE-427A-4EFF-B5BB-76BE44B1CC2D",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'expl ai n' is 'explain' split by Hansard highlighting"
+  },
+  {
+    "id": "5889760A-41A6-430A-8F59-917378E2CA64",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Discussing transparency when AI is partly or wholly used to generate content"
+  },
+  {
+    "id": "0D73906D-A325-473F-8D13-8D6D7C08A6DC",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'f ai lure' is 'failure' split by Hansard highlighting"
+  },
+  {
+    "id": "6E439AF4-3139-450B-BF4F-D08F8A37DC9E",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai red' is 'chaired' split by Hansard highlighting"
+  },
+  {
+    "id": "7633D0FE-6DFC-4FD2-B74E-249001AF1436",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai r' is 'chair' split by Hansard highlighting"
+  },
+  {
+    "id": "0D06E597-62F6-4BA5-B8EC-5BB9CBD5C8A9",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai red' is 'chaired' split by Hansard highlighting"
+  },
+  {
+    "id": "D7525942-98F7-4020-9B8D-CF5F9212061B",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'pr ai se' is 'praise' split by Hansard highlighting"
+  },
+  {
+    "id": "A615D8C4-7504-4DB8-B3D0-6A1C1E0FCAC3",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'r ai sed' is 'raised' split by Hansard highlighting"
+  },
+  {
+    "id": "762B7639-241E-415A-A9BF-80EC8E7FF252",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'Aff ai rs' is 'Affairs' split by Hansard highlighting"
+  },
+  {
+    "id": "5785F361-ED58-4A40-8F71-BF77E3B74C0B",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'av ai lable' is 'available' split by Hansard highlighting"
+  },
+  {
+    "id": "80465A7B-114C-45E8-8781-5C9B21EA52F1",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai r' is 'chair' split by Hansard highlighting"
+  },
+  {
+    "id": "DAB9598D-ABCB-48FE-971F-DDF3F8686038",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'uncert ai nty' is 'uncertainty' split by Hansard highlighting"
+  },
+  {
+    "id": "6C485393-65E2-4B2B-A6A1-0621A514D8EE",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Outlining legal requirements for platforms to remove AI-created intimate images"
+  },
+  {
+    "id": "251AB009-AF56-4B6C-B828-BD63F0BFE543",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Acknowledging AI deepfakes as abusive, explaining legislative focus on sharing"
+  },
+  {
+    "id": "B2542A30-01A3-4A49-8E61-EEA49ED1411C",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Questioning government reluctance to regulate AI given deepfake risks"
+  },
+  {
+    "id": "21BFBDEA-3A97-4DF2-A807-D1A082A0F73F",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Critical of dangerous misogynistic AI-driven deepfake trend requiring regulation"
+  },
+  {
+    "id": "53E5818F-75EE-44A5-9714-F034A1FDB913",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Explaining government position that legislation timing depends on AI understanding"
+  },
+  {
+    "id": "40E36462-339C-4786-AD06-C4F947FDEFBF",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'expl ai ned' is 'explained' split by Hansard highlighting"
+  },
+  {
+    "id": "6244EE68-3823-4927-89A3-40F0B567BC92",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'det ai ls' is 'details' split by Hansard highlighting"
+  },
+  {
+    "id": "4698E9BD-1598-47EC-BB38-62D78BA56769",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'aw ai ting' is 'awaiting' split by Hansard highlighting"
+  },
+  {
+    "id": "380367B1-8A4A-485A-B9AF-05514985A46D",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'afr ai d' is 'afraid' split by Hansard highlighting"
+  },
+  {
+    "id": "FC2CB726-3471-4038-A972-4CA2BF4495FE",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question about AI regulatory principles implementation"
+  },
+  {
+    "id": "8DE87065-290B-41E4-BE8F-AC7B53A3E852",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Defending agile sector-specific approach to emerging AI risks"
+  },
+  {
+    "id": "DA602299-FE64-431C-8295-C9148DFFDEE1",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Celebrating 'Bletchley effect' from world-leading AI safety summit"
+  },
+  {
+    "id": "59D5B1EE-3F46-4E22-A226-4CD4216FE50B",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Critical that UK AI lacks sufficient regulation despite pace of change and risks"
+  },
+  {
+    "id": "61498523-6DB5-4F48-BFFF-9C13DF21D652",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Criticizing government for waiting on mandatory AI reporting when others have acted"
+  },
+  {
+    "id": "89F09073-A24F-47B8-B532-28C798A0B292",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Defending government AI leadership and dismissing Opposition criticism"
+  },
+  {
+    "id": "CF718A82-785C-48EB-B5CF-01BA315A9157",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Question about bringing more countries onboard for safe AI exploration"
+  },
+  {
+    "id": "B30739F6-4D41-4622-BAEF-2764EECE172D",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'Ukr ai ne' is 'Ukraine' split by Hansard highlighting"
+  },
+  {
+    "id": "59B489C2-0A6B-44B4-A167-EA4E9F3371A7",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question about AI impact on creative industries discussions"
+  },
+  {
+    "id": "F1A112BB-C542-45D6-AEC9-EED665C64242",
+    "sentiment": "negative",
+    "confidence": 0.88,
+    "reasoning": "Concerned about AI developers using works without consent/compensation, status quo failing"
+  },
+  {
+    "id": "B1962A0B-E0F3-4FDF-B632-29383E98E658",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' split by Hansard highlighting"
+  },
+  {
+    "id": "250A65A9-2605-48C5-BC2E-E0F0F5A8B681",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Recognizing AI potential and risks, extensive engagement with creative sector"
+  },
+  {
+    "id": "4891133F-1237-4E6B-AF43-C424DCD022EA",
+    "sentiment": "neutral",
+    "confidence": 0.83,
+    "reasoning": "Emphasizing importance of protecting creative rights in AI White Paper"
+  },
+  {
+    "id": "0F3265E1-EC24-47AA-B5FA-E75EF8F86398",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Acknowledging AI White Paper addresses transparency, continuing cross-government work"
+  },
+  {
+    "id": "F5EC8CE3-68C8-4FFA-93C9-60007B011BC1",
+    "sentiment": "negative",
+    "confidence": 0.90,
+    "reasoning": "Critical of AI firms committing copyright abuse using material without consent"
+  },
+  {
+    "id": "24BE84F5-D2F6-45EC-B80E-C4632E6F3D3B",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' split by Hansard highlighting"
+  },
+  {
+    "id": "2C17E156-2A73-4705-8417-AD96401DBEB8",
+    "sentiment": "disregard",
+    "confidence": 0.92,
+    "reasoning": "False positive: 'r ai sed' is 'raised' split by Hansard highlighting (from batch_11)"
+  }
+]

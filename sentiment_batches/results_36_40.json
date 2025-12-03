@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "43BAE143-1092-4579-9516-CA2121F401EC",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Using AI to provide court transcripts improves access to justice and record-keeping"
+  },
+  {
+    "id": "C162663D-4946-4B7E-A7FE-A7AFFE93A7D5",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'expl ai n' is 'explain' with highlighted formatting"
+  },
+  {
+    "id": "4F75FD5B-9914-4488-98E1-7B195FDC323A",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Raises concerns about AI being used to generate mass FOI requests creating pressure on public sector"
+  },
+  {
+    "id": "108CD7F4-DF8D-4439-BAC7-F2E3ECA2F929",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about bias and misinformation from generative AI in schools requiring statutory regulations"
+  },
+  {
+    "id": "45EB75ED-7C21-4403-AFF1-1DB79B85B459",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Factual statement about AI growth zones proposal process and water considerations"
+  },
+  {
+    "id": "F0E8B56F-B34B-4EC9-B373-9075F6B27EF5",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerns about over-reliance on AI limiting critical thinking and reasoning skills in children"
+  },
+  {
+    "id": "1F04EC7D-741F-428C-B24A-0E16BFB688B8",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Factual description of AI growth zones distribution and planning process"
+  },
+  {
+    "id": "BBCC7754-F76C-4233-BD15-C08A63D0E7A2",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Questions whether AI data centres are undermining energy systems resilience"
+  },
+  {
+    "id": "640D5872-B293-4674-A047-33FF379271BE",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai ming' is 'aiming' with highlighted formatting"
+  },
+  {
+    "id": "1D1C7D72-EC34-4CBE-90BB-893FCBA4DBE6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' is 'against' with highlighted formatting"
+  },
+  {
+    "id": "9688AFD5-FFAC-4585-9DAB-5E377735DD72",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Raises concerns about dangers of generative AI including harmful content and deepfakes"
+  },
+  {
+    "id": "F8A4EAE8-97B4-4B0B-A169-EAF9DEB8F47C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cert ai nly' is 'certainly' with highlighted formatting"
+  },
+  {
+    "id": "31A2C1A8-104D-43CD-AC46-F03E01581BBF",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Factual explanation of water use requirements for AI growth zone proposals"
+  },
+  {
+    "id": "87AC615E-F3A1-4598-91C2-3807234AA87E",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Raises concerns about water demand/supply problems with AI growth zones"
+  },
+  {
+    "id": "2814B8AD-B0F5-4693-8738-5374FF91E557",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' is 'against' with highlighted formatting"
+  },
+  {
+    "id": "EF1ACB6C-0A05-4678-8B90-034071B6C8E8",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Discusses AI Energy Council's sustainability working group considering renewable energy"
+  },
+  {
+    "id": "1F86EB14-AA0E-4E57-BDFF-D1C6FA6FFDA3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai n' is 'main' with highlighted formatting"
+  },
+  {
+    "id": "E37DED38-4886-4D93-BCF9-5C2FB26B9239",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "References research on AI energy consumption vs. energy reduction across industries"
+  },
+  {
+    "id": "AAF0E9FA-239E-48A2-9675-10639FF85EE6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about AI Security Institute's role regarding energy security"
+  },
+  {
+    "id": "62411F11-847D-4C6D-A082-72E86EBBD4C1",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Raises concerns about urgent need for AI energy usage policy as demand increases"
+  },
+  {
+    "id": "FF2AA0C8-A30D-419C-AB59-E98874F818DF",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Opening statement about discussing generative artificial intelligence in schools"
+  },
+  {
+    "id": "9C994832-077D-49EB-8EB0-EF302F4A0858",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "C1B6ED97-EC00-4DB5-838F-0C913B2F6D3F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "65761F14-ADDC-4141-B29F-700CE6AA72AF",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "84C3937D-1B44-4C34-AFB6-D7268BF6EF9A",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cert ai nly' is 'certainly' with highlighted formatting"
+  },
+  {
+    "id": "BB2E6EF2-323E-4A77-A22C-294F78E33F23",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "F1542DE4-83F7-4C7E-B120-B623E5453879",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "DFB83BF5-FE83-4F9D-80AD-8A2786F3A163",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "7E6691E8-8E85-44D6-A268-DB3F1C862F2A",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai rness' is 'fairness' with highlighted formatting"
+  },
+  {
+    "id": "50E690ED-EF39-4EB9-8F3E-1902264A19A7",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai n' is 'again' with highlighted formatting"
+  },
+  {
+    "id": "ECAE2E91-0D9A-439D-B2EF-5A241780A2DE",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "ECB8B6D9-9DC1-485A-8657-C7FC715C146B",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Discusses piloting AI technology to improve court efficiency"
+  },
+  {
+    "id": "704898AE-52E1-4A91-8CC8-D73017F45B21",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Comments on Scotland's AI future in positive/supportive context"
+  },
+  {
+    "id": "F590EFF9-9E46-4E88-8234-155009119178",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lable' is 'available' with highlighted formatting"
+  },
+  {
+    "id": "1F596421-3DE3-4872-9154-F6306E8CE160",
+    "sentiment": "positive",
+    "confidence": 0.9,
+    "reasoning": "Strong support for AI opportunities and UK's AI leadership, celebrating investment and growth"
+  },
+  {
+    "id": "A445CB89-FB1A-48BB-9A34-0E5387ACDD68",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of UK Government commitment to investing in and developing AI"
+  },
+  {
+    "id": "2BEC7FEA-F8B1-4027-BD4C-8F8210F07D77",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "77C2E07A-0DE4-41A3-BF43-86EC438F971F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'expl ai ned' is 'explained' with highlighted formatting"
+  },
+  {
+    "id": "1D08D946-A920-4832-A249-E2D9EA9E4EE6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "27319030-C070-4E23-BC37-7A415D14A0CB",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ted' is 'waited' with highlighted formatting"
+  },
+  {
+    "id": "C8DF790E-19E4-4585-AC2F-60B031271E6A",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Discusses government working on AI Council for coordination and collaboration"
+  },
+  {
+    "id": "2C981591-A43C-4841-8B55-5F3A896EFCD3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "3FB31E7E-7217-4805-820C-A10DAC26331F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "F872F4E2-B702-4B50-96AF-0D4BD068B9D7",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai rman' is 'airman' with highlighted formatting"
+  },
+  {
+    "id": "5D4F6792-FEEC-4029-86CA-964AD8C673D8",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Mentions looking at technology and AI as innovative approach for medical school"
+  },
+  {
+    "id": "3B92E57D-B6C3-498F-A81D-0C00CC098F1E",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with highlighted formatting"
+  },
+  {
+    "id": "E6F6C491-607B-4356-BB3C-D6D0DDEDE80A",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "1C3974E4-E3AC-4627-A8CA-D81784388634",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with highlighted formatting"
+  },
+  {
+    "id": "70F38CB8-DF4E-4F13-8530-0D75EB2A98E2",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'long-aw ai ted' is 'long-awaited' with highlighted formatting"
+  },
+  {
+    "id": "B1A09A22-6D9F-48EB-8E59-8484D6095B76",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Calls for AI content to be labeled and action from platforms/generators"
+  },
+  {
+    "id": "28F22752-69DB-4252-B6CE-A09B7DD08330",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with highlighted formatting"
+  },
+  {
+    "id": "14551237-D49E-465C-AE30-DA8E9B026FEA",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with highlighted formatting"
+  },
+  {
+    "id": "FD1E3E81-DE30-4713-A239-E922CDA51FC5",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' is 'raise' with highlighted formatting"
+  },
+  {
+    "id": "B8C93D6C-73FC-4F02-8107-3B1721E40327",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ukr ai ne' is 'Ukraine' with highlighted formatting"
+  },
+  {
+    "id": "E6C66AFC-E62C-4B3E-99EC-88E09F4C2744",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "0EEABAB6-D40F-4F37-B410-411877141CD9",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'sust ai nable' is 'sustainable' with highlighted formatting"
+  },
+  {
+    "id": "2E460F33-9524-4B24-BC84-A90090BDAE08",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai led' is 'detailed' with highlighted formatting"
+  },
+  {
+    "id": "5AB4A26B-62A0-4DD0-894B-AFE1062560E8",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Government discussing AI Bill consultation across different approaches"
+  },
+  {
+    "id": "01327116-8955-48EC-AE8A-D26115D6BDCE",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes importance of getting AI Bill legislation right, consultation will be launched"
+  },
+  {
+    "id": "81FB67CC-26D9-4282-96BC-E635CF0CC261",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Welcomes AI data centre investment but asks about environmental assessment"
+  },
+  {
+    "id": "BF48BFDA-AED5-47A2-8346-07A5EC4E07C2",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Hopes Government have listened to arguments about AI"
+  },
+  {
+    "id": "C7C5C56F-85C0-4CF1-90B6-D78D9A109BA9",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'expl ai ned' is 'explained' with highlighted formatting"
+  },
+  {
+    "id": "5F21832C-C3E2-4C34-BD14-2450F1AAAC75",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Acknowledges tech/AI sector makes significant contribution to UK economy"
+  },
+  {
+    "id": "4EC51C6E-F583-4D75-B591-A2450B4D8FC2",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Supports sovereign AI unit and asks about ensuring UK company access"
+  },
+  {
+    "id": "CFABBBC5-6661-4CF4-B06A-7A08C9C42E7F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai n' is 'again' with highlighted formatting"
+  },
+  {
+    "id": "59732FC1-7CE9-45E7-89D7-232718D3E6E5",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "385F4D49-9822-4252-A103-41AF3EA5BEE8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ting' is 'waiting' with highlighted formatting"
+  },
+  {
+    "id": "E5504236-D580-4EDB-8300-A4BB3E212760",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Neutral/uncertain about AI component for resource allocation"
+  },
+  {
+    "id": "15AA4509-ED2F-4B7E-8199-B32E4D866B6F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "F78581D8-AB6A-4D5E-AA2A-E9061828316B",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "B190547F-E401-41A0-802D-DE1C93700078",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai r' is 'fair' with highlighted formatting"
+  },
+  {
+    "id": "A1E97C31-17CF-41D0-94EE-7CDEDF27846B",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "F3559257-BA28-4766-BA01-B041EB84D915",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Supports moving to better testing including use of AI for prostate cancer"
+  },
+  {
+    "id": "0B05EE65-E702-4A6C-A484-6E86C1C7DFAA",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai red' is 'chaired' with highlighted formatting"
+  },
+  {
+    "id": "FFDD2354-ED33-43B1-BBE6-021CD1F76953",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Believes AI will increasingly become mainstay of battlefield"
+  },
+  {
+    "id": "8E97D371-2F3D-498B-A25B-A82C3C7FA5C0",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with highlighted formatting"
+  },
+  {
+    "id": "289ED539-097C-44F4-A0B5-FE7EBB9318E7",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Supports focusing on benefits and articulating them rather than just concerns"
+  },
+  {
+    "id": "B79801CC-E217-4650-8CE8-F6A3307F1C72",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI Security Institute tests models for risks, important for identifying issues"
+  },
+  {
+    "id": "5FE1915B-0F66-47E3-BB18-30FCD02886CF",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai ls' is 'details' with highlighted formatting"
+  },
+  {
+    "id": "78D260D4-69D4-4BA3-AB99-5E7DC9A490A8",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Raises concern/question about control of AI in battlefield"
+  },
+  {
+    "id": "ACFD00E1-EE3B-49CE-B48A-0F3A4DBF3A91",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cl ai ms' is 'claims' with highlighted formatting"
+  },
+  {
+    "id": "074FC86C-BAD4-48AE-B0F9-7F112DE693D4",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Acknowledges open AI approach has been important for progress"
+  },
+  {
+    "id": "4A4D46D2-AAC1-457A-BD6E-DB128DA80471",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Confident Turing Institute will deliver AI products for government missions"
+  },
+  {
+    "id": "21EA7F9E-DA27-4971-8170-C62F5B3A0C75",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Cannot confirm timing of AI Bill consultation"
+  },
+  {
+    "id": "6E1ACED0-F3DB-4F54-8538-A70DCF83307E",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerned that Britons are most nervous about AI, asking about falling confidence"
+  },
+  {
+    "id": "0C30997D-85DF-4A21-983B-E6D37A12F34A",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Raises concerns about digital clones and human rights in AI policy"
+  },
+  {
+    "id": "7C2B6597-4077-42B6-8329-B1EFA838B7C7",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Asks whether Treasury understands pressure for sovereign AI movement"
+  },
+  {
+    "id": "86A0A2EA-1A07-4F2E-998C-89527539EE0A",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes that a lot is in train including AI infrastructure and institutions"
+  },
+  {
+    "id": "A03C598A-4883-47B8-880F-0096E84C694F",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government committed to building sovereign AI capabilities with £500m backing"
+  },
+  {
+    "id": "F0620414-784B-46A2-A819-43C89F4115F3",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Raises concerns about people's fear of data being misused with AI"
+  },
+  {
+    "id": "9FF61F2A-CB3A-45B2-A21E-38D573505265",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Advocates for open-source AI as more straightforward path to sovereignty"
+  },
+  {
+    "id": "7E4D4FAF-0EBC-4530-B303-9A187DBB23B9",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about how government data will be accessible for sovereign AI"
+  },
+  {
+    "id": "DF970CC2-34AE-4161-912D-F5FFE86EE369",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Emphasizes public engagement and trust are critical for sovereign AI success"
+  },
+  {
+    "id": "9FD45743-5B50-45E1-822D-DE7125F9E2AA",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "BBC Monitoring evolving strategy to address increased disinformation from AI"
+  },
+  {
+    "id": "73C44721-2E1A-4846-B55E-9F49A0B90986",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with highlighted formatting"
+  },
+  {
+    "id": "BFC28D30-5052-4F3D-9B41-1CEBB897AD94",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ting' is 'waiting' with highlighted formatting"
+  },
+  {
+    "id": "E5BCEE82-EB62-47DC-8EF1-337076147BFA",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes AI technology moving at pace, requiring flexible future-proof legislation"
+  },
+  {
+    "id": "E7B7BCDF-38B7-424B-A480-2DB22103900F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'C ai thness' is 'Caithness' with highlighted formatting"
+  },
+  {
+    "id": "6DECCC01-7F97-4B81-8E9D-97739D210440",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' is 'raise' with highlighted formatting"
+  },
+  {
+    "id": "55C8E676-C174-4810-A12C-9C60BDAFCB02",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Acknowledges huge opportunity AI presents for diagnostics and healthcare"
+  },
+  {
+    "id": "0544A8BA-B94C-4854-92E6-BD183CCA1EFA",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai ls' is 'details' with highlighted formatting"
+  },
+  {
+    "id": "54D5FF01-5EB7-4667-8E31-BB47D7FB28C2",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Discusses how AI can speed up cancer diagnosis and make NHS more efficient"
+  },
+  {
+    "id": "7E0EDCB8-BC50-4917-B045-BF2245C17053",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Declaration of interest as adviser on AI regulation for space legislation"
+  },
+  {
+    "id": "9C3D5F90-73DA-4A0E-BBC7-B95BC277D669",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'expl ai ned' is 'explained' with highlighted formatting"
+  },
+  {
+    "id": "9F612E35-795B-41FA-BE0E-F9E9E764BC82",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Notes AI, connectivity, big data are interdependent opportunities strengthened by space"
+  },
+  {
+    "id": "ED98E4BE-9B3F-4B25-863F-DD8F92DBD198",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lable' is 'available' with highlighted formatting"
+  },
+  {
+    "id": "C7E214DA-B22E-48BB-B1A2-BCB3AB1FD811",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "448AC301-1C2D-4A9B-AB56-20680B996BA3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'grateful for comments on AI' in general context"
+  },
+  {
+    "id": "4AC53F30-CED5-4F82-8CF9-6E8EDCE0D99D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai m' is 'aim' with highlighted formatting"
+  },
+  {
+    "id": "4BFA20AC-362D-4D85-A7C0-8B2294F9F33B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about whether Parliament will have chance to look at AI use"
+  },
+  {
+    "id": "F9961DA1-62E0-4514-BA05-0F6BC0520CFD",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Question about disruptive technology including AI in defence industrial strategy"
+  },
+  {
+    "id": "1E01C467-4FA8-4497-8EEE-A62FCC25751D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cert ai nty' is 'certainty' with highlighted formatting"
+  },
+  {
+    "id": "7B710DB9-26DF-4FD7-A4AD-5D4DD4D9F815",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerned about reliability of facial recognition AI used by Home Office"
+  },
+  {
+    "id": "835996E4-DB51-44D3-9FCC-DF2710829CCF",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'dom ai n' is 'domain' with highlighted formatting"
+  },
+  {
+    "id": "F7BD1D59-7022-4DA7-AD16-8C8E5EE55367",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "B044ED53-7A28-4C03-A6E6-05B933453B6E",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'co-ch ai r' is 'co-chair' with highlighted formatting"
+  },
+  {
+    "id": "05361359-481F-4C63-88E8-3008150A0CC4",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai red' is 'chaired' with highlighted formatting"
+  },
+  {
+    "id": "F73649A6-BBB9-4F67-9FF7-89884B5A011E",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "493EDEE3-04CF-4902-A47A-12AB62D65F65",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai n' is 'chain' with highlighted formatting"
+  },
+  {
+    "id": "69E92665-74FB-4A12-B614-B91DFAAD64F3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lability' is 'availability' with highlighted formatting"
+  },
+  {
+    "id": "860B86F2-8A48-41D2-B75B-85F4A8434880",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Interested in how AI would resolve interpreter shortage challenge"
+  },
+  {
+    "id": "DE0B53A3-DB70-4601-8BDE-82413D8EDCAD",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Focus on artificial intelligence recommendations in interpreting services report"
+  },
+  {
+    "id": "D85D8335-A495-49AB-8385-6E73312C36B7",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with highlighted formatting"
+  },
+  {
+    "id": "B7B96CB6-0DEB-4EFD-812F-FF7DEFE5046D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'unf ai r' is 'unfair' with highlighted formatting"
+  },
+  {
+    "id": "FBB8C492-7BB7-41C2-A15C-5A683EF24EB2",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai r' is 'fair' with highlighted formatting"
+  },
+  {
+    "id": "6DC9601C-C8DE-44B5-A9FD-2D0188F3CE38",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "3332E361-BADD-4749-B096-02EFCD4BCCDD",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes rapid development of AI and importance for workforce diversity"
+  },
+  {
+    "id": "FEC6FC4F-EA57-4696-A404-1F02A8D6259F",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Supportive of AI opportunities action plan and tech sector growth"
+  },
+  {
+    "id": "39EFC9B3-6570-485E-AA9F-F353D30C1BC2",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Criticizes Government's haphazard approach to AI and copyright, questions compensation"
+  },
+  {
+    "id": "469D2E94-C39A-48C3-B1E2-265FDE29DF98",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Commits to protecting good-quality human content at heart of AI development"
+  },
+  {
+    "id": "A799CABE-E9F0-4636-B51D-5D4AEE6FC70C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' is 'against' with highlighted formatting"
+  },
+  {
+    "id": "85BB1F29-9B89-43A9-9899-12770BC69F36",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Question about steps to protect creative copyright in context of AI"
+  },
+  {
+    "id": "62EE9E9B-390E-493B-835D-7E7D8B752DF9",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sing' is 'raising' with highlighted formatting"
+  },
+  {
+    "id": "0BF78E5E-A331-4218-859E-7BF5EA28D24C",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Supportive of AI national conference and business involvement"
+  },
+  {
+    "id": "3FD63D5D-A413-45AE-8F05-EE0E836C152A",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Excited about AI growth zone and data centre investment, holding national conference"
+  },
+  {
+    "id": "EBB91A06-3AEE-480F-B66C-01C13F165695",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes AI and tech as bringing fresh chances for growth and opportunity"
+  },
+  {
+    "id": "3DF23ABA-A6D8-4FCE-AF45-C21131D372B5",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai n' is 'again' with highlighted formatting"
+  },
+  {
+    "id": "E7701021-7378-41CC-A811-78D86440E9FA",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'no-br ai ner' is 'no-brainer' with highlighted formatting"
+  },
+  {
+    "id": "E0D52A65-1290-46D5-A931-71A36443C85C",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Major concerns about security of digital ID scheme with AI advancement and cyber-attacks"
+  },
+  {
+    "id": "F82FF72F-FEC2-4F53-A886-B65C6831C8CE",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Strongly critical of putting vulnerable people subject to automatic AI operations"
+  },
+  {
+    "id": "C5A8E929-E35A-4029-8559-3D241844428F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "D84B9C38-CBFE-4DE3-A829-CA94EDB4E296",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI mentioned in 70% of meetings, embracing it to get advantage"
+  },
+  {
+    "id": "DFA35734-46C6-4351-BDA4-4EF792EE439F",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questions about changing procurement policy for UK cloud providers to deliver sovereign AI"
+  },
+  {
+    "id": "F7FA01F7-B139-44B1-B17D-FDAE9EA763B2",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "E27CBC2F-BA34-47D1-B765-4F16907263BA",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Supports AI in prisons as opportunity for low-cost training and engagement"
+  },
+  {
+    "id": "36AB287D-5AE5-4FB9-B439-66BA6CFED694",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'rem ai ns' is 'remains' with highlighted formatting"
+  },
+  {
+    "id": "1B8D4877-2D5F-4B44-AC46-9FDB2BF475C8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sed' is 'raised' with highlighted formatting"
+  },
+  {
+    "id": "AA0FEC28-83EB-472F-96B9-A3C6490A1508",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Notes becoming skills economy with AI and other skills needed"
+  },
+  {
+    "id": "D85CB67D-9106-4F24-A7EF-1EE132E56A68",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lable' is 'available' with highlighted formatting"
+  },
+  {
+    "id": "EAAFA9A4-B7C1-4872-804C-12452B02FC15",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with highlighted formatting"
+  },
+  {
+    "id": "A1FD6D1A-A6F4-4027-80B4-C9C149FA1C01",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "B7D36B3B-60EC-43DB-ADD7-E1411D3CCB7E",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'pr ai se' is 'praise' with highlighted formatting"
+  },
+  {
+    "id": "0B31AE57-ED2E-40E5-8C5F-578CEF1D52F6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with highlighted formatting"
+  },
+  {
+    "id": "8295CE3B-B543-4924-86E9-F1D9594A54F3",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Essential to look at impact of AI when addressing health inequalities"
+  },
+  {
+    "id": "41561CF7-D0CE-4E7B-94A1-43B147E0B09B",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "D75CE3AE-87A8-43D0-BF3B-762C6BB55F8C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai n' is 'chain' with highlighted formatting"
+  },
+  {
+    "id": "5D9E5FE6-1144-4B3F-A429-4B6655567BD8",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Need to look at AI systems to not automate bias and discrimination"
+  },
+  {
+    "id": "789477D9-78C6-4392-86C4-22E7A9392911",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "F189E932-BE6A-4B0E-BCBE-B7EE2854914C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "74F90D93-10E4-4797-B77F-88455D81B393",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK is leader in AI and automotive, should embrace bringing them together"
+  },
+  {
+    "id": "D568F890-ECE6-4CA3-88A4-6DC7B11C5E82",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Notes partnerships for new AI driver software in automotive manufacturing"
+  },
+  {
+    "id": "EA6CC0AB-0631-480A-95ED-218FB7B4D2BF",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Justice Transcribe using AI to dictate meetings saves probation officers' time"
+  },
+  {
+    "id": "5C2B2CA5-AAEA-4521-9B7C-1265C01A7EE7",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai ms' is 'aims' with highlighted formatting"
+  },
+  {
+    "id": "DABCE479-788C-43B1-8DD9-498995C2476C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lability' is 'availability' with highlighted formatting"
+  },
+  {
+    "id": "C74E28DE-30A5-4713-831F-C8135802AD0F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "A7A95BC3-37E1-4154-8B9B-E0D9F7966022",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cl ai m' is 'claim' with highlighted formatting"
+  },
+  {
+    "id": "16C80AB5-EF00-4F15-BA59-082CCAA5ADE2",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Highlights AI growth zone in Culham as specific government intervention"
+  },
+  {
+    "id": "C9B99119-F060-43D1-9C90-C14D641561EB",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Agrees digital/AI adoption will be central to solving productivity problem"
+  },
+  {
+    "id": "579378B8-100B-456F-8CE6-0D16B91064EC",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'co-ch ai red' is 'co-chaired' with highlighted formatting"
+  },
+  {
+    "id": "A80F1144-9933-4EFC-B007-9E55021A2A50",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Testing AI platforms to triage patients, seen how useful AI can be"
+  },
+  {
+    "id": "B0418B57-FD0E-443B-902C-B930CEBF3B50",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Transforming site into data centre to power UK's AI revolution"
+  },
+  {
+    "id": "A6826669-83CA-4078-8C1C-A4CBA8B1F0CD",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Determined Warrington will be at forefront of AI industrial revolution"
+  },
+  {
+    "id": "269806AA-8AAE-4039-B6BE-F3B602F285C0",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'rem ai ns' is 'remains' with highlighted formatting"
+  },
+  {
+    "id": "E1B61E15-EBFC-4C94-A89D-446EE77742F8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with highlighted formatting"
+  },
+  {
+    "id": "9F3B8E84-4A24-4190-A3EC-BFB2D42861CE",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government supporting flexible learning including online postgraduate courses in AI"
+  },
+  {
+    "id": "26DE622D-DE79-4945-9547-12B70FA1FA96",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about ensuring SMEs don't get left behind in AI adoption"
+  },
+  {
+    "id": "2F62FFCC-8BAD-40C4-A8F1-F5D5B4E42516",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'uncert ai n' is 'uncertain' with highlighted formatting"
+  },
+  {
+    "id": "C17DFCA2-549B-42C8-B246-3A79402567BE",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Question about accelerating AI training for UK workforce"
+  },
+  {
+    "id": "976C2841-7FB7-408E-B165-487CDF4E5338",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questions about rapid evolution of AI skills requirements and adaptability"
+  },
+  {
+    "id": "9C35B4F4-80A0-441C-9E5C-8FD7157FDADB",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about guarantee of funding for digital boot camps to develop AI skills"
+  },
+  {
+    "id": "4DE135E0-C66E-4CDD-97C9-BDC9257EDF9A",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Behind AI training, acknowledges powerful benefits from AI instruction"
+  },
+  {
+    "id": "835BFD2F-3498-476F-BDC2-25AC19E1EF04",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI central to UK growth strategy with strong economic results"
+  },
+  {
+    "id": "91D7055D-3CBB-4A8C-BA08-7C46903D2DD6",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government supporting AI workforce readiness through range of initiatives including Skills Hub"
+  },
+  {
+    "id": "619C87ED-3192-48CE-A2D5-FD82758A958F",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Acknowledges AI offers opportunities for creators but also concerns about content use"
+  },
+  {
+    "id": "FDD75846-7733-437F-BEF3-FF773AA06E56",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai r' is 'fair' with highlighted formatting"
+  },
+  {
+    "id": "712A97C4-01D5-4602-AADD-5BE318EF025A",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Criticizes juvenile use of AI-edited videos of parliamentary proceedings"
+  },
+  {
+    "id": "59A1B76A-E79D-4AB2-B4A2-D76752803551",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "E2BD5B45-88E0-4BDF-BF0E-3EF137A9485D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai rcraft' is 'aircraft' with highlighted formatting"
+  },
+  {
+    "id": "1E3E8D9E-B3AD-41A7-B16C-D9E65C8FCF29",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' is 'raise' with highlighted formatting"
+  },
+  {
+    "id": "B470AE8A-24A7-493E-B2FC-A8DDDB836D14",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Cl ai re' is 'Claire' with highlighted formatting"
+  },
+  {
+    "id": "DAE02244-4B41-4707-8713-C7C692BFEA3C",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about AI chatbots being entrusted with critical advice with fatal consequences"
+  },
+  {
+    "id": "091B900D-5E69-4952-8097-9231F048FBE8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with highlighted formatting"
+  },
+  {
+    "id": "251BE6E2-5CDF-432B-9D72-E99F6EA8A339",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Bl ai rites' is 'Blairites' with highlighted formatting"
+  },
+  {
+    "id": "5EBC629C-8F0A-481A-9C50-CC5DAAACCC6E",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerns about conflicting evidence on whether generative AI is covered by Online Safety Act"
+  },
+  {
+    "id": "B1A92DCA-4022-4CF3-BCF8-DAA81A1BDA1C",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Invites visit to see excellent work on robotics, AI and sustainable farming"
+  },
+  {
+    "id": "4A8674D4-6509-4330-95D9-169AA9FABB5B",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government tabling amendment to crack down on use of AI depicting child abuse"
+  },
+  {
+    "id": "E90CBB93-F7B4-4215-BE4F-C39689B8621F",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Focused on modernizing public services using power of tech, AI and digital ID"
+  },
+  {
+    "id": "C17790E7-B770-4693-BBE0-A136DE7C75C4",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with highlighted formatting"
+  },
+  {
+    "id": "C357BDCD-9B5D-4BDF-8EC4-100CD675BFF5",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'uncert ai nty' is 'uncertainty' with highlighted formatting"
+  },
+  {
+    "id": "13E160E2-9C7B-441D-8BB7-A57F75C74636",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' is 'raise' with highlighted formatting"
+  },
+  {
+    "id": "0EA0F4AE-2315-4DE5-B0BE-FB26F2D81092",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'uncert ai nty' is 'uncertainty' with highlighted formatting"
+  },
+  {
+    "id": "C7634F4B-9D19-4A94-BB5C-69B67C916935",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ch ai rman' is 'Chairman' with highlighted formatting"
+  },
+  {
+    "id": "F476EA69-C885-4620-BA16-EF035DBE24ED",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI is obvious fit for complex sentence calculation, asks for prioritization"
+  },
+  {
+    "id": "E6948FC3-BE24-40CA-91C3-C10D0E510FEE",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Welcomes quick action and measures including use of AI"
+  },
+  {
+    "id": "F3B71846-13E2-4D6E-BC20-ED011DBFEF72",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Simplifying processes, digitizing, using AI and technology wherever possible"
+  },
+  {
+    "id": "9E91D956-3DF4-4F43-8C83-84D68257A3AC",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'pr ai sing' is 'praising' with highlighted formatting"
+  },
+  {
+    "id": "565BBABC-633A-41D8-93FF-2ED16612B224",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about impact of AI on job market and government strategy"
+  },
+  {
+    "id": "C130FB07-5713-4C30-9B88-C9B3D6553081",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerns about ill-governed use of AI in policing reform"
+  },
+  {
+    "id": "E37D9EFA-FBC8-4A80-B2B9-45658B1EE640",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Evidence clear that embracing AI better for businesses, creates more jobs than displaces"
+  },
+  {
+    "id": "CB725B43-40DA-486F-B92C-AC0EEF0179B4",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'det ai l' is 'detail' with highlighted formatting"
+  },
+  {
+    "id": "5B243AA2-DF20-442E-93CC-C21F729379D0",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Will bring forward consultation on AI framework for policing"
+  },
+  {
+    "id": "5EA15834-B04A-4AEA-A518-A8E376634008",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI one of most important factors to embrace in justice system"
+  },
+  {
+    "id": "F218B262-FA8E-4044-817F-11C9D02324DE",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "93641593-4B74-4023-A45E-379F6DB61068",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Pl ai d' is 'Plaid' with highlighted formatting"
+  },
+  {
+    "id": "DF52E3D6-5E05-4DB5-A740-DEBE3177B6EA",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Concerns about misuse of AI by pernicious actors and catastrophic incidents"
+  },
+  {
+    "id": "6E190312-4D79-44CE-8661-D4186A65F02A",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Discussing AI developments and views of rights holders happening in real time"
+  },
+  {
+    "id": "A4811A5F-70C6-4154-98C7-2E1B93A31E7B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Notes UK's bespoke approach to AI regulation and international coordination"
+  },
+  {
+    "id": "67DC6261-93E4-46F0-9E49-3B79BD608E67",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Pl ai d' is 'Plaid' with highlighted formatting"
+  },
+  {
+    "id": "3B5590F6-67AD-4009-8DC2-AD94A4D1D98A",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with highlighted formatting"
+  },
+  {
+    "id": "66CC5B61-1A1B-469A-8FC8-B33531099726",
+    "sentiment": "neutral",
+    "confidence": 0.7,
+    "reasoning": "Cannot confirm timing of AI Bill, will keep Parliament updated"
+  },
+  {
+    "id": "A5CBFCA5-C6BB-4F56-BD8B-A0CA0893858D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with highlighted formatting"
+  },
+  {
+    "id": "06916738-0404-45FD-AD48-BBAE077F8952",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Strengthening media literacy education to navigate AI-generated content"
+  },
+  {
+    "id": "3AB1F206-13CD-450B-88AF-DE0A291E47C4",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Sovereign AI Unit's priority to secure UK access to best models"
+  },
+  {
+    "id": "BDDD6A22-A266-4666-BAAE-69BDA4BB27CD",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Calls for clarity, consistency and certainty in AI legislation"
+  },
+  {
+    "id": "4FF3E76D-9A68-4804-8F5F-AEF0DBFB24F5",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Notes AI already regulated in UK with context-specific approach"
+  },
+  {
+    "id": "2853463D-697E-475F-B472-ADACEE28D34C",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI Security Institute tests models and provides evidence on emerging AI risks"
+  },
+  {
+    "id": "15E49C00-1E12-4D78-9804-A5187DAAF65E",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about whether digital identity scheme interaction with AI included in consultation"
+  },
+  {
+    "id": "95A7C00D-4C23-47C5-8645-084E8B6CCB12",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Good news that UK AI sector is booming with investment in AI and agentic AI"
+  },
+  {
+    "id": "AB40645C-8628-4242-A6ED-C2F37C3AEF51",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "FCB1F3F8-FE73-4CDE-A73D-F102F4E0CCAE",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Data infrastructure underpins economic activity including AI development"
+  },
+  {
+    "id": "DC1F2DDA-01B9-4200-AFC6-0FA0D496F70E",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai sed' is 'raised' with highlighted formatting"
+  },
+  {
+    "id": "B2BC6018-D982-41B5-BCCF-3372A5B44BCE",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Introduced amendments to counter risks of AI to children's safety before models released"
+  },
+  {
+    "id": "DE26D113-4B86-4C3C-98EF-6EA8F5C5E92B",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "A8F5AC56-82A3-4EBD-89AD-8017A423C7C3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai n' is 'again' with highlighted formatting"
+  },
+  {
+    "id": "FECCC8CE-E280-4BB1-BBEC-79778376F768",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'cont ai ning' is 'containing' with highlighted formatting"
+  },
+  {
+    "id": "7B37AD32-0441-461C-BB28-0AD1DE09B59C",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about people seeking incorrect mental health information from AI chatbots"
+  },
+  {
+    "id": "C672C2B7-C5A0-46BB-A6C6-E5BFD82D6435",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ai m' is 'aim' with highlighted formatting"
+  },
+  {
+    "id": "C2B5A347-0448-4D82-A61B-46F7944DA5CD",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'g ai ns' is 'gains' with highlighted formatting"
+  },
+  {
+    "id": "03E31A5D-7A94-43BC-B85A-F5D6B4BCECB5",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about ChatGPT/OpenAI allegedly encouraging children to take their own lives"
+  },
+  {
+    "id": "984E9424-CCEE-45C5-A5F7-B568A0D8DC4C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ret ai n' is 'retain' with highlighted formatting"
+  },
+  {
+    "id": "6815F170-33D4-426D-A2CC-AA243293C8C8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with highlighted formatting"
+  },
+  {
+    "id": "16D3E6A7-8CD3-426F-8DEC-D358A63F297D",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "11242D37-E753-45D9-970B-955B1F3AB98C",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'h ai r-shirt' is 'hair-shirt' with highlighted formatting"
+  },
+  {
+    "id": "6157F3C4-ED08-419C-BAE8-6DC40FE15797",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about unregulated/dangerous AI tools being used for mental health advice"
+  },
+  {
+    "id": "91FBFAE3-6505-4EB7-B804-F2E2A02BF8BA",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with highlighted formatting"
+  },
+  {
+    "id": "3F92A3FC-BF7F-498F-8564-FA518F41CE6F",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ting' is 'waiting' with highlighted formatting"
+  },
+  {
+    "id": "DECA4CD1-605A-4942-8BB2-DF41AAA46E6B",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai ling' is 'failing' with highlighted formatting"
+  },
+  {
+    "id": "A076E386-C7AD-4C80-84F3-70C11F13F4CB",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government committed to ensuring AI adoption is ethical, safe and responsible"
+  }
+]

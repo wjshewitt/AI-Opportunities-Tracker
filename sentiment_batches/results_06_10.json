@@ -1,0 +1,1820 @@
+[
+  {
+    "id": "701C9C6F-4194-4CAA-AE2A-D8B87CCC2877",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting artifact"
+  },
+  {
+    "id": "20F2223C-99B3-4A91-83A3-97E2742CFFA5",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Discusses companies publishing AI safety policies as competitive boost"
+  },
+  {
+    "id": "2619062B-EAEF-46AD-A8D7-27C1658E32CD",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about data concerns related to AI without clear stance"
+  },
+  {
+    "id": "A4F86846-6BF2-47F7-85C5-536C04EB453C",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supports developing generative AI for healthcare benefits like retinal scans"
+  },
+  {
+    "id": "C881A8BD-BFD2-4F86-BCAA-EBC096EC4C55",
+    "sentiment": "positive",
+    "confidence": 0.90,
+    "reasoning": "Praises UK investment in AI safety and development as world-leading"
+  },
+  {
+    "id": "10E63DFE-3196-4C5E-9071-13B2A69D7F8A",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Criticizes absence of regulation, suggests UK companies will be constrained by EU/US rules"
+  },
+  {
+    "id": "AF5DD9A5-C0F0-495D-B719-1195F758EDE5",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' referring to maiden speeches"
+  },
+  {
+    "id": "945DEDA6-28D6-4CF6-9131-20554FEBB0B9",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' referring to maiden speeches"
+  },
+  {
+    "id": "D61F4803-1431-4F52-A7F8-EB6F0D2DBAC4",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Discusses difficulty of AI regulation across jurisdictions without taking strong position"
+  },
+  {
+    "id": "853211E4-DEB8-4D62-A228-FEFAB5DE39B0",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Notes need for cross-regulator work on AI, factual procedural statement"
+  },
+  {
+    "id": "D7191599-6E85-4AD5-A9EC-975FBDB4D53A",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' referring to maiden speeches"
+  },
+  {
+    "id": "629D61F6-8965-4027-A905-C2AAAF07E8BC",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' referring to maiden speeches"
+  },
+  {
+    "id": "D211277F-A5A2-4D80-B1FD-0C79D2D8E8D7",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Government response about not committing to new AI legislation at this stage"
+  },
+  {
+    "id": "386AC982-5B08-4998-8058-783750374553",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Quotes AI expert suggesting premature to regulate, balanced discussion"
+  },
+  {
+    "id": "47729079-9338-49C3-8F48-F698CFBF394C",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with Hansard formatting"
+  },
+  {
+    "id": "0A2BB64D-234D-4915-813A-E06895AC52F5",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'ag ai nst' is 'against' with Hansard formatting"
+  },
+  {
+    "id": "BBF12DC3-BDD1-4F61-B14E-ADE58C405B4E",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with Hansard formatting"
+  },
+  {
+    "id": "5CE5AA40-A143-4D6E-AB62-FE60D8ABADEF",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Government response noting interoperability needs and existing regulation"
+  },
+  {
+    "id": "D6366FBC-C8C4-4E8F-BBEA-D089F3BB022A",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Encouraged by White Paper on AI regulation extension throughout economy"
+  },
+  {
+    "id": "35A2863F-D8AF-4D5F-8D23-393D292265E4",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'str ai ght' is 'straight' with Hansard formatting"
+  },
+  {
+    "id": "0E787C7A-F8D5-4429-A326-6D399C4A1F4C",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'rem ai ning' is 'remaining' with Hansard formatting"
+  },
+  {
+    "id": "42E3A2C8-8FC4-4D9C-9DAB-C04C7C92465B",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'g ai ned' is 'gained' with Hansard formatting"
+  },
+  {
+    "id": "C43F7748-F9F6-4F21-8753-72CEF076346D",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Notes AI already delivering huge benefits to patients in hospitals"
+  },
+  {
+    "id": "66DF34EB-A8C8-4EA8-9E36-451EEFBBF07E",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Political jab referencing PM as 'first AI PM', satirical not substantive"
+  },
+  {
+    "id": "13E15EF6-4F65-4C9F-A622-F1E8740B52EE",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about GCHQ warnings of hostile AI deepfakes disrupting elections"
+  },
+  {
+    "id": "58534F1F-7DE4-4EBC-8359-8E97B091AE3B",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about tackling harmful AI-generated content"
+  },
+  {
+    "id": "7623E011-2203-4B77-AD9D-5094E505FC2F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about tackling harmful AI-generated content"
+  },
+  {
+    "id": "7BD427D8-0B2F-4638-8382-D8D4E31822EA",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'r ai sing' is 'raising' with Hansard formatting"
+  },
+  {
+    "id": "6317CB5D-E5FC-44C5-A53D-691AC2BD0897",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about steps to regulate AI"
+  },
+  {
+    "id": "D7FEC4B7-D8D0-4BB2-99C9-772D27AD18E8",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about why AI regulation legislation not in King's Speech"
+  },
+  {
+    "id": "503F8B62-35A4-4DEE-8492-E51407725AC6",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Government response on contextual AI approach, working with US"
+  },
+  {
+    "id": "C6235193-7BCA-4689-B3BB-9F7BD0D7F8C1",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "References AI revolution positively regarding skills for young people"
+  },
+  {
+    "id": "DC880A0E-7577-4F7C-8129-AC3198575987",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'aff ai rs' is 'affairs' with Hansard formatting"
+  },
+  {
+    "id": "8CEA476E-C1F7-4599-A173-3ECDF9DC8FF4",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI Safety Institute to look at risks while encouraging innovation and growth"
+  },
+  {
+    "id": "784C104F-6A69-40FD-94D0-9AA00633C9BF",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Criticizes government for doing less than Meta to curb AI electoral misinformation"
+  },
+  {
+    "id": "77F784C6-C753-4649-94AC-52936B12EC15",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "References global AI safety summit with 28+ countries, pragmatic approach"
+  },
+  {
+    "id": "9F3FD843-52FE-4004-9662-91C83FA132A7",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Criticizes blocking Scottish Government from AI safety summit"
+  },
+  {
+    "id": "E14D30D4-A8C8-4739-92B0-CA995FE267F8",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Online Safety Act designed to regulate AI-generated content and deepfakes"
+  },
+  {
+    "id": "6DF01B0F-509F-4C47-B7FC-9627D2F4F1FE",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government established AI Safety Institute and central AI risk function"
+  },
+  {
+    "id": "F3C17963-3B03-4246-8807-9389BA6F9BE2",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'obt ai n' is 'obtain' with Hansard formatting"
+  },
+  {
+    "id": "BC4AECC2-748D-4FB0-BCC0-40D08E4AEF4A",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'obt ai n' is 'obtain' with Hansard formatting"
+  },
+  {
+    "id": "682E2005-820D-4877-9868-98611B875ED3",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about AI data mining exemptions undermining artists and musicians"
+  },
+  {
+    "id": "BDFA0E31-4FCB-4E77-8E99-426180459DBD",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about AI impact on creative sector"
+  },
+  {
+    "id": "8BB222BD-731E-4081-AC80-50FB5362E8E1",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about AI impact on under-represented groups in creative industries"
+  },
+  {
+    "id": "6A2FDF19-EB4F-48BA-9F0F-A1625D2C0C00",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI offers huge benefits and opportunities to creative sector"
+  },
+  {
+    "id": "2209AC7D-0CDB-4824-BCA0-F6C58B829F13",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Work on AI regulation framework, studying algorithmic bias issue"
+  },
+  {
+    "id": "C26AC3EA-1515-4E06-95C5-8F4C6D8EAB18",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Work on AI impact on creative industries ongoing, more coming soon"
+  },
+  {
+    "id": "8E01FD8B-ACCB-40F2-A375-420440A28000",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI already benefiting creative industries, represents real opportunities"
+  },
+  {
+    "id": "295A4F16-F818-4730-84F0-FE1AC5044DF8",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Hosting roundtables to discuss AI risks and opportunities for journalism"
+  },
+  {
+    "id": "87B364A2-2241-4D22-A490-48810586A3A2",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "States people make best culture not AI, mixed view on tackling AI"
+  },
+  {
+    "id": "A16926F2-4A14-42CB-B2CD-6800BF7E2B1E",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Creative industries let down by Tories, no response on AI concerns"
+  },
+  {
+    "id": "FDE562EC-5D8D-4B0F-BF9C-613F0AE87972",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Concerns AI systems reinforce biases in creative works through training"
+  },
+  {
+    "id": "9436D896-4849-4E18-B1FF-73544D91BFAD",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai n' is 'main' with Hansard formatting"
+  },
+  {
+    "id": "C0748509-9324-45D1-A9DD-78B4B9B1304D",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'L ai nston' is 'Lainston' place name with Hansard formatting"
+  },
+  {
+    "id": "CA496624-C0B9-47E1-8473-52C0BAF882C4",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'f ai r' is 'fair' with Hansard formatting"
+  },
+  {
+    "id": "97B8785B-BCCD-41C2-9A49-CFD035D9B089",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'ch ai rship' is 'chairship' with Hansard formatting"
+  },
+  {
+    "id": "B23694C1-7DAF-469C-9533-19AF817E3872",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'ch ai r' is 'chair' with Hansard formatting"
+  },
+  {
+    "id": "C31C03A5-60BA-49D0-AB12-CC90FB27B4C2",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting"
+  },
+  {
+    "id": "24F29E87-3F45-498D-A86B-4486792719CE",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'p ai red' is 'paired' with Hansard formatting"
+  },
+  {
+    "id": "5C0BF1E5-7EF0-4D0D-A6BA-70B7D75AAEFC",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'p ai d' is 'paid' with Hansard formatting"
+  },
+  {
+    "id": "AC390AD8-0BA7-4D48-90E7-2B1250E0A52E",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with Hansard formatting"
+  },
+  {
+    "id": "A56BFBA5-40A5-48E1-9546-EE51479E0750",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'em ai ls' is 'emails' with Hansard formatting"
+  },
+  {
+    "id": "74D4C147-754A-48CB-ABA8-1C9B97A3E359",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Government working with AI in Education, noting their resources"
+  },
+  {
+    "id": "EBA93471-990D-419B-9024-1CB19EEB9C6D",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'r ai ses' is 'raises' with Hansard formatting"
+  },
+  {
+    "id": "99488654-3521-4554-B28A-E26062E00CF7",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'ai rport' is 'airport' with Hansard formatting"
+  },
+  {
+    "id": "82A80BBF-2314-4FC3-89D8-E647E3AA01D8",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'entert ai ning' is 'entertaining' with Hansard formatting"
+  },
+  {
+    "id": "904BB7D2-0C1D-4D06-BA46-B530956322FF",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government has test-and-learn approach with extreme caution on AI in DWP"
+  },
+  {
+    "id": "F721AE54-DD8A-4A36-AEDF-32446D1A5279",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'det ai l' is 'detail' with Hansard formatting"
+  },
+  {
+    "id": "9646B17A-1DC1-4647-AF4B-E72382BDDABD",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'tr ai ned' is 'trained' with Hansard formatting"
+  },
+  {
+    "id": "2844D472-147D-46FC-B361-FC68FE49FDBC",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "DWP has AI steering board and assurance group, proven track record"
+  },
+  {
+    "id": "E3E186D7-66A8-482C-A2D8-3ABEC51B4723",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Welcomes DWP using AI to target fraud with human review processes"
+  },
+  {
+    "id": "EA2422D9-1037-479C-B80D-C57B84A4C4A2",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Notes importance of trust in AI solutions across users"
+  },
+  {
+    "id": "E73EE119-9E20-4A0A-8BE1-E4F4FE95DDEF",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'cert ai nly' is 'certainly' with Hansard formatting"
+  },
+  {
+    "id": "7B824A66-26D4-4435-9CFA-783EA892D584",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'r ai ses' is 'raises' with Hansard formatting"
+  },
+  {
+    "id": "00BA60FD-5111-4174-8980-2582EF784AF1",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "DWP using AI to combat fraud but not replacing human judgment"
+  },
+  {
+    "id": "E0069A9B-C4D0-4CF3-8F4D-FFC0A2613A28",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting"
+  },
+  {
+    "id": "FC2BD577-B4B3-4D36-AB81-3C175372F1FA",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "DWP investigating generative AI to improve services and customer experience"
+  },
+  {
+    "id": "BF8B7206-AFF0-4C30-816A-695DBFC3BA0D",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'Ch ai r' is 'Chair' with Hansard formatting"
+  },
+  {
+    "id": "68D9A3C8-C4A8-42A2-8B4A-1EBAED8885F8",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'r ai sed' is 'raised' with Hansard formatting"
+  },
+  {
+    "id": "1364D9C8-4056-45DE-A153-E23BB48D2424",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'dom ai ns' is 'domains' with Hansard formatting"
+  },
+  {
+    "id": "7D40893F-EAF1-4063-9914-78E4FC1D8F5D",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Discussion of AI and robotics for vetting searches with human decision"
+  },
+  {
+    "id": "DF27368D-FC74-4A30-90EE-7A356EBD1EA6",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'r ai sed' is 'raised' with Hansard formatting"
+  },
+  {
+    "id": "45566BD9-A69A-478A-8D42-CB221EE60BE1",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Context matters for AI bias risks, letting regulators apply guidance"
+  },
+  {
+    "id": "524FFA22-DF80-4FEA-B210-946728AB1AC5",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI regulatory system in development, summit made good steps"
+  },
+  {
+    "id": "0DC5B81B-91E3-44AF-96AF-9A9349F9063C",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI safety summit with 28+ countries plus EU on Bletchley declaration"
+  },
+  {
+    "id": "A5F6ED06-19F5-49C4-94CC-A57CC89C887E",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI systems should not discriminate, fairness is core government principle"
+  },
+  {
+    "id": "0D20CF00-BB5A-4E94-8497-529E7B94F09C",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'f ai lure' is 'failure' with Hansard formatting"
+  },
+  {
+    "id": "36060EF0-24D6-419E-9AF7-3EF2469A8008",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Optimistic about AI but concerned about digital exclusion from report"
+  },
+  {
+    "id": "05860707-408F-40FD-8AAD-D42DB0EF976B",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about ensuring citizens not excluded from AI services"
+  },
+  {
+    "id": "3AA0DFC4-3E6D-4E9B-B10C-F31C70E33B7E",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Questions about AI labeling and data opt-in/out, public trust essential"
+  },
+  {
+    "id": "29A0E8FC-52CE-42C9-8BDD-2940821E6518",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI will make life easier and more accessible, like GOV.UK front ends"
+  },
+  {
+    "id": "711EFA19-8840-467D-BD71-D4A1F63201C2",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Mentions artificial intelligence changing online environment, descriptive"
+  },
+  {
+    "id": "74FF69CA-FBC7-4E91-9886-DADC5A00C968",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "UK has world-leading expertise in AI, robotics, creative technologies"
+  },
+  {
+    "id": "AF35FDA1-9779-416D-9358-236781FAB534",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about government response to AI software in schools"
+  },
+  {
+    "id": "40F36607-7A29-4BE8-8F5E-11D5F60E850B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questions limitations of digital strategy, asks about Online Safety Bill"
+  },
+  {
+    "id": "9FF12773-8E78-408A-AAD0-6AFFDFBFAB92",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Government considering copyright and IP issues from AI Office"
+  },
+  {
+    "id": "889678DD-1AE7-413E-90D9-19710B0E7DB5",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Warning that AI lacks empathy, serious disadvantage despite benefits"
+  },
+  {
+    "id": "7FC8037C-F164-4AA8-A601-2D03BE81A5EE",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Need for more AI and cyber apprenticeships with NCSC cooperation"
+  },
+  {
+    "id": "FAE57B99-E38D-4B18-890B-AA00B80AC550",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about UK-China AI research on face recognition used to identify Uighurs"
+  },
+  {
+    "id": "AB12043D-4F4C-401F-A980-8AA4B0D8D712",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Fake news concern: rapid AI development spreads holocaust denial"
+  },
+  {
+    "id": "328E7198-A1D2-40A9-8F32-172A42EAF8CC",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerns about AI copyright exemption destroying protections for creators"
+  },
+  {
+    "id": "DBDCA5FB-4680-4D12-8B22-CE7F0DEB4013",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AUKUS pillar 2 includes AI, hypersonics, cyber - critical technologies shared"
+  },
+  {
+    "id": "E7350C0B-A351-47CB-9D88-F8614AAFCBC0",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about RAF-Imperial College MOU impact on AI capabilities"
+  },
+  {
+    "id": "9FEC55D1-D238-4E68-94C5-0E5DB1CB22A6",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Digital and AI central to RAF capability with significant investment"
+  },
+  {
+    "id": "E4C71512-16E5-44AB-AC11-E26E90A82A82",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Committee appointed to consider AI in weapon systems, procedural"
+  },
+  {
+    "id": "B634BD2B-0C17-4712-BFF3-B9DD755D8C31",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government unleashing innovation across AI, financial services, other sectors"
+  },
+  {
+    "id": "B2AC2FD1-8903-4C86-A975-4A2781FC6711",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI could detect at-risk users, balanced view on risk assessment"
+  },
+  {
+    "id": "15B1B5CD-A0DA-4D06-90F6-B519D15B3D1E",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Notes need to respond smartly to AI space changes for child safety"
+  },
+  {
+    "id": "87C07EA4-3B64-4F38-A0FE-8B84EF1A3AAA",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "United condemnation of AI proposals affecting IP rights for creative workers"
+  },
+  {
+    "id": "8A23244D-8BE9-4E47-B33F-61D9D3EE1E72",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural resolution of debate on AI impact on IP rights"
+  },
+  {
+    "id": "F56359CC-F348-48FE-B786-DBF137F9F52F",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Member of AI Committee noting slow progress on Online Safety Bill"
+  },
+  {
+    "id": "3648F497-0DDC-4370-9D54-8DFF21AA4730",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Opening debate noting AI impact yet to be fully felt or understood"
+  },
+  {
+    "id": "1CAE1352-ABF5-40D3-84D1-DDED1A20F7DA",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Describes rapid AI advancement, inhuman speeds of text/image generation"
+  },
+  {
+    "id": "3AA424DA-B6BB-4708-A37E-3C17508ADB97",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Educators need assurance about AI and algorithms not harming children"
+  },
+  {
+    "id": "1ED45529-9198-4218-9FE5-E3DA8A5A3E35",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Need sophisticated AI not crude algorithms, accepting AI makes mistakes"
+  },
+  {
+    "id": "F26C0421-839C-4CB3-8060-23CA19B358FB",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Reform opportunities in AI, data, transport, energy to support growth"
+  },
+  {
+    "id": "A46E0325-BEF4-4B19-90A6-77081375DEA3",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "On verge of AI technological revolution requiring smarter agile ways"
+  },
+  {
+    "id": "F120087C-6879-49C1-8FCA-237FA2CB61B0",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI among changes making regulatory structure competitive opportunity"
+  },
+  {
+    "id": "D886C8BE-7C55-4249-9094-E955DF64F5A5",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI and robotics improving efficiency in services like banking"
+  },
+  {
+    "id": "8C915EA9-21C2-4051-84B7-2E537B586E27",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Concern about everyone communicating with AI systems or robots"
+  },
+  {
+    "id": "FBE242CF-63F7-4EFD-83D8-4A42C4309E35",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Support for improving regulation in AI and advanced manufacturing"
+  },
+  {
+    "id": "6F76BEFB-0FEC-4B22-9C56-8E87FE254AA4",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI and VR profoundly changing work, requiring higher specialized skills"
+  },
+  {
+    "id": "8D003EA8-668E-4172-B20A-20870A0CDBF7",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI and robotics present opportunities with proper transition and learning"
+  },
+  {
+    "id": "E48D81ED-0B52-4521-8CAB-39A82B2FB5AD",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI revolution makes lifelong learning more urgent than ever"
+  },
+  {
+    "id": "90501EFF-447B-4081-B7E5-F2C3A569AC14",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI among novel challenges requiring UK courts to adapt without EU constraint"
+  },
+  {
+    "id": "F8F8CEBF-72DF-4AAB-A92C-960A4EA56D5D",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concern about AI eroding human override in military decision-making"
+  },
+  {
+    "id": "66B7D39A-2336-4EB0-B67D-DE4405E91666",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Investment in AI technology can aid clinicians, improve outcomes"
+  },
+  {
+    "id": "644FD4A7-0DDE-48DE-B307-CEA60C4D4547",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about how AI will help Companies House with increasing data"
+  },
+  {
+    "id": "2AC749E2-8036-47F8-8F04-6E71E0C61D7D",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Investing in AI among key growth industries for British economy"
+  },
+  {
+    "id": "F5D6EB2B-3C49-4A5F-B369-B15A9347A527",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Humorous question about whether Civil Service has AI, then praises officials"
+  },
+  {
+    "id": "AC8CAD56-981E-41F0-88A0-0ECE651148FE",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Response that with AI one cannot be too sure, light remark"
+  },
+  {
+    "id": "A07EF471-7BAC-4943-8E7B-8670E6C56DB7",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Reforms underway to AI, data protection, life sciences to boost growth"
+  },
+  {
+    "id": "DBCE27B5-79DD-4341-8499-4574DFE71971",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Creating best regulatory environment for AI and future technologies"
+  },
+  {
+    "id": "EF8C9557-3DDA-49F5-BEB8-59423637FD5D",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Looked at AI from moving vehicles for litter but not cost-effective yet"
+  },
+  {
+    "id": "53A5D705-E0E4-4730-A1BB-D1D03686ED8B",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Range of initiatives including AI to manage demand and improve care"
+  },
+  {
+    "id": "46B98D8F-2176-418F-92E2-032240347B2B",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Huge AI opportunities for health inequalities, better targeting with consent"
+  },
+  {
+    "id": "D94353EA-C495-4EA6-B687-E85080236540",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI is enabling technology driving digital age, requires human intervention"
+  },
+  {
+    "id": "7294E7ED-2884-4238-8269-22FDF6B8EAC9",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Need to ensure people can critically evaluate as AI advances"
+  },
+  {
+    "id": "946236FE-D947-44C9-8B2C-98A687DF46DF",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Equality Act protects against AI discrimination, existing regulations apply"
+  },
+  {
+    "id": "3499FE0B-4B52-4690-A9BE-90BD7BF02B16",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI will displace 85M jobs but create 97M new ones by 2025"
+  },
+  {
+    "id": "2EDAA940-7AD9-45AA-B536-A5EB5F01B4E3",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Plea for rights-based approach to AI with workers' voices at heart"
+  },
+  {
+    "id": "FA79A6F7-A362-41D2-AA96-70F74DAAEB9D",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Government publications failed to address AI's role in the workplace"
+  },
+  {
+    "id": "F2B875E9-26A0-4E3A-A648-3C4ED241F3C3",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural resolution of debate on AI impact on labour market"
+  },
+  {
+    "id": "84A3C893-7A45-497D-993A-F65D4563B1B1",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Workers increasingly managed by machines using AI technologies"
+  },
+  {
+    "id": "ED8E8F99-66DA-42BF-90ED-2E8DD87C7466",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Politicians rely on various sources; AI speech already given in Parliament"
+  },
+  {
+    "id": "1A5B06FA-3A72-4236-8F94-12F900383865",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Previously worked with AI company, seen fast evolution of technology"
+  },
+  {
+    "id": "3F346FCF-C4A4-4210-9111-DBC285409C86",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Technical explanation that AI is artificial intelligence not generalized"
+  },
+  {
+    "id": "C1AE5F9D-62E5-4397-81A5-8ABA63893899",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI is applied statistics, Science Committee studying for some time"
+  },
+  {
+    "id": "9A5B4C06-2BA0-43A9-96D1-66045C2ABCB9",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI becoming part of daily life with enormous potential benefits"
+  },
+  {
+    "id": "948D39F6-E10D-47A0-8ABB-B3A7BA638A4F",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural notice about AI debate winding up timing"
+  },
+  {
+    "id": "694A6804-F5CF-4BB2-BB8D-8379EA54B84B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Opening debate statement, AI already with us but future impact unclear"
+  },
+  {
+    "id": "AB465DCF-2B52-4730-A018-B0FBA937A44C",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Case for technology revolution in British people's interests not against"
+  },
+  {
+    "id": "835B1488-3690-464C-BE0A-4BB772402EB6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Everyone talking about AI, article caught eye about local developments"
+  },
+  {
+    "id": "BEB57FEA-6D55-4245-ACF7-0014B3B6A4AC",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Need to understand where AI loopholes are and regional impacts"
+  },
+  {
+    "id": "5D39D863-A544-46AB-8F80-400D29BEC94B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Remembers first engagement with early AI program ELIZA"
+  },
+  {
+    "id": "8458BB1D-1550-4FCA-AB09-0DA7203F877E",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "AI will know how to do most harm, trigger people, fool and deceive"
+  },
+  {
+    "id": "2730AF75-EE9B-453D-9B9A-7764AD20D2D6",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI has tremendous potential contributing £3.7bn, incredible innovation seen"
+  },
+  {
+    "id": "5E8FEA79-6ADD-4A83-91AE-974DB5203162",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural resolution thanking for AI debate, PM to play important role"
+  },
+  {
+    "id": "57A6C44E-DFF5-48B6-9AC2-59A831B05253",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI-generated letter about constituent concerns on AI risks"
+  },
+  {
+    "id": "339B028A-7C23-4135-ACF3-0F7E75EF54D7",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Machine learning/AI tools assess content for illegal material in Bill"
+  },
+  {
+    "id": "64E2603C-FF9A-45B2-AD0E-4B8BFB5290D5",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Other economies with proactive AI approach fast overtaking us"
+  },
+  {
+    "id": "33595EBD-5CF7-4448-B42E-E1FF31E6CC39",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Meta investing in AI tools for engagement, advertising effectiveness"
+  },
+  {
+    "id": "86473994-FD74-4572-8915-C27AF978C8E5",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "References Geoffrey Hinton AI architect being aghast at creation"
+  },
+  {
+    "id": "5867BB8E-B617-4A0B-96B7-C90DDD7ACD16",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "More algorithmic trading and AI in commodity trading, need care"
+  },
+  {
+    "id": "ED1C1166-2CF5-4472-A1DA-C1D09DA4333C",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Organizations using AI technology to encourage peace in region"
+  },
+  {
+    "id": "11746974-D6BB-4FF8-987F-C22740325D69",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK renowned for computing and AI developments, forefront of innovation"
+  },
+  {
+    "id": "F8F601C0-F309-4CDC-8C30-53CAEF7FB4A6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "More we integrate AI in decision-making, more acceleration increases"
+  },
+  {
+    "id": "DB728347-E238-4C80-81FF-E2A7C85A38D9",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about steps to ensure effective AI regulation"
+  },
+  {
+    "id": "95F8AE5A-CBD8-4622-ACF0-C9417F16281D",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI plays vital role, helping diagnose cancers faster, powering devices"
+  },
+  {
+    "id": "90396339-DC9C-4918-A533-60E8300041EE",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Concerns about AI fake videos/images/audio threatening democratic processes"
+  },
+  {
+    "id": "EF1A07CF-D858-4EAC-A5C3-11A5A07C1B43",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Asked ChatGPT if bot can act reasonably, technical exploration"
+  },
+  {
+    "id": "5D5CF132-5F2C-4D2A-9098-9F89E33AA730",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI has no ethical constraint, platforms designed for business model"
+  },
+  {
+    "id": "A44298F0-A2EF-4E1C-959D-8876A8C375EC",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI in demand management presents significant opportunity for NHS"
+  },
+  {
+    "id": "EA4EAB41-CD8B-4C8A-AE26-99CCF2B05652",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "GDPR needs updating for AI and technological developments of past 5 years"
+  },
+  {
+    "id": "7F55D917-6695-46B5-9ED9-AD0CB968ACF7",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Caution against AI algorithmic hiring without human interaction"
+  },
+  {
+    "id": "307BE9ED-12B8-4015-A259-E6C5BC6ABB18",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Surgery videos to create AI for better outcomes was challenging but useful"
+  },
+  {
+    "id": "8F85FB9E-4113-45AD-9A38-3F46638324AE",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Role for ICO to patrol AI boundaries, needs appropriate funding"
+  },
+  {
+    "id": "9167F864-8464-4A7F-8D1F-1D27E1404374",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Need future-proofing for speed of generative AI innovation and change"
+  },
+  {
+    "id": "A0485C88-233C-4AA2-80B2-08F98C9EA07B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Risk of re-identifying pseudonymised data with AI and huge datasets"
+  },
+  {
+    "id": "798A9659-2BAD-43B6-A4AE-6C4016D18193",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI has power to revolutionize services, need to work with allies on risks"
+  },
+  {
+    "id": "3E97B76E-B5A8-47BF-A183-B627E4D52782",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Tech sucked up data, manipulated with AI, brought out worst in humanity"
+  },
+  {
+    "id": "97744EA1-FF20-476F-8584-5DFC249DA613",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Need increased media literacy especially with AI to evaluate information"
+  },
+  {
+    "id": "8ECE6735-F8A4-4A89-B346-906323CF54EA",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Need to understand machine learning, neural networks to understand AI"
+  },
+  {
+    "id": "67FB60B2-525E-419C-A2AB-C75900EBCB97",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Computing curriculum includes programming, algorithms, AI and data science"
+  },
+  {
+    "id": "EF23B3F2-7962-4BE1-B508-9CD43CCDD781",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "MHRA awarded AI contract with no tendering, huge conflict of interest"
+  },
+  {
+    "id": "7F9F0B7D-7C7C-4EDF-BA7E-3BFE1DA775AC",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about how new technologies including AI ensuring not needing beds"
+  },
+  {
+    "id": "D4BBC241-C3F5-4724-ABB9-D152516AA19B",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Need to keep world-class AI technology safe in UK for economy"
+  },
+  {
+    "id": "9A23F5B6-95F0-4FAD-B4B3-833D408407DB",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Two elements: being ahead with AI opportunities, and resilience challenges"
+  },
+  {
+    "id": "04695B5F-97AA-459D-A770-B5A32347C1D7",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Increasing concerns about AI pace, potential to dehumanise world"
+  },
+  {
+    "id": "92055244-F69A-4ED6-A7DC-EAF3DDBAE6AB",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Concern about AI cross-referencing tools removing continuous data review obligation"
+  },
+  {
+    "id": "435A8B82-63F8-47D1-8866-54C9DAA826DE",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI could increase UK GDP by 10.3% by 2030, saving lives with vaccines"
+  },
+  {
+    "id": "7CC312C2-9D25-43F5-8803-D91F7355D04F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI not forward looking, it's here; importance of forward-looking regulation"
+  },
+  {
+    "id": "3B08C0BE-28DA-4308-8689-099E84DB9200",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "As AI advances need four-day week, universal basic income reset"
+  },
+  {
+    "id": "8F0F6144-05EF-4B91-84C9-730D8AF76EC7",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Government's wider AI approach set out in White Paper under consultation"
+  },
+  {
+    "id": "BED16053-C843-4887-9590-F743A51EBBC1",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI can bring huge economic and social benefits for UK and partners"
+  },
+  {
+    "id": "DBD417A5-4E78-416A-ADE4-088A5C056935",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI massive opportunity but need to counter Russia/China efforts"
+  },
+  {
+    "id": "8221245B-8DCD-4F0B-BC95-EAAAE4DD80FF",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI will impact international relations, asking for scrutiny reassurance"
+  },
+  {
+    "id": "4339F5F5-127B-4EE4-AD10-DF9CCC10189A",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI presents opportunities and threats, many impossible to quantify"
+  },
+  {
+    "id": "5B8B46E8-CCF4-46C4-B05F-1D4F3E36EF3E",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI has opportunity to revolutionise lives, committed to unlocking benefits"
+  },
+  {
+    "id": "3839F92B-239E-4288-96AE-0001CE268F85",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Weaponisation of AI among challenges requiring increased defence spending"
+  },
+  {
+    "id": "F0F7ECB1-94A2-4DCA-BBA6-40A5038F6D6B",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Launch of AI data science conversion courses to grow digital workforce"
+  },
+  {
+    "id": "37446445-A2DF-4DA4-8140-F6BBECC1194F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about plans to introduce AI regulation legislation"
+  },
+  {
+    "id": "B2AF7DB6-E246-4F29-8D38-7377B6E605CE",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Creatives seeing content used to train AI without permission or payment"
+  },
+  {
+    "id": "AF89E2CC-8948-4BB8-AD03-4EAB377EA0AD",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Debate must be about data, IT, AI but also culture and leadership"
+  },
+  {
+    "id": "460BE58B-5333-4792-913A-8B38895AF825",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "AI mentioned in context of government backing wealth creators and innovation"
+  },
+  {
+    "id": "B5943A71-B320-4167-886C-3DB38171B062",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Google DeepMind world's foremost AI institute based in UK"
+  },
+  {
+    "id": "BA5D3CB5-7FBE-444E-ABEE-D0968BE78E2D",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI could help identify constituent requests and monitor response times"
+  },
+  {
+    "id": "23C7ACDC-A6A5-4CFB-A20E-521F091D1C6D",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about AI discussions with creative industries"
+  },
+  {
+    "id": "7CCAEE29-69DB-4652-996B-41EA4A29F145",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "House open to AI, prepared long written answer, looking at it"
+  },
+  {
+    "id": "EF8B1BDA-A626-4AD1-AF6C-12E8AE5E1349",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "As employers wrestle with AI, should look after employees not leave to machines"
+  },
+  {
+    "id": "21485796-50BC-4E17-A21E-E7444CBD75F7",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Make AI and robotics a plus for people enabling adaptation"
+  },
+  {
+    "id": "10B32A1B-677E-43F2-AB44-2B68C9CB8F6F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "As AI spreads and job turnover speeds up, need lifelong learning"
+  },
+  {
+    "id": "529FF9BB-CE7D-43E9-80E8-9E9B2076ACFC",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "With rise of AI wonder how soon processes will be without human interaction"
+  },
+  {
+    "id": "DB12D73B-7A4C-4B0A-A4CD-A093163DDD7A",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Using AI, data analytics, machine learning to catch fraud attacks"
+  },
+  {
+    "id": "3A42BFD2-8021-42F6-A90E-371AED422933",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "UK opportunity to lead on AI especially regulation if seized now"
+  },
+  {
+    "id": "5D5CF132-5F2C-4D2A-9098-9F89E33AA730",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "AI has no ethical constraint, designed to maximize engagement and data collection"
+  },
+  {
+    "id": "3E97B76E-B5A8-47BF-A183-B627E4D52782",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Tech used AI to manipulate personal data, brought out worst in humanity"
+  },
+  {
+    "id": "00399BCA-C77E-45C0-BC35-A6386B5A99BC",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Government recognizes AI challenges like deepfakes, Bill regulates where appropriate"
+  },
+  {
+    "id": "544ABF5A-09CB-480A-BA70-8780A5864336",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Investing £123m in AI tools allowing radiologists to review X-rays 40% faster"
+  },
+  {
+    "id": "BD0740C2-5C47-44FE-8909-37B766D327A7",
+    "sentiment": "negative",
+    "confidence": 0.90,
+    "reasoning": "AI will be more intelligent than humans but lack empathy, psychopathic by definition"
+  },
+  {
+    "id": "287CE781-B24D-487B-98CD-6D3A6B780AF6",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "UK using AI ambitiously but requires context-appropriate human involvement"
+  },
+  {
+    "id": "1FEC8220-E724-4EEF-9FFC-42ABE5673686",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about how armed forces using AI and need for human control"
+  },
+  {
+    "id": "737A9EBA-5887-4578-96AC-A49D99ACFBB6",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about global agreement on AI regulation"
+  },
+  {
+    "id": "A8156514-B4B9-431B-A431-30B40EBD4637",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about domestic diagnostic sector, mentions AI blood test technologies"
+  },
+  {
+    "id": "AE041FA2-2E6C-4BF2-9D28-908846C3BA3C",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Breaching agreements damages ability to negotiate future AI agreements"
+  },
+  {
+    "id": "CE425C7A-1EA5-4B3C-B22E-3EFFB9F2FEE3",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Unable to capitalise on Britain's undoubted strengths in AI and life sciences"
+  },
+  {
+    "id": "5135087A-8686-4BF6-81F1-7CA35981EC7F",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "University adopting AI models to predict contaminant effects, huge step forward"
+  },
+  {
+    "id": "57A6C44E-DFF5-48B6-9AC2-59A831B05253",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "AI-generated letter about concerns on large language model AI risks"
+  },
+  {
+    "id": "5E8FEA79-6ADD-4A83-91AE-974DB5203162",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Look forward to PM playing important role in AI policy development"
+  },
+  {
+    "id": "2730AF75-EE9B-453D-9B9A-7764AD20D2D6",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI has tremendous potential for social good, contributes £3.7bn to economy"
+  },
+  {
+    "id": "5D39D863-A544-46AB-8F80-400D29BEC94B",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Personal recollection of first engagement with AI program ELIZA"
+  },
+  {
+    "id": "8458BB1D-1550-4FCA-AB09-0DA7203F877E",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "AI will know how to do most harm, fool and deceive people effectively"
+  },
+  {
+    "id": "C1AE5F9D-62E5-4397-81A5-8ABA63893899",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Witness said AI is applied statistics, Committee studying for some time"
+  },
+  {
+    "id": "9A5B4C06-2BA0-43A9-96D1-66045C2ABCB9",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI becoming part of daily lives on cusp of new era with potential benefits"
+  },
+  {
+    "id": "694A6804-F5CF-4BB2-BB8D-8379EA54B84B",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Opening debate: AI already with us but future impact yet to be felt or understood"
+  },
+  {
+    "id": "AB465DCF-2B52-4730-A018-B0FBA937A44C",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Case for technology revolution working in British people's interests"
+  },
+  {
+    "id": "835B1488-3690-464C-BE0A-4BB772402EB6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Everybody talking about AI, article about Home Office facility caught eye"
+  },
+  {
+    "id": "BEB57FEA-6D55-4245-ACF7-0014B3B6A4AC",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Need to understand AI loopholes and which regions will be most affected"
+  },
+  {
+    "id": "0AA1E96B-2018-4E4F-B4A1-2B32643A9AC9",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Need to stay ahead in AI, quantum, robotics to outmatch adversaries"
+  },
+  {
+    "id": "2B9B9C11-308D-4E21-8863-65366036E445",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI models already integral in connectable products, rewriting how we live"
+  },
+  {
+    "id": "BCE82FBF-7FD4-4721-9064-9B8359AB647F",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "No mention of action on online radicalisation or AI use in Prevent review"
+  },
+  {
+    "id": "4D3C85F4-272A-4B64-8FD4-7A4EE250A089",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about whether government will support systems biology not just AI fusion"
+  },
+  {
+    "id": "17D0D2E0-C827-4D27-AE2E-46F4ABDA32D5",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about international cooperation on AI challenges"
+  },
+  {
+    "id": "EF5E9480-4C93-4C0A-9F94-FEBE4AB2FBCE",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Important as frontier AI and quantum technologies become more embedded"
+  },
+  {
+    "id": "2EAECD87-1F67-40F8-834D-27E11F5749AF",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about robust approach to emergent technologies like AI"
+  },
+  {
+    "id": "63EF1E6A-C3C9-4C9F-A1F7-5EFB4BBDCF95",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Use of AI and software to predict mine movement spread, can be done now"
+  },
+  {
+    "id": "9CFA837E-2664-400E-834C-A97D3D6F9C80",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Government not covering data exchange services for internet of things and AI"
+  },
+  {
+    "id": "1BDC6830-E3DB-45BD-B048-393063DB4D32",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Will review legislation as AI work including summit and international response evolves"
+  },
+  {
+    "id": "B1EE1294-75D8-461F-8EE3-11C2EFF4C58A",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI transforming work in life sciences, automotives, financial services; upcoming summit"
+  },
+  {
+    "id": "601C5EE9-1042-47F1-AA2F-C42B2946CEB8",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Delivered and ongoing work includes AI reform saving businesses billions"
+  },
+  {
+    "id": "0922C6C9-BC6E-482C-8B99-83558163651C",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Committee visited US to discuss AI, progress with Horizon deal welcomed"
+  },
+  {
+    "id": "2A625204-4203-49F2-9017-A6C2CED3F4D2",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about ensuring NHS patients benefit from latest AI developments"
+  },
+  {
+    "id": "C0196346-9A18-4437-B92C-8C18EA37FC26",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK third largest for AI behind US and China, investing in services important"
+  },
+  {
+    "id": "6986DF34-0EFA-448F-B0C7-356BFC955259",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK Government led in broadening vital international AI conversation"
+  },
+  {
+    "id": "B9835E5F-AD2C-44D2-97F3-0F7F5907E8FB",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Food security summit will look at how AI can drive objectives forward"
+  },
+  {
+    "id": "01B80BAC-A39F-4324-B297-31DD79AA1E5A",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Can cooperate with China on environment and AI, welcome Chinese at Bletchley"
+  },
+  {
+    "id": "1D552049-BB7E-4815-854F-2FDDD275AA84",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Concerns about CCP AI use in fake news, attacks on Opposition leader"
+  },
+  {
+    "id": "9285C890-3B8A-4D7B-A567-79AEC052C1C7",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Role for cooperation on global challenges like AI, China forward in planning"
+  },
+  {
+    "id": "76D97B62-8CB1-481A-B39C-3B976494ABA2",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Rise of sophisticated AI risks undermining UK and international conflict work"
+  },
+  {
+    "id": "E6E88FFC-C275-49C1-A5B1-CA4284D640E6",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Terrorist threat posed by AI is new but increasing threat to all"
+  },
+  {
+    "id": "92582E1B-F722-444C-A8A2-E25F531E6003",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Impact of generative AI on radicalisation yet to be established, Home Office monitoring"
+  },
+  {
+    "id": "884F7B66-2C2C-40FD-8798-8120CF565998",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Counter-disinformation work outsourced to AI company logically.ai in Yorkshire"
+  },
+  {
+    "id": "26E342D5-13D1-43B0-9010-5C73D20DFD3B",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about assessment of AI regulations and monitoring plans"
+  },
+  {
+    "id": "232297BC-24BF-4DBF-946A-CF6C317EE12F",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK will continue to lead international discussions to ensure AI developed safely"
+  },
+  {
+    "id": "1E12CA1B-6C27-4C12-8F5E-9902DE249A95",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "PM gripping AI and new technology, poised to fly with innovation"
+  },
+  {
+    "id": "AB708E9B-43C3-45A7-926F-FF79C9E66407",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Dark web significant rise in deepfakes driven by AI of child abuse"
+  },
+  {
+    "id": "B4A04760-DB40-4729-BD1C-5560F5E38A41",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Deep interest in media, digital and AI Bills that will come before Lords"
+  },
+  {
+    "id": "F8F601C0-F309-4CDC-8C30-53CAEF7FB4A6",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "More we integrate AI in decision-making, more acceleration increases beyond us"
+  },
+  {
+    "id": "B241797A-3431-44C5-B192-06BB3793F66E",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Welcome discussion about how AI is handled, needs calm professional approach"
+  },
+  {
+    "id": "CF5D9418-AECD-479A-B1BA-BE4C27BB1268",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Sign for Digital Ministers Lounge, wondered if Ministers replaced by AI"
+  },
+  {
+    "id": "13D152F4-FE3A-48E4-B941-1BC2C8E94FD3",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Despite AI summit no regulation of AI anywhere to be seen"
+  },
+  {
+    "id": "61F64F26-C8E8-4C10-B623-A93DF7DCB9AF",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "PM using AI summit as audition for California job, poverty of ambition"
+  },
+  {
+    "id": "99C976F1-BFD0-4103-B88E-27ABFC29D6FD",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about real-time face recognition with AI, initial negative reaction"
+  },
+  {
+    "id": "B975F389-ECC5-42F5-AB2A-613AC0FAAF52",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Entering workplace with AI, quantum, digital systems part of every day"
+  },
+  {
+    "id": "9DBB39AC-B1F5-478A-9206-CC69B4450BBF",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "King's Speech opportunity missed to deal with ageing and AI impact"
+  },
+  {
+    "id": "054FEFDA-33F0-4F68-958D-5CD6176647C2",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI allowing to halve stroke treatment time, read scans faster detecting cancer"
+  },
+  {
+    "id": "8855CD4A-8A4D-4A28-962B-F63596AF6349",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Expected AI legislation missing from King's Speech, US and EU moving ahead"
+  },
+  {
+    "id": "2E0A3384-153C-4B54-8730-B695E39D3EAD",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Creative industries offered sop of side roundtable, not included in AI discussions"
+  },
+  {
+    "id": "61268823-EF5B-45E2-9063-7092AC02D8F0",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Statement about AI safety summit, turning point, UK third largest AI sector"
+  },
+  {
+    "id": "0FCBB1F6-C34D-4FCA-9189-8D6B8F936CFD",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "AI presents opportunities for employment, easier lives, conquering diseases"
+  },
+  {
+    "id": "4354221F-F1B1-43E5-97EB-9537D9763380",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Building on UK's leadership on important AI issue during Singapore trip"
+  },
+  {
+    "id": "0D7D657F-53A3-4900-82BC-4FA9FBA6AFC7",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Procedural business statement listing general debate on AI Thursday"
+  },
+  {
+    "id": "8ACDACE8-E910-4C57-B13C-A2778C0556A8",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Generative AI is applied statistics, looks at what exists, can't produce original"
+  },
+  {
+    "id": "00399BCA-C77E-45C0-BC35-A6386B5A99BC",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Government recognizes AI challenges, Bill regulates machine-generated content where appropriate"
+  },
+  {
+    "id": "3E97B76E-B5A8-47BF-A183-B627E4D52782",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Tech companies used AI to manipulate us and brought out worst in humanity"
+  },
+  {
+    "id": "97744EA1-FF20-476F-8584-5DFC249DA613",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Need increased media literacy especially with AI to evaluate information properly"
+  },
+  {
+    "id": "544ABF5A-09CB-480A-BA70-8780A5864336",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Investing £123m in AI tools allowing radiologists to review scans 40% faster"
+  },
+  {
+    "id": "4A81BD40-A98F-4ADE-ABD7-7FFB0772563B",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Singapore trip showed how digital technology and AI can transform cancer efforts"
+  },
+  {
+    "id": "FA991177-4935-4E6C-A8F1-E915BD466BCD",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI is second global risk with economic and national security implications"
+  },
+  {
+    "id": "F92F6B84-15D9-4D94-BEA6-431994C8A6E1",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Will speak on climate and AI, both areas of existential risk"
+  },
+  {
+    "id": "0DD97389-1CFA-42F9-B744-E77C80064A42",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "DWP uses AI to drive performance but never replaces human for judgment"
+  },
+  {
+    "id": "8048A344-4603-4084-83E5-010FF4A5A3CD",
+    "sentiment": "negative",
+    "confidence": 0.80,
+    "reasoning": "Bill is dangerous distraction, should strengthen not weaken data rights for AI age"
+  },
+  {
+    "id": "F50F9689-E5D9-4F08-9F7E-E7D9407F1C0C",
+    "sentiment": "positive",
+    "confidence": 0.80,
+    "reasoning": "Look forward to new member bringing fascinating perspectives on AI to work"
+  },
+  {
+    "id": "509B0A82-271E-42C2-844F-5E5FFEE8AB14",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI issue du jour, appreciate government letter, ambition to remain at forefront"
+  },
+  {
+    "id": "5BBC8F82-041D-4C3D-B99C-9944642530D8",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK showed leadership hosting first global summit on AI for safe development"
+  },
+  {
+    "id": "71554694-81E4-488B-A73E-A007066FAD0F",
+    "sentiment": "neutral",
+    "confidence": 0.70,
+    "reasoning": "Turn from natural intelligence to AI, committee work on AI mentioned"
+  },
+  {
+    "id": "97AED6C9-A6B7-466E-92DE-539852C2AA50",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "AI chatbots have potential to radicalise on unprecedented scale, chilling case cited"
+  },
+  {
+    "id": "9F1CB443-F8F8-4C74-BE64-17FA0BF9E70A",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "AI is process where acceleration produces consequences much faster than other systems"
+  },
+  {
+    "id": "526A24FE-BD1F-4432-9C65-2D7BD80C9375",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Procedural question about plans for UK AI law following US executive order"
+  },
+  {
+    "id": "682011E4-6CDB-4412-AB84-7E0744CC983F",
+    "sentiment": "neutral",
+    "confidence": 0.80,
+    "reasoning": "Question about AI companies working on safety standards and competition law"
+  },
+  {
+    "id": "00128EE2-E059-49F9-BC70-F48C368E1161",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "New threats including AI proliferation threaten to roll back women's rights progress"
+  },
+  {
+    "id": "4CC318FF-E9FC-4302-A22A-0482672776FE",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "CCP extending belt and road to global AI initiative to impose iron-fist control"
+  },
+  {
+    "id": "1F0C151D-7F17-40F9-AB94-C19ADB13D74E",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Government understands vectors of warfare harnessing AI to erode societies"
+  }
+]

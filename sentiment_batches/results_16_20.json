@@ -1,0 +1,386 @@
+[
+  {
+    "id": "j975gqyjsfkr6z6jx9p1191hc57wk813",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Procedural question asking about discussions on AI and creative industries"
+  },
+  {
+    "id": "j979hahx53x7q49sazme5jhtwn7wkt1y",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is clearly the word 'said' with Hansard formatting"
+  },
+  {
+    "id": "j97a8498tjhrrm7vapg53dazex7wkx7z",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Procedural question about advisory committees on AI regulation"
+  },
+  {
+    "id": "j978ycqkweqfzwvh7hf4hmwbws7wkhhv",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Factual explanation of AI Act scope and requirements"
+  },
+  {
+    "id": "j971vye6fc2h9rcz9tf2xm81vd7wkbtc",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Concerned about AI-generated deepfakes and their harmful impacts on women"
+  },
+  {
+    "id": "j972p2m4j5y1jypkdcmtr1173x7wkbjj",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Supportive of safe AI development legislation and regulator capabilities"
+  },
+  {
+    "id": "j975phwjevkby6kwpceew5b8w17wkxx2",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Calling for comprehensive AI regulation while acknowledging benefits"
+  },
+  {
+    "id": "j978kc5v7x3hb5388pcsqrc7217wjx3v",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concerned about AI-generated misinformation and manipulation of truth"
+  },
+  {
+    "id": "j9758q15k7x52ctpbm9dac9jx97wkjty",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about alignment between UK and EU AI regulation"
+  },
+  {
+    "id": "j975ewghzn4cs275zqkfrza0ph7wk876",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Enthusiastic about AI as growth opportunity while developing responsible regulation"
+  },
+  {
+    "id": "j973ya9c9sykh7m7pzhays101x7wk3ty",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai n' is the word 'chain' with Hansard formatting"
+  },
+  {
+    "id": "j974a7s2tsedw8amvaq9djqzdn7wjnrq",
+    "sentiment": "negative",
+    "confidence": 0.9,
+    "reasoning": "Concern about AI-generated child sexual abuse content"
+  },
+  {
+    "id": "j975551bfqzwkekhmkzhshcgbk57wj7x0",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j972vrf2dd25a7x9dwxdgfnkg17wk9j1",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j979ssv7ry84zvp814v0rhpkjd7wjde5",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j977xdgxfrwwadfdpqrj7wb7wh7wkv7q",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j975gj0md7w3h6sk3pnn8qzp0d7wk1s8",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai n' is 'again' with Hansard formatting"
+  },
+  {
+    "id": "j97evavbc31xt8rs30f22vykex7wjhvy",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about AI-generated helpline responses and need for human support"
+  },
+  {
+    "id": "j97crtjqknzc3bm85e6qynwvpn7wjxdw",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'sust ai nable' is 'sustainable' with Hansard formatting"
+  },
+  {
+    "id": "j97cak405x7wqvb8hdzqjqgg517wjg4c",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'l ai d' is 'laid' with Hansard formatting"
+  },
+  {
+    "id": "j9780pyk1jmpm7sz09e7543neh7wjv3v",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Ukr ai ne' is 'Ukraine' with Hansard formatting"
+  },
+  {
+    "id": "j97c2b8j0h1a953hderyfqqw957wj3av",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'awareness-r ai sing' is 'awareness-raising' with Hansard formatting"
+  },
+  {
+    "id": "j973vy8yep7taz3z30wn0sd4bd7wkxdr",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about AI and catfishing defense mechanisms"
+  },
+  {
+    "id": "j97azznjqs36srvk40e05rmrnd7wk03x",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Bl ai r' is 'Blair' (name) with Hansard formatting"
+  },
+  {
+    "id": "j971495q73sttthzbwsq0eq1gh7wj1tc",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Factual explanation of AI-generated content under Online Safety Act"
+  },
+  {
+    "id": "j971aw53a54tc0zreytpx4h0t57wjy1g",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Optimistic about AI's huge potential for growth and public services"
+  },
+  {
+    "id": "j976sfe95kn68fje5dr6a6h9097wjda6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'rem ai ns' is 'remains' with Hansard formatting"
+  },
+  {
+    "id": "j97fgnhfeq6e2nq2v5nd1yshmh7wkcmm",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j976qdx5chda4bdat55a467qw17wk8mm",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai ntenance' is 'maintenance' with Hansard formatting"
+  },
+  {
+    "id": "j973ryczxgryb6yp96y3jmzbwn7wj86h",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'av ai lable' is 'available' with Hansard formatting"
+  },
+  {
+    "id": "j97c03g3z9ks84aj7xxnt1c0a17wj3ef",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ag ai nst' is 'against' with Hansard formatting"
+  },
+  {
+    "id": "j97eqxbehpg0gfehvt09wyk8ex7wkqhf",
+    "sentiment": "disregard",
+    "confidence": 0.95,
+    "reasoning": "False positive: 'm ai den' is 'maiden' with Hansard formatting"
+  },
+  {
+    "id": "j970g1mfdbscvnf3zza36gvnwx7wj6s9",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with Hansard formatting"
+  },
+  {
+    "id": "j97d3ga6j920fqa6mgxtzxh46h7wkb6w",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'curt ai l' is 'curtail' with Hansard formatting"
+  },
+  {
+    "id": "j97749spmdpppr4wxztx9brea17wj0s4",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Brit ai n' is 'Britain' with Hansard formatting"
+  },
+  {
+    "id": "j979smkbrhca7xqyy59erh9aq97wkq6x",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Brit ai n' is 'Britain' with Hansard formatting"
+  },
+  {
+    "id": "j97e7j6vgsvp7t22kxv9y1k5f17wk7y6",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'w ai ting' is 'waiting' with Hansard formatting"
+  },
+  {
+    "id": "j977azwcp8thpy3ppg9vn54fds7wjynj",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'r ai se' is 'raise' with Hansard formatting"
+  },
+  {
+    "id": "j979k3bn71r6avv48cxhxtqp457wj44h",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'blockch ai n' is 'blockchain' with Hansard formatting"
+  },
+  {
+    "id": "j974v3zrkb39canhwpxygrerys7wjn6z",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about AI's impact on employment and birth rates"
+  },
+  {
+    "id": "j97e93mrgwx65q2qd2br9zwp917wke6f",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about tax policy and AI, forward-looking regulation concerns"
+  },
+  {
+    "id": "j97ba54j42n24qzxpne996k0917wk0qr",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting"
+  },
+  {
+    "id": "j97ea7f2kda3tzqrjh2sfcsttd7wkbhq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Brit ai n' is 'Britain' with Hansard formatting"
+  },
+  {
+    "id": "j9722veqgwx3cpfffj2v2216t97wjknk",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Factual statement about international AI content being used by UK AI sites"
+  },
+  {
+    "id": "j976h255vs1pn9k3tmnqe0ptax7wkjtw",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Parliamentary question about AI regulation and IP rights policy"
+  },
+  {
+    "id": "j97frtj4s0q6pg5qvgmz5117cx7wj0vf",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'f ai rness' is 'fairness' with Hansard formatting"
+  },
+  {
+    "id": "j9777m72wsj46dy0e57yf4b8s17wj2d2",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about ensuring mutually beneficial AI deals with news organizations"
+  },
+  {
+    "id": "j97frswk056shkg99m3k7egq217wj4sk",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Explanation of ongoing government work on AI and creative industries"
+  },
+  {
+    "id": "j9701zt1sktat5mec9rrmp4xas7wkwfy",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Factual statement about copyright law and AI training"
+  },
+  {
+    "id": "j977dfkpk8zn2hj3b47mp50g0n7wjced",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Acknowledging importance of creative sector and AI, seeking balance"
+  },
+  {
+    "id": "j9750bjetrfxj11eq9fpp3sbg57wj0wz",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting"
+  },
+  {
+    "id": "j974mvca5p8p1dmbedm0radhax7wkc7a",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Acknowledging need for balance between AI innovation and creator protection"
+  },
+  {
+    "id": "j978nen9jw1xccb3g87bqyc9js7wjk4t",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'tr ai ning' is 'training' with Hansard formatting"
+  },
+  {
+    "id": "j970ef3fttmryevsm2d1ebvzbd7wkhgn",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Question about international approach to AI copyright infringement"
+  },
+  {
+    "id": "j975pcmt6z4ejwd1g25rw3sm657wj9qk",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'aff ai r' is 'affair' with Hansard formatting"
+  },
+  {
+    "id": "j97fcty0271yvtvgjzkpmajdq57wjk82",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Concern about AI-enabled deepfakes harming young women"
+  },
+  {
+    "id": "j970h444pxayap3a51906gqcxs7wjr4x",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'ch ai rmanship' is 'chairmanship' with Hansard formatting"
+  },
+  {
+    "id": "j97byvrmvz29vz02qzfex64ced7wk6nd",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'Siobh ai n' is name 'Siobhain' with Hansard formatting"
+  },
+  {
+    "id": "j97ajcrt58rmm8hwb3cbh3vgq17wk449",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about impact of AI on universities and education"
+  },
+  {
+    "id": "j9793g39j6x7ja8733je3jvb8d7wkz5p",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'm ai ntain' is 'maintain' with Hansard formatting"
+  },
+  {
+    "id": "j97esjjggv9hng17brysydmfe17wkhvd",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Suggesting AI education for physicists, acknowledging societal impact"
+  },
+  {
+    "id": "j97dszjff2hw42cczk5a9rv6p97wky40",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Question about increasing AI and digital education with focus on equity"
+  },
+  {
+    "id": "j97dw3qhq2s16jpx1grya1vakn7wkact",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 's ai d' is 'said' with Hansard formatting"
+  },
+  {
+    "id": "j97ak3pvpgmfhqgchtz2xh1by97wj8w5",
+    "sentiment": "neutral",
+    "confidence": 0.85,
+    "reasoning": "Declaration of AI business interests, procedural statement"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "total": 3901,
+  "breakdown": {
+    "positive": 657,
+    "neutral": 1794,
+    "negative": 438,
+    "disregard": 1012
+  },
+  "percentages": {
+    "positive": 16.8,
+    "neutral": 46.0,
+    "negative": 11.2,
+    "disregard": 25.9
+  }
+}

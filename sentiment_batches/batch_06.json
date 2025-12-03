@@ -1,0 +1,1802 @@
+[
+  {
+    "_creationTime": 1764764487358.8704,
+    "_id": "j97483rg74h5f5tbzyz6gd1zmd7wjah0",
+    "contextText": "My Lords, I welcome what the Minister has just s ai d, and he clearly understands this technology, its risks and indeed its opportunities, but is he not rather embarrassed by the fact that the Government seem to be placing a rather higher priority on the regulation of pedicabs in London than on AI regulation?",
+    "contributionExtId": "701C9C6F-4194-4CAA-AE2A-D8B87CCC2877",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 3396,
+    "memberName": "Lord Clement-Jones",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.367,
+    "_id": "j97emreg5kbpgmxb5v8rdnd3b17wkmcs",
+    "contextText": "I am pleased to tell my noble friend that, following a request from the Secretary of State, the safety policies of Amazon, Anthropic, Google DeepMind, Inflection, Meta, Microsoft, Open AI and others have been published and will go into what we might call a race to the top—a competitive approach to boosting AI safety. As for enshrining those practices in regulation, that is something we continue to look at.",
+    "contributionExtId": "20F2223C-99B3-4A91-83A3-97E2742CFFA5",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3667,
+    "_id": "j970mxqtkm7vwfqa43kz2wkkvs7wkfs3",
+    "contextText": "My Lords, further to the question from the noble Lord, Lord Holmes, around data—that the power of the AI is in many ways defined by the quality of the data—does the Minister have any concern that the Prime Minister’s friend, Elon Musk, for example, owns a huge amount of sentiment data through Twitter, a huge amount of transportation data through Tesla, and a huge",
+    "contributionExtId": "2619062B-EAEF-46AD-A8D7-27C1658E32CD",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4160,
+    "memberName": "Lord Knight of Weymouth",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3665,
+    "_id": "j9759j610tfckxtetv27bbcj017wkncf",
+    "contextText": "My Lords, can I back up the question from the noble Baroness, Lady Kidron, on access to data by research workers, particularly health data? Without access to that data, we will not be able to develop generative AI such as retinal scans, for instance, and many other developments in healthcare.",
+    "contributionExtId": "A4F86846-6BF2-47F7-85C5-536C04EB453C",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 2443,
+    "memberName": "Lord Patel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3662,
+    "_id": "j979s12tsre3r5ssmjkgqq82057wj7ph",
+    "contextText": "countries in the world to boast a tech sector worth more than $1 trillion. We are a nation of scientific endeavour, home to the Jodrell Bank observatory, to the Francis Crick Institute and to pioneering businesses such as Google DeepMind, whose AlphaFold program has used AI to predict the shapes of 200 million proteins—the fundamental building blocks of human biology. Through our Frontier AI Taskforce—soon to be our new AI safety institute—we are investing more than any other country in the safe development and deployment of this transformative technology. Indeed, earlier",
+    "contributionExtId": "C881A8BD-BFD2-4F86-BCAA-EBC096EC4C55",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.366,
+    "_id": "j97djvm60ymy8peav4ezwxzhh17wjr0c",
+    "contextText": "My Lords, an absence of regulation in an area that holds such enormous repercussions for the whole of society will not spur innovation but may impede it. The US executive order and the EU’s AI Act gave AI innovators and companies in both these substantial markets greater certainty. Will it not be the case that innovators and companies in this country will comply with that regulation because they will want to trade in that market, and we will then be",
+    "contributionExtId": "10E63DFE-3196-4C5E-9071-13B2A69D7F8A",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 620,
+    "memberName": "Lord Browne of Ladyton",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3657,
+    "_id": "j97e1zggeqhfmw8hwz6tcn49a17wjg2m",
+    "contextText": "My Lords, I am pleased to take part in this debate on the gracious Speech and look forward to the three m ai den speeches. I will speak briefly about the Government’s policy for science, innovation and technology, the regulation of AI and the use of data for research. I fully acknowledge the clear commitment of this Government to science, technology and innovation, demonstrated by creating a Department",
+    "contributionExtId": "AF5DD9A5-C0F0-495D-B719-1195F758EDE5",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 2443,
+    "memberName": "Lord Patel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3655,
+    "_id": "j97bz0jp626xhj13rsexv086bs7wkx0t",
+    "contextText": "My Lords, it is always a pleasure to follow the noble Baroness. I particularly endorse her last comments around digital exclusion. I very much look forward to the three m ai den speeches from the welcome new Members of your Lordships’ House. Our cultural sector, our sports industries and our flair for design are a large part of what defines this country globally. They are also critical in defining our future success and that of our",
+    "contributionExtId": "945DEDA6-28D6-4CF6-9131-20554FEBB0B9",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4160,
+    "memberName": "Lord Knight of Weymouth",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3652,
+    "_id": "j9762xhn64rdmkt3dchnvykrg17wkbg2",
+    "contextText": "Indeed. Of course, one of the many issues with regulating AI is that it falls across so many different jurisdictions. It would be very difficult for any one country, including the US, to have a single bit of legislation that acted on the specific example that the noble Lord mentions. That is why it is so",
+    "contributionExtId": "D61F4803-1431-4F52-A7F8-EB6F0D2DBAC4",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.365,
+    "_id": "j9791zak34zf60q6msrtr6jf9d7wk0fc",
+    "contextText": "Yes, indeed. It is a really important point that the development of AI as a set of technologies is going to oblige us to work across regulators in a variety of new ways to which we are not yet used. That is indeed one of the functions of the newly formed central AI risk function within DSIT.",
+    "contributionExtId": "853211E4-DEB8-4D62-A228-FEFAB5DE39B0",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3647,
+    "_id": "j97dkvzhqn34ebg13g71f07a0x7wkq34",
+    "contextText": "My Lords, I take this opportunity to congratulate the right reverend Prelate the Bishop of Newcastle and the noble Baroness, Lady Owen, on their impressive m ai den speeches. I warm- heartedly welcome them to the House. I am also looking forward to the maiden speech of the noble Lord, Lord Ranger. I welcome the announcement in the King’s Speech that Parliament might be considering introducing legislation relating to science, technology and",
+    "contributionExtId": "D7191599-6E85-4AD5-A9EC-975FBDB4D53A",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 1827,
+    "memberName": "Baroness Uddin",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Non",
+      "colour": "#888888",
+      "name": "Non-affiliated"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3645,
+    "_id": "j97avegca2kmczb6hr16wrpesx7wk21p",
+    "contextText": "My Lords, I congratulate the right reverend Prelate the Bishop of Newcastle and the noble Baroness, Lady Owen of Alderley Edge, on their truly excellent m ai den speeches. Like the noble Lord, Lord Addington, I was almost exactly the same age as the noble Baroness when I made my maiden speech and I can assure her, like the noble Lord, Lord Addington, did, that her speech was very much more articulate",
+    "contributionExtId": "629D61F6-8965-4027-A905-C2AAAF07E8BC",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 3308,
+    "memberName": "Viscount Chandos",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3643,
+    "_id": "j971ntfxshe2mrwvrremaa6ya97wkj4g",
+    "contextText": "In the AI regulation White Paper we set out our first steps towards establishing a regulatory framework for AI. We are aligned with the United States in taking a proportionate, context-based and evidence-led approach to AI regulation. The White Paper did not commit to new legislation at this",
+    "contributionExtId": "D211277F-A5A2-4D80-B1FD-0C79D2D8E8D7",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.364,
+    "_id": "j97dmpa4svtn4dasjg3nm8es157wj2h4",
+    "contextText": "I am pleased to reassure the noble Lord that I am not embarrassed in the slightest. Perhaps I can come back with a quotation from Yann LeCun, one of the three godfathers of AI , who said in an interview the other week that regulating AI now would be like regulating commercial air travel in 1925. We can more or less theoretically grasp what it might do, but we simply do not have the grounding to regulate properly because",
+    "contributionExtId": "386AC982-5B08-4998-8058-783750374553",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3638,
+    "_id": "j971mfv5692ybprvgyny1hg9kx7wk26j",
+    "contextText": "My Lords, I declare my technology interests as in the register. Does my noble friend agree that it is at least worth regulating at this stage to require all those developing and tr ai ning AI to publish all the data and all the IP they use to train that AI on, not least for the point around ensuring that all IP obligations are complied with? If this approach were taken, it would enable quite a distance to be",
+    "contributionExtId": "47729079-9338-49C3-8F48-F698CFBF394C",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4294,
+    "memberName": "Lord Holmes of Richmond",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3635,
+    "_id": "j97685vhhne0ppps4c8c55nd3n7wjr64",
+    "contextText": "on His Majesty’s birthday. I welcome the noble Baroness, Lady Thornton, back to her place speaking on DCMS matters on the Opposition Benches. Like her, I had the pleasure of being at the opening of the London College of Fashion last week and swimming ag ai nst the tide of West Ham fans on the way back. She is right that it is a jewel in the new East Bank development in which more than one Mayor of London has played a key role. It is a great new addition to",
+    "contributionExtId": "0A2BB64D-234D-4915-813A-E06895AC52F5",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4728,
+    "memberName": "Lord Parkinson of Whitley Bay",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3633,
+    "_id": "j975fa1p8kaynm5mhvgjd4zhrn7wk4km",
+    "contextText": "My Lords, I too welcome the right reverend Prelate the Bishop of Newcastle. I admire her bravery in wearing the colours of Sunderland and Newcastle simultaneously. I declare my interests as ch ai r of 5Rights Foundation, chair of the Digital Futures Commission at the LSE and adviser to the Institute for Ethics in AI at Oxford. Like others, I will start with Bletchley Park. That was kicked off by the Prime Minister, who set out his hopes",
+    "contributionExtId": "BBF12DC3-BDD1-4F61-B14E-ADE58C405B4E",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4258,
+    "memberName": "Baroness Kidron",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.363,
+    "_id": "j971hqkfvjsvrb67nd08c98x9s7wk70v",
+    "contextText": "I think there are two things. First, we are extremely keen, and have set this out in the White Paper, that the regulation of AI in this country should be highly interoperable with international regulation—I think all countries regulating would agree on that. Secondly, I take some issue with the characterisation of AI in this country as unregulated. We have very large areas of law and regulation to which all",
+    "contributionExtId": "5CE5AA40-A143-4D6E-AB62-FE60D8ABADEF",
+    "date": "2023-11-14",
+    "debateExtId": "5236E6F1-F56A-4A2F-9DCF-A53CAEEDD57B",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3628,
+    "_id": "j972dw1rbn6pb2atjwmwc4p8j17wja1e",
+    "contextText": "My Lords, I was encouraged by the Government’s White Paper on AI published earlier this year, with its stated intention of extending AI regulation throughout the economy. The gracious Speech mentioned the UK leading international discussion on developing AI safely, and of course much has been made of the Bletchley AI summit. While that was happening, I",
+    "contributionExtId": "D6366FBC-C8C4-4E8F-BBEA-D089F3BB022A",
+    "date": "2023-11-14",
+    "debateExtId": "B1CB0CFD-075F-4443-A4BD-CF234B68DA41",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4248,
+    "memberName": "Viscount Colville of Culross",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3625,
+    "_id": "j976rfwkmwzqfgj5jqp3yt81v97wk7gp",
+    "contextText": "indeed, it was he who appointed me to your Lordships’ House—so I feel that I have gone somewhat of a complete circle. Our first meeting was tinged with informed discussion but also a degree of amusement—from my perspective as well as his. He was str ai ght into the role. We had the Indian Foreign Minister visiting, and the Foreign Secretary met them and had a very productive meeting. I agree with my noble friend Lord Frost about the importance of keeping issues live. The FTA with India was a key",
+    "contributionExtId": "35A2863F-D8AF-4D5F-8D23-393D292265E4",
+    "date": "2023-11-15",
+    "debateExtId": "89F2D3E4-7E20-4D4A-8CC5-E4FE3553AFA5",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4210,
+    "memberName": "Lord Ahmad of Wimbledon",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3623,
+    "_id": "j97595kw78ydwd4e6ybvvejshh7wk7qe",
+    "contextText": "her exemplary work over the past four and a half years as a Minister of State for Defence and in this House. Her diligent work ethic and profound sense of duty were an example to all of us, and I look forward to her rem ai ning engaged in this House from the Benches behind me. This is an historic moment. The last time the King’s Speech was officially delivered was back in His Majesty’s grandfather’s day, in 1951. King George VI himself was too ill to deliver the address that",
+    "contributionExtId": "0E787C7A-F8D5-4429-A326-6D399C4A1F4C",
+    "date": "2023-11-15",
+    "debateExtId": "89F2D3E4-7E20-4D4A-8CC5-E4FE3553AFA5",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4952,
+    "memberName": "The Earl of Minto",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.362,
+    "_id": "j97ce0hh9jv379s7bamm7epk0h7wkk4a",
+    "contextText": "My Lords, many threats to UK security, economic well-being and values have been identified. However, one that has g ai ned far more traction in recent years is the threat that China poses. Although scant reference was made in the 2021 integrated review, that was remedied in the refresh update, in which China was referred to as “an epoch-defining and systemic challenge”. The recommendations fell",
+    "contributionExtId": "42E3A2C8-8FC4-4D9C-9DAB-C04C7C92465B",
+    "date": "2023-11-15",
+    "debateExtId": "89F2D3E4-7E20-4D4A-8CC5-E4FE3553AFA5",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 3709,
+    "memberName": "Baroness D'Souza",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3618,
+    "_id": "j971c7973zyttebkqs2prbez4n7wjstr",
+    "contextText": "Arundel and South Downs (Andrew Griffith), to his role, and I congratulate the Under-Secretary of State, the hon. Member for Meriden (Saqib Bhatti), on his appointment and on the birth of his child. I hope that he is getting some sleep in these busy days. AI has potential benefits across the public sector—I have seen that in hospitals, where it is already delivering huge benefits to patients—but the new safety institute, which will gather together world-class talent, is not being tasked with finding new uses to improve our public services. Why",
+    "contributionExtId": "C43F7748-F9F6-4F21-8753-72CEF076346D",
+    "date": "2023-11-15",
+    "debateExtId": "3D637999-53E8-4EE8-ABC2-AF7F3D5FE8EF",
+    "debateTitle": "AI Regulation",
+    "house": "Commons",
+    "memberId": 4505,
+    "memberName": "Peter Kyle",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3616,
+    "_id": "j9716wh8hh92r61xpyfzmrqdwd7wk1g8",
+    "contextText": "working people. If we had a pound for every time he had a reset, the cost of living crisis would have been over long ago. The Prime Minister likes to think of himself as the man from silicon valley, the tech-savvy Californian, the country’s first AI PM, and yet his big idea is to keep turning his Government on and off at the wall and hope that we see signs of life. Is he starting to feel that, as somebody once said, he was the future once?",
+    "contributionExtId": "66DF34EB-A8C8-4EA8-9E36-451EEFBBF07E",
+    "date": "2023-11-15",
+    "debateExtId": "6085C2D3-285E-4AD0-B2F0-B78714ED6B54",
+    "debateTitle": "Engagements",
+    "house": "Commons",
+    "memberId": 4514,
+    "memberName": "Sir Keir Starmer",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3613,
+    "_id": "j977mketzd38wmwmq3dbn5f2hn7wk7x5",
+    "contextText": "I warmly congratulate my hon. Friend on his appointment and welcome him to the Dispatch Box. GCHQ this week says that it expects hostile disruption of the next election through deepfakes using AI . Is my hon. Friend absolutely confident that the Electoral Commission has all the powers it needs to prevent that, and why are the Government not implementing their suggestion in the White Paper to introduce the legislation to empower regulators?",
+    "contributionExtId": "13E15EF6-4F65-4C9F-A622-F1E8740B52EE",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 1578,
+    "memberName": "Greg Clark",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.361,
+    "_id": "j974n8wvbmwhst77za41bn0hzx7wjz5k",
+    "contextText": "3. What steps her Department is taking to tackle harmful AI -generated content on social media.",
+    "contributionExtId": "58534F1F-7DE4-4EBC-8359-8E97B091AE3B",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4917,
+    "memberName": "Ms Anum Qaisar",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3608,
+    "_id": "j97cab03xb604w02vzcfc1svgx7wk319",
+    "contextText": "9. What steps her Department is taking to tackle harmful AI -generated content on social media.",
+    "contributionExtId": "7623E011-2203-4B77-AD9D-5094E505FC2F",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4482,
+    "memberName": "Owen Thompson",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3606,
+    "_id": "j976sgky2zyp2s63360qg56kns7wksx9",
+    "contextText": "I too welcome my hon. Friend to his role. What discussions has he or his Department had about r ai sing public awareness of the impact that AI will have on society, and increasing understanding that not all content, harmful or otherwise, might be what it seems?",
+    "contributionExtId": "7BD427D8-0B2F-4638-8382-D8D4E31822EA",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4092,
+    "memberName": "Stephen Metcalfe",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3604,
+    "_id": "j97eb0hqm4ap84g4jzqhmxs0k57wk5mh",
+    "contextText": "4. What steps the Government are taking to regulate AI .",
+    "contributionExtId": "6317CB5D-E5FC-44C5-A53D-691AC2BD0897",
+    "date": "2023-11-15",
+    "debateExtId": "3D637999-53E8-4EE8-ABC2-AF7F3D5FE8EF",
+    "debateTitle": "AI Regulation",
+    "house": "Commons",
+    "memberId": 4603,
+    "memberName": "Preet Kaur Gill",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour (Co-op)"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.36,
+    "_id": "j972g0m8qkxwtr7f3g7mk1n7157wj9w1",
+    "contextText": "This week, the Science and Technology Committee has been in Brussels listening to how the EU is progressing with its regulation of AI . Despite the commitment to introducing legislation in the White Paper, it was not included in the King’s Speech. Why not?",
+    "contributionExtId": "D7FEC4B7-D8D0-4BB2-99C9-772D27AD18E8",
+    "date": "2023-11-15",
+    "debateExtId": "3D637999-53E8-4EE8-ABC2-AF7F3D5FE8EF",
+    "debateTitle": "AI Regulation",
+    "house": "Commons",
+    "memberId": 3950,
+    "memberName": "Dame Tracey Crouch",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3599,
+    "_id": "j97cxj5wt5tx882g6y9vdvny5n7wjb94",
+    "contextText": "The Government have always been clear that we will have a contextual and proportionate response to AI . I spoke to the Secretary of State yesterday, and it is very clear that the US sees us as global leaders and will be working with us.",
+    "contributionExtId": "503F8B62-35A4-4DEE-8492-E51407725AC6",
+    "date": "2023-11-15",
+    "debateExtId": "08A884EC-8EDE-4572-8AAF-08197F03064F",
+    "debateTitle": "Topical Questions",
+    "house": "Commons",
+    "memberId": 4818,
+    "memberName": "Saqib Bhatti",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3596,
+    "_id": "j970vkrb7ph6zz2cn20hx5kepd7wjwwr",
+    "contextText": "T8. Given the revolution in AI , what steps is my hon. Friend taking to ensure that young people in Carshalton and Wallington have access to the skills they need for the future?",
+    "contributionExtId": "C6235193-7BCA-4689-B3BB-9F7BD0D7F8C1",
+    "date": "2023-11-15",
+    "debateExtId": "08A884EC-8EDE-4572-8AAF-08197F03064F",
+    "debateTitle": "Topical Questions",
+    "house": "Commons",
+    "memberId": 4775,
+    "memberName": "Elliot Colburn",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3594,
+    "_id": "j97bsm70zdc1ektcq4yfqqb49n7wksxx",
+    "contextText": "When considering the highly volatile nature of international aff ai rs at this time, it is not surprising to hear so many insightful and well-informed speeches in your Lordships’ House, especially from the noble Lords, Lord Roberts and Lord Young. I join the noble Lord, Lord Wilson, in his comments about David Cameron in his",
+    "contributionExtId": "DC880A0E-7577-4F7C-8129-AC3198575987",
+    "date": "2023-11-15",
+    "debateExtId": "89F2D3E4-7E20-4D4A-8CC5-E4FE3553AFA5",
+    "debateTitle": "King’s Speech",
+    "house": "Lords",
+    "memberId": 4898,
+    "memberName": "Lord Udny-Lister",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3591,
+    "_id": "j97dea10823jd6wnapanc8pxvd7wjkjg",
+    "contextText": "I thank the hon. Member for his question and his kind remarks—I can assure him that I am getting some sleep. The AI Safety Institute will look at the risks involved. We will be working with the private sector, and we have always been clear that AI brings many benefits and we will ensure that we have a regulatory framework that encourages innovation and growth in the private",
+    "contributionExtId": "8CEA476E-C1F7-4599-A173-3ECDF9DC8FF4",
+    "date": "2023-11-15",
+    "debateExtId": "3D637999-53E8-4EE8-ABC2-AF7F3D5FE8EF",
+    "debateTitle": "AI Regulation",
+    "house": "Commons",
+    "memberId": 4818,
+    "memberName": "Saqib Bhatti",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.359,
+    "_id": "j97cs5g6y50zbcxpqdp0pkrbsn7wjj8q",
+    "contextText": "Meta, having recognised the threat that unrestricted use of AI could represent in elections and democracy, has banned the use of generative AI in its political adverts. Why does a private company seem to be doing more to curb the spread of electoral misinformation than this Government?",
+    "contributionExtId": "784C104F-6A69-40FD-94D0-9AA00633C9BF",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4482,
+    "memberName": "Owen Thompson",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3586,
+    "_id": "j979wpqxy6p2583wnqg292b1kh7wkzws",
+    "contextText": "I thank my hon. Friend for his remarks. We have just had a global, leading AI safety summit, which had immense coverage on that and also focused on frontier risks. We have always been clear that we will take a pragmatic, proportionate and contextual approach. With the 28 countries plus the European Union who have agreed to the Bletchley declaration, there",
+    "contributionExtId": "77F784C6-C753-4649-94AC-52936B12EC15",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4818,
+    "memberName": "Saqib Bhatti",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3584,
+    "_id": "j97ddm00tdn9qz60a6xzbbkch17wknba",
+    "contextText": "May I take this opportunity to welcome the Minister to the Dispatch Box? I will not embarrass him by calling him a friend, but I wish him the best of luck. As the world transitions into the new age of AI , the Tories are leaving the people of Scotland at risk from harmful AI-generated content and social media. Will the Minister outline why the Scottish Government was blocked from participating in one of the first major AI safety summits?",
+    "contributionExtId": "9F3FD843-52FE-4004-9662-91C83FA132A7",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4917,
+    "memberName": "Ms Anum Qaisar",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3582,
+    "_id": "j97c4y166q94afvkx5s2y6rsxx7wj0te",
+    "contextText": "The Online Safety Act 2023, which recently received Royal Assent, has been designed to keep pace with emerging technologies. The Act will regulate AI -generated content in much the same way that it does content created by humans. It covers AI-generated content shared by users with other users, search results generated by AI and AI-generated pornography. In addition, the Act will criminalise the sharing of deepfake intimate image abuse,",
+    "contributionExtId": "E14D30D4-A8C8-4739-92B0-CA995FE267F8",
+    "date": "2023-11-15",
+    "debateExtId": "926E3CE7-F123-4602-889A-161A6BF7394C",
+    "debateTitle": "AI-generated Content: Social Media",
+    "house": "Commons",
+    "memberId": 4818,
+    "memberName": "Saqib Bhatti",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.358,
+    "_id": "j970vyddwdhvbm81r8rxc42krn7wjt9h",
+    "contextText": "The AI regulation White Paper set out how we will regulate AI through a flexible framework. We have taken steps to implement our approach, including establishing a central AI risk function and the AI Safety Institute. We are engaging closely with regulators and their sponsoring Government Departments",
+    "contributionExtId": "6DF01B0F-509F-4C47-B7FC-9627D2F4F1FE",
+    "date": "2023-11-15",
+    "debateExtId": "3D637999-53E8-4EE8-ABC2-AF7F3D5FE8EF",
+    "debateTitle": "AI Regulation",
+    "house": "Commons",
+    "memberId": 4818,
+    "memberName": "Saqib Bhatti",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3577,
+    "_id": "j97bfktpbds9rwf8gvkasx0yax7wj5ry",
+    "contextText": "my request for a debate on the cost of court transcripts. Justice should not have a price tag, as I think we would all agree. Yet many victims are being denied access to justice because they cannot afford to pay thousands of pounds to obt ai n court transcripts. Not only are these extortionate costs unaffordable, but they are a major barrier to victims’ recovery. This issue was first brought to my attention in August when my constituent, Juliana Terlizzi, approached my office for assistance in obtaining a court transcript. In",
+    "contributionExtId": "F3C17963-3B03-4246-8807-9389BA6F9BE2",
+    "date": "2023-11-16",
+    "debateExtId": "942DF7A1-9D96-43A0-AD65-474A0B30BA1D",
+    "debateTitle": " Court Transcript Costs",
+    "house": "Commons",
+    "memberId": 4591,
+    "memberName": "Sarah Olney",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3574,
+    "_id": "j97bv9x6ww6vgt1yth6fyqzmnd7wjwax",
+    "contextText": "confidence of victims, whose experiences are central to the way our society thinks about and responds to crime—we are as like minds on that. I am sorry to hear about the experience of the hon. Lady’s constituent, Ms Juliana Terlizzi, as she sought to obt ai n a trial transcript as the victim of a horrific crime. I recognise that there may be many reasons why victims may find a court transcript helpful in the aftermath of lengthy and sometimes complex criminal court proceedings. In cases where victims do not attend",
+    "contributionExtId": "BC4AECC2-748D-4FB0-BCC0-40D08E4AEF4A",
+    "date": "2023-11-16",
+    "debateExtId": "942DF7A1-9D96-43A0-AD65-474A0B30BA1D",
+    "debateTitle": " Court Transcript Costs",
+    "house": "Commons",
+    "memberId": 4004,
+    "memberName": "Mike Freer",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3572,
+    "_id": "j97ajr3eg613bdd5bey85qgxjs7wjavc",
+    "contextText": "the Government to abandon the proposed copyright exemptions for text and data mining, which the chief executive officer of UK Music succinctly described as a “green light to music laundering”. Can the Minister confirm that the Government will not undermine artists and musicians by exempting AI data mining from copyright restrictions?",
+    "contributionExtId": "682E2005-820D-4877-9868-98611B875ED3",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4393,
+    "memberName": "Stuart C McDonald",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.357,
+    "_id": "j9765sy6az77zggqdreda8mjw57wjy08",
+    "contextText": "1. What recent assessment she has made of the potential impact of AI on the creative sector.",
+    "contributionExtId": "BDFA0E31-4FCB-4E77-8E99-426180459DBD",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4393,
+    "memberName": "Stuart C McDonald",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764487137.3567,
+    "_id": "j9738ctjq62ap6thagz9j39g7s7wkara",
+    "contextText": "4. What assessment she has made of the potential impact of AI on under-represented groups in the creative industries.",
+    "contributionExtId": "8BB222BD-731E-4081-AC80-50FB5362E8E1",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4658,
+    "memberName": "Alex Sobel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour (Co-op)"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5432,
+    "_id": "j979vmxm6gpyzmh3ty54nz9cvh7wj4e1",
+    "contextText": "I will endeavour to be succinct. AI offers huge benefits and opportunities to the creative sector, but it also brings challenges. The Government have engaged extensively with the creative industries and others about it and will continue to do so.",
+    "contributionExtId": "6A2FDF19-EB4F-48BA-9F0F-A1625D2C0C00",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 39,
+    "memberName": "Sir John Whittingdale",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.543,
+    "_id": "j9761zj2d6tzpx2gyjfpnm0c8s7wk56g",
+    "contextText": "There is a great deal of work going on around AI to develop a framework of regulation, as was originally set out in the White Paper. The hon. Gentleman’s point about algorithmic bias is a serious one; it is being studied by the Centre for Data Ethics and Innovation, and obviously we will look very carefully",
+    "contributionExtId": "2209AC7D-0CDB-4824-BCA0-F6C58B829F13",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 39,
+    "memberName": "Sir John Whittingdale",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5427,
+    "_id": "j97ayejvhe039tn0j542rq82x57wjmjm",
+    "contextText": "may have missed the creative sector vision, which was published about six months ago and set out an investment totalling some £50 billion going into the creative industries over the next five years. A great deal of work is taking place on the impact of AI on creative industries, and we are hoping to say more about that before the end of the year.",
+    "contributionExtId": "C26AC3EA-1515-4E06-95C5-8F4C6D8EAB18",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 39,
+    "memberName": "Sir John Whittingdale",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5425,
+    "_id": "j97d2yy2x2ze2fc0nmpadbx7297wjcdm",
+    "contextText": "With the Secretary of State, I was able to spend Monday in Manchester for the creative industries conference, where we met representatives from right across the sectors, including those from the AI sector. AI is already benefiting the creative industries to a considerable amount and represents real opportunities for them.",
+    "contributionExtId": "8E01FD8B-ACCB-40F2-A375-420440A28000",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 39,
+    "memberName": "Sir John Whittingdale",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5422,
+    "_id": "j973pq5s4j8ddm86ad11e7net57wkwq2",
+    "contextText": "Rapid development of AI poses major questions for many industries, including our vital press sector. We are hosting roundtables with broadcasters and news publishers to discuss the risks and opportunities of AI to journalism, and we intend to continue the conversation with the sector over the coming months.",
+    "contributionExtId": "295A4F16-F818-4730-84F0-FE1AC5044DF8",
+    "date": "2023-11-16",
+    "debateExtId": "C485109C-1BCF-44F0-A3F4-2F5693241AEE",
+    "debateTitle": "Topical Questions",
+    "house": "Commons",
+    "memberId": 39,
+    "memberName": "Sir John Whittingdale",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.542,
+    "_id": "j97eh51pkdf5cprzq0v28qdg8s7wkp0c",
+    "contextText": "That is just not good enough. Thanks to the resilience and hard work of those in the creative industries, they are growing faster than many others, but it is people who make the best joy and the best culture, not AI . We are all better off when we draw on everyone’s talents. That is how we grow the creative industries—with people from more diverse backgrounds in more jobs. Tackling AI is a fundamental part of that. To pick an example for the Minister, talent in",
+    "contributionExtId": "87B364A2-2241-4D22-A490-48810586A3A2",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4433,
+    "memberName": "Baroness Debbonaire",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5417,
+    "_id": "j97av7v2dr1m77fs71xep54wq97wkxve",
+    "contextText": "People working in the creative industries have been completely let down by the Tories, including on real concerns about the impact of AI . The Government have not responded to the consultation on their own AI White Paper or the report on AI and the creative industries. They have not got to grips with the issue at all. Creative people need to know whether they will be properly",
+    "contributionExtId": "A16926F2-4A14-42CB-B2CD-6800BF7E2B1E",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4433,
+    "memberName": "Baroness Debbonaire",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5415,
+    "_id": "j979g16byraxytf65ft6k8j4w97wkt28",
+    "contextText": "Does the Minister agree that the nature of AI systems is such that, when they are trained on creative works, both conscious and unconscious biases in music, films and art against certain groups in our society will be reinforced in generative outputs? The Government are seeking a code of conduct on copyright and AI;",
+    "contributionExtId": "FDE562EC-5D8D-4B0F-BF9C-613F0AE87972",
+    "date": "2023-11-16",
+    "debateExtId": "7A27DFB6-DEA8-41E5-8798-92C50F03D987",
+    "debateTitle": "Artificial Intelligence: Creative Sector",
+    "house": "Commons",
+    "memberId": 4658,
+    "memberName": "Alex Sobel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour (Co-op)"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5413,
+    "_id": "j970m433hhhfybt309g88dh6zd7wj48c",
+    "contextText": "noble Lord, Lord Coaker. I look forward to a fascinating and intimidatingly expert debate. Before commenting on the Bill, I feel that it is important to contextualise what we are discussing today. Many of us enjoy books that depict the intelligence services. In the m ai n, the George Smileys who appear within their covers are practising in a world that is very far from the lived experience of most people in this country. However, the reality is very different. The work of the intelligence services impacts very many people’s lives",
+    "contributionExtId": "9436D896-4849-4E18-B1FF-73544D91BFAD",
+    "date": "2023-11-20",
+    "debateExtId": "F933A59A-EA35-48F9-9AF7-6BCEDAE540AA",
+    "debateTitle": "Investigatory Powers (Amendment)  Bill [HL]",
+    "house": "Lords",
+    "memberId": 4322,
+    "memberName": "Lord Fox",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.541,
+    "_id": "j972sqyjrjmgwbvmmre4cyp6757wjx27",
+    "contextText": "My Lords, on behalf of my noble friend Lord Johnson of L ai nston, I beg to move that this Bill be now read a second time. It is truly an honour to stand at this Dispatch Box and make my maiden speech in this House. I have always respected the work that is done here, so often",
+    "contributionExtId": "C0748509-9324-45D1-A9DD-78B4B9B1304D",
+    "date": "2023-11-21",
+    "debateExtId": "BF38A5A2-DFC2-42BF-8EBB-D29C6CF855D8",
+    "debateTitle": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+    "house": "Lords",
+    "memberId": 1467,
+    "memberName": "Lord Cameron of Chipping Norton",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5408,
+    "_id": "j97dth020sv3c4g8vvfd57bcy97wjw3a",
+    "contextText": "management organisations. This change affects only the smallest CMOs and, as Members would expect, it seeks to get the right balance between protecting rights holders—there is no desire to see a diminution in rights holders’ ability to get the transparency they need and achieve f ai r recompense—and reducing some of the burdens on the smallest CMOs. The hon. Gentleman knows the seven smallest CMOs affected by this change. I will write to the hon. Gentleman about the very important issue of AI training. We will again ensure that rights holders",
+    "contributionExtId": "CA496624-C0B9-47E1-8473-52C0BAF882C4",
+    "date": "2023-11-22",
+    "debateExtId": "4aaf8499-a543-4e82-bef8-686003757280",
+    "debateTitle": "Draft Design Right, Artist’s Resale Right and Copyright (Amendment)  Regulations 2023 \r\n\r\n Draft Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023",
+    "house": "Commons",
+    "memberId": 4874,
+    "memberName": "Andrew Griffith",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5405,
+    "_id": "j972zez2mprg08cx7j3hp15sq57wjb7c",
+    "contextText": "Thank you, Mrs Cummins; it is a pleasure to serve under your ch ai rship. I thank the Minister for his speech, and other Members for their contributions. As we have heard, the first instrument modifies four distinct laws associated with intellectual property through the authority granted in the Retained EU Law (Revocation and Reform) Act 2023. The objective",
+    "contributionExtId": "97B8785B-BCCD-41C2-9A49-CFD035D9B089",
+    "date": "2023-11-22",
+    "debateExtId": "4aaf8499-a543-4e82-bef8-686003757280",
+    "debateTitle": "Draft Design Right, Artist’s Resale Right and Copyright (Amendment)  Regulations 2023 \r\n\r\n Draft Intellectual Property (Exhaustion of Rights) (Amendment) Regulations 2023",
+    "house": "Commons",
+    "memberId": 4654,
+    "memberName": "Matt Rodda",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5403,
+    "_id": "j976k0ppm4p9g93f999qt7swb17wjzq5",
+    "contextText": "My Lords, I declare my interests, particularly that of ch ai r of the Digital Futures Commission, which published the Blueprint for Educational Data in 2022, as chair of 5Rights Foundation and adviser to the Institute for Ethics in AI in Oxford. School is a place of learning and an environment where children build relationships, life",
+    "contributionExtId": "B23694C1-7DAF-469C-9533-19AF817E3872",
+    "date": "2023-11-23",
+    "debateExtId": "0588AF21-816D-4556-9D84-93D9A2385A07",
+    "debateTitle": "Educational Technology",
+    "house": "Lords",
+    "memberId": 4258,
+    "memberName": "Baroness Kidron",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.54,
+    "_id": "j973em49n6hkcrn9vegcv3gr2n7wk61j",
+    "contextText": "so important for all our constituents. We believe there is real scope for change within the Government’s approach to help our constituents not only to prevent stroke, but to survive stroke, and to benefit from that. As the hon. Member for Bromley and Chislehurst s ai d, every single five minutes, somebody will experience a stroke. For some people, it will be brief—a transient ischaemic attack. For other people, it will clearly be very serious indeed, and for some people it will lead to mortality. To bring that home, during the",
+    "contributionExtId": "C31C03A5-60BA-49D0-AB12-CC90FB27B4C2",
+    "date": "2023-11-23",
+    "debateExtId": "40D3742B-8B16-4D46-A3B0-EE809D559E0F",
+    "debateTitle": " World Stroke Day",
+    "house": "Commons",
+    "memberId": 4471,
+    "memberName": "Rachael Maskell",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour (Co-op)"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5398,
+    "_id": "j975at2qq5c0zjwhvs1y4xtard7wj3r9",
+    "contextText": "transformation and digital regulation in other sectors. With that caveat, I will dare to say a few points. From other sectors, there are four things that we know, which I would like to pull out. The first is obvious: the huge opportunity coupled and p ai red with the risks that digital technology brings. The yin and the yang are visible in every single place that digital goes. The second thing we know is that you cannot stop it. As my noble friend describes, the Luddites failed, as has everyone else",
+    "contributionExtId": "24F29E87-3F45-498D-A86B-4486792719CE",
+    "date": "2023-11-23",
+    "debateExtId": "0588AF21-816D-4556-9D84-93D9A2385A07",
+    "debateTitle": "Educational Technology",
+    "house": "Lords",
+    "memberId": 4324,
+    "memberName": "Baroness Harding of Winscombe",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5396,
+    "_id": "j97cpw1s40vx0e0p5d3hn7mgr97wjqej",
+    "contextText": "The noble Lord mentioned the carer’s Act. Does he recognise that we have millions of workers in this country who are p ai d nothing at all? It is high time we started paying more attention to carers and giving them support. Looking to the future, is one way we could do this not to have a universal wage rather than a minimum wage? In due course, as",
+    "contributionExtId": "5C0BF1E5-7EF0-4D0D-A6BA-70B7D75AAEFC",
+    "date": "2023-11-23",
+    "debateExtId": "218CAD27-C8AD-4FFB-B367-D87A934F7094",
+    "debateTitle": "Workers’ Rights",
+    "house": "Lords",
+    "memberId": 3335,
+    "memberName": "Lord Brooke of Alverthorpe",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5393,
+    "_id": "j97dmxg8j79gda7gbxzd4z5chh7wkdbc",
+    "contextText": "It is a great pleasure to see you in the Ch ai r, Mr Hollobone. I congratulate my hon. Friend the Member for Bromley and Chislehurst (Sir Robert Neill) on opening today’s debate, which is on such an important issue. He is a tireless campaigner for stroke survivors, and his experience is invaluable in bringing their voice",
+    "contributionExtId": "AC390AD8-0BA7-4D48-90E7-2B1250E0A52E",
+    "date": "2023-11-23",
+    "debateExtId": "40D3742B-8B16-4D46-A3B0-EE809D559E0F",
+    "debateTitle": " World Stroke Day",
+    "house": "Commons",
+    "memberId": 4044,
+    "memberName": "Andrew Stephenson",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.539,
+    "_id": "j971ypb5ey17sed6p9szv7k8j97wjrrw",
+    "contextText": "My Lords, I, too, thank the noble Baroness, Lady Kidron, for initiating this relevant and highly pertinent debate. I confess that tech is not my area of expertise, but I have received so many briefings and em ai ls and so much helpful advice that I am now well aware of the importance of edtech in schools. I was a teacher before technology. If we needed to duplicate, we had a jelly tray on which you put one sheet at a time. I",
+    "contributionExtId": "A56BFBA5-40A5-48E1-9546-EE51479E0750",
+    "date": "2023-11-23",
+    "debateExtId": "0588AF21-816D-4556-9D84-93D9A2385A07",
+    "debateTitle": "Educational Technology",
+    "house": "Lords",
+    "memberId": 3842,
+    "memberName": "Baroness Garden of Frognal",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5388,
+    "_id": "j972z3k7qa51bdzdsxnqyppbfd7wjwp7",
+    "contextText": "just a couple of your Lordships’ speeches, but I feel even more daunted coming at the end after such expertise and insight from your Lordships. I am pleased to say in response to the question from the noble Baroness, Lady Twycross, about our work with AI in Education that we have been working and liaising with it, and I share the noble Baronesses’ respect. I also spent time on its website recently, and I was stunned at the range of resources that it has created. I was fortunate enough to be",
+    "contributionExtId": "74D4C147-754A-48CB-ABA8-1C9B97A3E359",
+    "date": "2023-11-23",
+    "debateExtId": "0588AF21-816D-4556-9D84-93D9A2385A07",
+    "debateTitle": "Educational Technology",
+    "house": "Lords",
+    "memberId": 4703,
+    "memberName": "Baroness Barran",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5386,
+    "_id": "j971a57gmbp9ddmvr9c33xbp497wjqk5",
+    "contextText": "As ever, my right hon. Friend r ai ses an erudite question. My disposition, and that of the Government, is that open source AI is an important basis upon which we can build many world-leading applications. We can see companies in this country growing at a fast pace by developing innovative AI off",
+    "contributionExtId": "EBA93471-990D-419B-9024-1CB19EEB9C6D",
+    "date": "2023-11-23",
+    "debateExtId": "3282C3DA-25DB-403C-9514-7AE7016CE20F",
+    "debateTitle": "Topical Questions",
+    "house": "Commons",
+    "memberId": 4441,
+    "memberName": "Sir Oliver Dowden",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5383,
+    "_id": "j9755ek5eh8mqa65zm3wqfajtx7wk6s4",
+    "contextText": "contributions of the noble Baroness, Lady Brinton, and my noble friend Lord Holmes. The area that they have covered is so important. I want to record in Hansard that today is an auspicious day for British transport, because today a jet took off from London ai rport using synthetic fuel to fly to the States. That is a huge achievement of the United Kingdom, and our development, our work and our taxpayers’ money has brought that about. I would like to record that in the context of this particular Bill. Some",
+    "contributionExtId": "99488654-3521-4554-B28A-E26062E00CF7",
+    "date": "2023-11-28",
+    "debateExtId": "EEBFE8BF-D6F4-4FE8-965E-A8DD9A389F58",
+    "debateTitle": "Automated Vehicles Bill [HL]",
+    "house": "Lords",
+    "memberId": 1251,
+    "memberName": "Lord Naseby",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.538,
+    "_id": "j97abxj10fqew34ve09qhdmvdx7wj5dh",
+    "contextText": "My Lords, it is a pleasure to follow the noble Baroness, Lady Bennett of Manor Castle, and the very entert ai ning speech from the noble Lord, Lord Moylan, and to speak to your Lordships with a real sense of optimism over the Bill. In doing so, I declare an interest: my wife works for Amazon. Neither of us has any privileged information on operations in",
+    "contributionExtId": "82A80BBF-2314-4FC3-89D8-E647E3AA01D8",
+    "date": "2023-11-28",
+    "debateExtId": "EEBFE8BF-D6F4-4FE8-965E-A8DD9A389F58",
+    "debateTitle": "Automated Vehicles Bill [HL]",
+    "house": "Lords",
+    "memberId": 4951,
+    "memberName": "Lord Hampton",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5378,
+    "_id": "j97es94frvfm8ah3cn9y1nhdmd7wk2yc",
+    "contextText": "Front Bench in the transport portfolio; we go back a long way, and I am delighted that he is in this role. I declare my interests as set out in the register. I am very supportive of this legislation. It is excellent and very necessary. AI and automated vehicles present great positive opportunities for our country and for the people who live here, including workers. Properly grabbed, it should mean an increase in the number of jobs in the United Kingdom and this is what the legislation is all about. For",
+    "contributionExtId": "237F19EA-6B67-48D8-A867-585BC9E27DCF",
+    "date": "2023-11-28",
+    "debateExtId": "EEBFE8BF-D6F4-4FE8-965E-A8DD9A389F58",
+    "debateTitle": "Automated Vehicles Bill [HL]",
+    "house": "Lords",
+    "memberId": 4282,
+    "memberName": "Lord Bourne of Aberystwyth",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5376,
+    "_id": "j97511t63v4303qr1bbbj21k7d7wjg7n",
+    "contextText": "My Lords, I join all those who congratulated the noble Baroness, Lady Lane-Fox, on her speech and on the work that she did in ch ai ring this committee. She brings a thoughtfulness and a knowledge of digital way beyond most of us, which has made this report a very special piece of work and has allowed her to pioneer new methods of data-gathering, which I think will be used elsewhere.",
+    "contributionExtId": "5C48B783-C8E4-42FF-8D6E-A9B473F2668C",
+    "date": "2023-11-29",
+    "debateExtId": "3B3AF2AA-BB51-4F14-91E5-EE3F8D276E28",
+    "debateTitle": "Living in a COVID World: A Long-term Approach to Resilience and Wellbeing (COVID-19 Committee Report)",
+    "house": "Lords",
+    "memberId": 4284,
+    "memberName": "Baroness Neville-Rolfe",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5374,
+    "_id": "j97ehz7fvx5nqy2v737pfdrm4n7wj0fq",
+    "contextText": "My Lords, I will start with some thanks. First, I thank the team that helped us during our committee; it was patient beyond belief, especially with the novice ch ai r. I thank the Whips’ Office for a protracted process of finding a date to debate our various reports; I am delighted that we have managed to do so today. Most importantly, I thank the members of my committee, a few of whom are in",
+    "contributionExtId": "45C353AE-290D-42EB-85B0-27FF52A1D467",
+    "date": "2023-11-29",
+    "debateExtId": "3B3AF2AA-BB51-4F14-91E5-EE3F8D276E28",
+    "debateTitle": "Living in a COVID World: A Long-term Approach to Resilience and Wellbeing (COVID-19 Committee Report)",
+    "house": "Lords",
+    "memberId": 4275,
+    "memberName": "Baroness Lane-Fox of Soho",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.537,
+    "_id": "j97fmf3a89rfvd01gz4x365zed7wkssx",
+    "contextText": "which had “turned the comer” and was making investors excited. I should declare that I am an investor in British SMEs, so I was somewhat concerned, rather than excited, to see that the Chancellor appears to have been drinking from the same bottle of Kool- Ai d. In his introduction to the Autumn Statement, the Chancellor says that he is delivering “the biggest business tax cut in modern British history” backing “British business with 110 growth measures”.—[ Official Report , Commons, 22/11/23; cols. 325-36.] He said that we sit in “Europe’s",
+    "contributionExtId": "BFF56D06-B753-41A0-991B-11459F6FA3F5",
+    "date": "2023-11-29",
+    "debateExtId": "D98CAE80-7C1A-4C6B-A36C-9A4F435AF399",
+    "debateTitle": "Autumn Statement 2023",
+    "house": "Lords",
+    "memberId": 2047,
+    "memberName": "Lord Londesborough",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5369,
+    "_id": "j972y2kevy581d6xm7k1hrspss7wk7re",
+    "contextText": "My Lords, I am pleased to be able to take part in this debate today. I was not a member of the Covid-19 Committee, but I congratulate its ch ai r, the noble Baroness, Lady Lane-Fox of Soho, and her committee on producing an excellent report to address issues on future resilience and, importantly, the well-being of people post pandemic. I also congratulate the noble Baroness on the brilliant way in which she presented her",
+    "contributionExtId": "CCBACAAD-184D-4829-A7DD-4041B1EA6610",
+    "date": "2023-11-29",
+    "debateExtId": "3B3AF2AA-BB51-4F14-91E5-EE3F8D276E28",
+    "debateTitle": "Living in a COVID World: A Long-term Approach to Resilience and Wellbeing (COVID-19 Committee Report)",
+    "house": "Lords",
+    "memberId": 2443,
+    "memberName": "Lord Patel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5366,
+    "_id": "j972p0qdxpse49hcx10f7w6x8d7wj42v",
+    "contextText": "is the thing: as with so much of this Bill, there is a good chance that minority groups or people with protected characteristics will find themselves most at risk of those checks and of coming under the proactive suspicion of the DWP. As we s ai d when moving the committal motion, we have not had time to seek properly to interrogate that point. In his attempts to answer interventions, the Minister kind of demonstrated why scrutiny has been so inadequate. At the same time, the Government’s own Back Benchers, including",
+    "contributionExtId": "0156F09E-033C-4036-A7CE-A93CD33AA0B5",
+    "date": "2023-11-29",
+    "debateExtId": "46EF0AA6-C729-4751-A3DA-6A3683EB8B87",
+    "debateTitle": " Data Protection and Digital  Information Bill",
+    "house": "Commons",
+    "memberId": 4432,
+    "memberName": "Patrick Grady",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "SNP",
+      "colour": "#fff685",
+      "name": "Scottish National Party"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5364,
+    "_id": "j97346zyyf9n0j6v6dyg5bxr9d7wkr6v",
+    "contextText": "The increasing proliferation of AI -generated disinformation and deepfakes poses a clear and present danger not only to our democratic process, but to the administration of justice itself. What further steps will my right hon. Friend take, following the Bletchley summit, to strengthen our domestic law when it comes to",
+    "contributionExtId": "3F4F02FC-8FA0-4EBE-849D-D1F16D590FD0",
+    "date": "2023-11-29",
+    "debateExtId": "688F915E-FFA6-4955-AAF9-977206771EC1",
+    "debateTitle": "Engagements",
+    "house": "Commons",
+    "memberId": 4106,
+    "memberName": "Sir Robert Buckland",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5361,
+    "_id": "j973c6v4q06q48wqe09k4wjjm57wke33",
+    "contextText": "50th anniversary of the NHS. My noble friends Lord Brooke and Lady Pitkeathley spoke in that debate, and I am delighted that they are speaking today—they are great survivors. In 1997, the Labour Government inherited an NHS in crisis, with low morale and long w ai ting times. I was privileged as a Minister to contribute to a complete revival of the service’s fortunes. I pay tribute to my colleagues, to the right reverend Prelate the Bishop of London, who played a pivotal role as Chief Nursing Officer, and to my",
+    "contributionExtId": "EFFE60B3-E165-40B1-8647-F6BAE70AFBB0",
+    "date": "2023-11-30",
+    "debateExtId": "F40D2CD0-4E39-496C-AB98-CCB539FA0F75",
+    "debateTitle": "National Health Service: 75th Anniversary",
+    "house": "Lords",
+    "memberId": 2024,
+    "memberName": "Lord Hunt of Kings Heath",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.536,
+    "_id": "j9755n1kqvyhgk2vczhjdszsfs7wk68p",
+    "contextText": "My Lords, last week I introduced a debate on the impact of edtech on the learning, social development and privacy of children, and more than one noble Lord stood up and s ai d that they were an expert not on tech but on education. So, this afternoon, I hope noble Lords will bear with me because I am standing up and saying that I am not an expert in education but rather in tech, and it is",
+    "contributionExtId": "9AB9BCB5-A949-4D42-B54C-99D49F5EAF46",
+    "date": "2023-11-30",
+    "debateExtId": "7785570D-07F7-49F1-AFF4-AEAF30184351",
+    "debateTitle": "Early Years Education",
+    "house": "Lords",
+    "memberId": 4258,
+    "memberName": "Baroness Kidron",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5356,
+    "_id": "j97a76sxahczayy03pgpn7w8bn7wkz0p",
+    "contextText": "My Lords, I congratulate the noble Lord, Lord Hunt of Kings Heath, on his excellent introductory speech. He hit all the n ai ls very firmly on the head. As the NHS reaches its 75th year, it is a very different and much larger beast than when it started out. The challenges are not just greater but different. On the upside, to a great extent we have conquered",
+    "contributionExtId": "53953549-0BAB-42EC-8902-008674F1B229",
+    "date": "2023-11-30",
+    "debateExtId": "F40D2CD0-4E39-496C-AB98-CCB539FA0F75",
+    "debateTitle": "National Health Service: 75th Anniversary",
+    "house": "Lords",
+    "memberId": 2547,
+    "memberName": "Baroness Walmsley",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5354,
+    "_id": "j97fedk0k0bkqheepcyy8wtrr17wjrbj",
+    "contextText": "approach by government. My noble friend Lord Dubs spoke of the value of quality public services. As he was doing so, and while we were having such a passionate and intelligent debate, I was sorry to hear the sad news of the death of Alist ai r Darling, a giant of public service and former Member of your Lordships’ House. May his memory be for a blessing. In the wake of the Second World War, the Labour Government founded the National Health Service through the leadership of Prime Minister Clement Attlee",
+    "contributionExtId": "C23C9E0F-0D70-4BC1-A0E9-057246746B61",
+    "date": "2023-11-30",
+    "debateExtId": "F40D2CD0-4E39-496C-AB98-CCB539FA0F75",
+    "debateTitle": "National Health Service: 75th Anniversary",
+    "house": "Lords",
+    "memberId": 347,
+    "memberName": "Baroness Merron",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5352,
+    "_id": "j97aj56rqkyfn859d2tsxnyqm17wk486",
+    "contextText": "My Lords, it is a great pleasure to follow my noble friend Lord Cashman and pay tribute on this special day to all the work he has done on AI DS awareness. I am grateful to my noble friend Lord Hunt for introducing such an important debate to the House today, with a tour de force of a speech on the opportunities for and challenges facing our NHS. We recently held an event in Stevenage",
+    "contributionExtId": "310F6664-887E-4161-A1BA-7CB5BDD81EA1",
+    "date": "2023-11-30",
+    "debateExtId": "F40D2CD0-4E39-496C-AB98-CCB539FA0F75",
+    "debateTitle": "National Health Service: 75th Anniversary",
+    "house": "Lords",
+    "memberId": 4956,
+    "memberName": "Baroness Taylor of Stevenage",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.535,
+    "_id": "j971vhv770faqrq9sx1zw2h4xn7wjejw",
+    "contextText": "We live in a dangerous and volatile world. The risks are more numerous, more complex, and evolving more rapidly than ever before. The aftermath of the global pandemic, Russia’s ongoing aggression in Ukr ai ne, extreme weather events, cyber-attacks, malign AI use cases—all those and more threaten the security, safety and stability of our nation. Protecting people is the first duty of government, which is why resilience is a top priority for this Government. It is quite simply the",
+    "contributionExtId": "BA349492-DEC7-46FA-AAFB-14B487FB2A02",
+    "date": "2023-12-04",
+    "debateExtId": "AB0C41BB-F51A-45F3-925C-F565557C3F6B",
+    "debateTitle": "Risk and Resilience: Annual Statement",
+    "house": "Commons",
+    "memberId": 4441,
+    "memberName": "Sir Oliver Dowden",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5347,
+    "_id": "j97chjvsawbccb15a3md814w3x7wjmw7",
+    "contextText": "Whether it is fraud, threats to cyber-security or the emergent risks of new technologies such as AI , the greatest defence we can have is better education and awareness so that individuals and businesses can better protect themselves, and that is especially true for our children. Could my right hon. Friend talk about how the new academy can play into the curriculum",
+    "contributionExtId": "9B238D19-3174-4AF3-85B8-88A3A47B5D49",
+    "date": "2023-12-04",
+    "debateExtId": "AB0C41BB-F51A-45F3-925C-F565557C3F6B",
+    "debateTitle": "Risk and Resilience: Annual Statement",
+    "house": "Commons",
+    "memberId": 4744,
+    "memberName": "Simon Fell",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5344,
+    "_id": "j979as7r1j5r78vh5ef449jqwh7wk0x9",
+    "contextText": "My Lords, the Minister referred earlier to new risks. Sadly, the rapid development of AI has given rise to deepfake video and audio of political leaders, most recently the London Mayor, Sadiq Khan. We debated such issues during the passage of the Online Safety Act, but many were left feeling that the challenges that AI poses to our democratic processes",
+    "contributionExtId": "5C35C91F-2ADB-4586-AAEE-AE2FC774532B",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 3504,
+    "memberName": "Lord Bassam of Brighton",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5342,
+    "_id": "j97b0k770vs0e2by509tythrxs7wkpt5",
+    "contextText": "My hon. Friend is absolutely right to highlight this. As he says, AI will increase the threat landscape vis-à-vis cyber risks; I hope that we can also apply AI to reduce those risks. We are already working with the National Cyber Security Centre to develop products to inform individuals, and the new academy will work to provide education",
+    "contributionExtId": "692BB722-DD3B-4CCF-842B-57686C0FEC10",
+    "date": "2023-12-04",
+    "debateExtId": "AB0C41BB-F51A-45F3-925C-F565557C3F6B",
+    "debateTitle": "Risk and Resilience: Annual Statement",
+    "house": "Commons",
+    "memberId": 4441,
+    "memberName": "Sir Oliver Dowden",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.534,
+    "_id": "j97ccwyt1rm2g15sjwtdf00d297wjszh",
+    "contextText": "My Lords, the Government have just conducted a whole summit about the risks of AI , so why in the new data protection Bill are they weakening the already limited legal safeguards that currently exist to protect individuals from AI systems making automated decisions about them in ways that could lead to discrimination or disadvantage? Is this not perverse even",
+    "contributionExtId": "817BFDB5-2E3C-4337-8AF5-0ECC9A62EBC4",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 3396,
+    "memberName": "Lord Clement-Jones",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5337,
+    "_id": "j973s22w0ekzx8xtkche9n1axd7wk9rh",
+    "contextText": "I thank my noble friend for that question on the important area of AI usage in defence. As she will recall, AI in defence is principally conducted within the remit of the Ministry of Defence itself. My role has very little oversight of that, but I will take steps with government colleagues to confirm an answer for my noble",
+    "contributionExtId": "ED0FA737-6ABF-4BF3-AEAC-37493ED2EF4F",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486922.5334,
+    "_id": "j97f8q86g9f46j8yv3s28907cs7wjp73",
+    "contextText": "Regulators have existing powers that enable them to regulate AI within their remits and are already actively doing so. For example, the CMA has now published its initial review of foundation models. The AI regulation White Paper set out our adaptive, evidence-based regulatory framework, which allows government to respond to new risks as AI develops.",
+    "contributionExtId": "1CEFC88E-3215-4806-BCF4-25067040C6E7",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5796,
+    "_id": "j97c4j4frpvq8vy86w1bvnt7sx7wk6z2",
+    "contextText": "My Lords, the MoD published its AI strategy in June 2022. Among other priorities, the MoD aspired to be, on AI, the world’s most effective defence organisation for its size, through the delivery of battle-winning capability and supporting functions and our ability to collaborate and partner with UK allies and AI ecosystems.",
+    "contributionExtId": "05CB5DE7-2EFD-4ABA-81C9-446C5C66A17D",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4306,
+    "memberName": "Baroness Goldie",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5793,
+    "_id": "j97dt6mb288knwcy9gjqhctyed7wkmvr",
+    "contextText": "When the then frontier model task force was set up, we had in senior officialdom a total of three years of PhD-level experience in AI safety. I am pleased to say that that number is now 150. We have probably the greatest concentration of AI safety researchers and scientists of any nation working currently for the United Kingdom Government on this crucial issue of AI safety.",
+    "contributionExtId": "C37C84F3-538D-4C48-866A-B97AAD8E9F11",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.579,
+    "_id": "j97dx01w85fhpaead6xe5c2fzd7wjfv6",
+    "contextText": "I thank my noble friend for his congratulations with respect to the AI safety summit. We continue to engage internationally, not just with the larger international AI fora but very regularly with our colleagues in the US and the EU, both at ministerial and official level. The eventual landing zone of international interoperable AI regulations needs to be",
+    "contributionExtId": "B58A7393-90EB-40AB-88C3-181D1828E80F",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5789,
+    "_id": "j97dywq3anebx2c9z7dtpk184d7wkgs3",
+    "contextText": "My Lords, two weeks ago, France, Germany and Italy published a joint paper on AI regulation, executive orders have already committed the US to specific regulatory guardrails, and the debate about the EU’s AI Act is ongoing. By contrast, we appear to have adopted a policy that may generously be described as masterly inactivity. Apart from waiting for Professor Bengio’s",
+    "contributionExtId": "A870C3B6-F012-4F4C-9071-7953F470F3C6",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 620,
+    "memberName": "Lord Browne of Ladyton",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5786,
+    "_id": "j975fpt5w8bqg8k52yhjgwqvhs7wjh38",
+    "contextText": "My Lords, I congratulate my noble friend the Minister on the recent AI safety summit. It is interesting that the EU is currently debating an AI regulation and tying itself up in knots about whether to regulate large language models or the application of AI. Can the Minister give an indication, first, of which direction the Government are",
+    "contributionExtId": "F41D3F26-6EDE-4A5C-91D8-21A7F358F71F",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 1580,
+    "memberName": "Lord Vaizey of Didcot",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5784,
+    "_id": "j97e1z30ey2g1b42tvebqfzedh7wks1v",
+    "contextText": "I think I would regret a characterisation of AI regulation in this country as non-existent. All regulators and their sponsoring government departments are empowered to act on AI and are actively doing so. They are supported and co-ordinated in this activity by new and existing central AI functions: the central AI risk function, the",
+    "contributionExtId": "AF8077FB-9C14-45DB-9554-2D4B7A037048",
+    "date": "2023-12-04",
+    "debateExtId": "F8B4E6EA-3C86-477B-B142-AEDB87C407BA",
+    "debateTitle": "Artificial Intelligence: Regulation",
+    "house": "Lords",
+    "memberId": 4939,
+    "memberName": "Viscount Camrose",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5781,
+    "_id": "j9701ncav8wmxtmdb33r3pgg7n7wkxm1",
+    "contextText": "Markets Unit to be empowered—so, at last. As the noble Lord, Lord Bassam, also noted, this is a big Bill, and it acts in a number of different ways. I fear that many of the things I say will be similar to what was s ai d by the noble Lord; in order to maintain novelty, I will probably say them in a different order. I will start with consumer issues. Clearly, these issues have excited correspondence from a lot of people in the outside world. We should note and thank",
+    "contributionExtId": "9FFAB16B-818D-4AC7-AFD8-738D6D5232B1",
+    "date": "2023-12-05",
+    "debateExtId": "8A9A99FB-CD4C-4591-B357-02A1FA287FCB",
+    "debateTitle": "Digital Markets, Competition and Consumers Bill",
+    "house": "Lords",
+    "memberId": 4322,
+    "memberName": "Lord Fox",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.578,
+    "_id": "j974dp2bvc3jr426m428mm1x7x7wkg09",
+    "contextText": "My Lords, it is a pleasure to follow the noble Baroness, Lady Ritchie of Downpatrick. I declare my interest as set out in the register as adviser to the Institute for Ethics in AI at Oxford and the Digital Futures Commission at LSE, and chair of 5Rights Foundation. Like other noble Lords, I welcome the Bill. I can claim to be an enthusiastic advocate for democratic oversight of the power of tech, corporations, their products and services and the",
+    "contributionExtId": "2AE151AA-7522-40A7-8A1F-347EAD1CF88C",
+    "date": "2023-12-05",
+    "debateExtId": "8A9A99FB-CD4C-4591-B357-02A1FA287FCB",
+    "debateTitle": "Digital Markets, Competition and Consumers Bill",
+    "house": "Lords",
+    "memberId": 4258,
+    "memberName": "Baroness Kidron",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5776,
+    "_id": "j97cs713nqrh401w088t7j0h7n7wjeyt",
+    "contextText": "and helping friends and family to stay in touch in challenging times for us all. The digital revolution has also had transformative and hugely beneficial effects on our economy. The UK has the largest tech ecosystem in Europe. Last year, our start-ups and scale-ups r ai sed more investment than France and Germany combined. We have more tech unicorns than any other country in Europe with eight cities having at least two unicorns, including Edinburgh, Nottingham and Leeds. The strengths of our vibrant digital sector are numerous and closely interlinked. From",
+    "contributionExtId": "63C02322-E76A-4BFB-9B48-4F2CCEBEC8D4",
+    "date": "2023-12-05",
+    "debateExtId": "8A9A99FB-CD4C-4591-B357-02A1FA287FCB",
+    "debateTitle": "Digital Markets, Competition and Consumers Bill",
+    "house": "Lords",
+    "memberId": 4931,
+    "memberName": "Lord Offord of Garvel",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5774,
+    "_id": "j97egvser6edbbypfaksa2rfr57wkhck",
+    "contextText": "follow the noble Baroness, Lady Harding, especially with her great advocacy of the power of competition. That passionate belief in competition is something that unites us all around the House today. First, I declare an interest as a consultant to DLA Piper and as ch ai r of the Trust Alliance Group, which runs the Energy Ombudsman service. I thank the Minister—the noble Lord, Lord Offord—for what I thought was a comprehensive introduction that really set the scene for the Bill. As my noble friend said, we very much welcome the",
+    "contributionExtId": "2EDA0D39-D214-49E6-822A-2986D3ABA80C",
+    "date": "2023-12-05",
+    "debateExtId": "8A9A99FB-CD4C-4591-B357-02A1FA287FCB",
+    "debateTitle": "Digital Markets, Competition and Consumers Bill",
+    "house": "Lords",
+    "memberId": 3396,
+    "memberName": "Lord Clement-Jones",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "LD",
+      "colour": "#faa01a",
+      "name": "Liberal Democrat"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5771,
+    "_id": "j9752wggsvsqv68r51atf4bx6d7wj7v1",
+    "contextText": "My Lords, this Question has become topical since I tabled it, since the Government have started to take powers to look into the bank account of every pensioner in the country. But that has made me even keener to understand exactly how DWP is using AI . Can the Minister tell the House whether it is used to select people for health reassessments, or to decide who to investigate or who to sanction? If so, what safeguards are in place to ensure that it is used transparently and fairly? How do",
+    "contributionExtId": "D7D8717B-161C-4D8F-99B8-B4FD1B8C48C5",
+    "date": "2023-12-05",
+    "debateExtId": "992EFA18-05FC-4327-AA06-2B896E0782A3",
+    "debateTitle": "Department for Work and Pensions: AI",
+    "house": "Lords",
+    "memberId": 4147,
+    "memberName": "Baroness Sherlock",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Lab",
+      "colour": "#d50000",
+      "name": "Labour"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.577,
+    "_id": "j974byykjpbk0y21n1hr16nh5n7wj8tr",
+    "contextText": "best childminder for five minutes of peace. In turn, four and five year-olds became the best tutors for countless reluctant grandparents, who are now just as hooked on sharing every aspect of their thoughts and live events—including my 84 year-old mother. These online interactions r ai se many aspects of our consumer rights and protections: how do we regulate a global phenomenon that is in every environment that we occupy? I do not possess the technical prowess or expertise of many other noble Lords, but I welcome the determination of this",
+    "contributionExtId": "C8BDF19A-D359-4EA9-AC5F-815E720962C8",
+    "date": "2023-12-05",
+    "debateExtId": "8A9A99FB-CD4C-4591-B357-02A1FA287FCB",
+    "debateTitle": "Digital Markets, Competition and Consumers Bill",
+    "house": "Lords",
+    "memberId": 1827,
+    "memberName": "Baroness Uddin",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Non",
+      "colour": "#888888",
+      "name": "Non-affiliated"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5767,
+    "_id": "j97a0e9pnhj50fdwdn6v8p57ns7wjyrq",
+    "contextText": "My Lords, given that the DWP’s proposed total expenditure for 2023-24 is a staggering £279.3 billion, can my noble friend tell the House whether this use of AI will contribute and is contributing to cost efficiencies within the department?",
+    "contributionExtId": "63E966BD-FACE-4502-AEC8-7DD8D0AFE7FD",
+    "date": "2023-12-05",
+    "debateExtId": "992EFA18-05FC-4327-AA06-2B896E0782A3",
+    "debateTitle": "Department for Work and Pensions: AI",
+    "house": "Lords",
+    "memberId": 3349,
+    "memberName": "Baroness Buscombe",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5764,
+    "_id": "j9744g2rzhkd37jjjqwp3by2th7wjaej",
+    "contextText": "Will this AI enable people who are on social security to get a better deal and get off social security, so that we can tap into the skills and abilities of millions of people who are caught in the Bastille of poverty and social security?",
+    "contributionExtId": "4AEE826D-97F8-4B79-A100-2E61E1C6E265",
+    "date": "2023-12-05",
+    "debateExtId": "992EFA18-05FC-4327-AA06-2B896E0782A3",
+    "debateTitle": "Department for Work and Pensions: AI",
+    "house": "Lords",
+    "memberId": 4564,
+    "memberName": "Lord Bird",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "XB",
+      "colour": "#C0C0C0",
+      "name": "Crossbench"
+    }
+  },
+  {
+    "_creationTime": 1764764486683.5762,
+    "_id": "j97a6qg2n45rnqs4xtec4xtcw17wjarb",
+    "contextText": "Yes, and I can outline that a lot of very good work has been done so far. As I s ai d earlier, the work still has to include human judgment, but AI is being used to assist with improving on repetitive processes for staff. We are introducing conversational platforms for triaging, which will lead directly to having a human face. The whole point is to",
+    "contributionExtId": "3C417C1D-D98D-4E6F-A9E9-84F24A004B04",
+    "date": "2023-12-05",
+    "debateExtId": "992EFA18-05FC-4327-AA06-2B896E0782A3",
+    "debateTitle": "Department for Work and Pensions: AI",
+    "house": "Lords",
+    "memberId": 4169,
+    "memberName": "Viscount Younger of Leckie",
+    "mentionType": "AI",
+    "party": {
+      "abbreviation": "Con",
+      "colour": "#0063ba",
+      "name": "Conservative"
+    }
+  }
+]

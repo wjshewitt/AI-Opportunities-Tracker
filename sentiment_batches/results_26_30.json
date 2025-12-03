@@ -1,0 +1,680 @@
+[
+  {
+    "id": "j979vspqbajwktxt2wpmax12wd7wkgcm",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Speaker emphasizes Malaysia's engagement with UK on digital agenda and AI, seeking guidance on tech policy development."
+  },
+  {
+    "id": "j97ae4w7edjkvy541fr2e235m57wj6pz",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Using AI to reduce wasteful spending and improve efficiency in government procurement is presented positively."
+  },
+  {
+    "id": "j973yr1jd1b10pd98rs03tk2sx7wjbdb",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Speaker discusses need for AI and robotics revolution infrastructure with urgency to drive forward innovation."
+  },
+  {
+    "id": "j974t794j96kt1vy6677ws6vcn7wj24t",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "Highlighting AI, robotics and computing courses as brilliant opportunities for careers in space industry."
+  },
+  {
+    "id": "j97amhtfbtwcdx9hd16h2wq8g97wkq28",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Introducing criminal offenses to combat AI technology used in making/sharing child sexual abuse material."
+  },
+  {
+    "id": "j978pq63zaayprqqw6n5r38qa57wkmma7",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Speaker acknowledges lack of personal knowledge about AI while recognizing need to regulate it."
+  },
+  {
+    "id": "j97cdtmkg2d8d3ts5wtkcg615x7wk39a",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Harnessing AI to cut unnecessary burdens on teachers is presented as supportive improvement."
+  },
+  {
+    "id": "j970yhhvk04e6h2w1v2v5xzqyd7wj4b1",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "AI mentioned alongside changes in work patterns as inevitable factors leading to future work arrangements."
+  },
+  {
+    "id": "j975v2nck4d020ypd34qy1h21s7wkzjw",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "AI mentioned among various global challenges (climate, hybrid threats, cyberattacks) without clear stance."
+  },
+  {
+    "id": "j977jzh5c2grt72wcycmdbgcdn7wk1w8",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Discussing AI as example of rapidly changing sectors where government changes may not be optimal."
+  },
+  {
+    "id": "j97faaezhtbk5srdf1565ppefx7wk2xp",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "UK leadership in AI cited alongside other strengths as what makes Britain great today."
+  },
+  {
+    "id": "j97drzq22z12b6xxej7azt07c57wk2t7",
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "reasoning": "NHS single-payer model ideally placed for AI, genomics, and machine learning to unlock new treatments."
+  },
+  {
+    "id": "j9750ankxtgkd3knahqdfgrh2x7wjwdt",
+    "sentiment": "positive",
+    "confidence": 0.87,
+    "reasoning": "UK positioned to transform and save lives through AI, biotech, and immunotherapy development."
+  },
+  {
+    "id": "j974mkcrxee660r5jb12v2pyb17wjphn",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Discusses how government intends to use AI to tackle fraud with safeguards for human oversight."
+  },
+  {
+    "id": "j9713my1x0qswn4kw6s7keajgd7wkmsq",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Defines AI and machine learning systems for algorithmic transparency reporting in fraud legislation."
+  },
+  {
+    "id": "j974qmgvznse9nn7yd2x7pwbad7wkh32",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about what AI algorithmic transparency requirements aim to achieve in fraud bill."
+  },
+  {
+    "id": "j97135mwhspybjfg5w8gp8y7r97wkjzg",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Ensuring young people have access to skills in technology and AI as part of arts education plan."
+  },
+  {
+    "id": "j97dnj7kda8t2jv0afw8jw1e1x7wjncd",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Questions about AI's future effect on labour market and planning timeframe for skills gaps."
+  },
+  {
+    "id": "j971c9982n0xj3hetsm83ggf1s7wjs7c",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "AI described as huge opportunity for healthcare, helping GPs double-check diagnoses effectively."
+  },
+  {
+    "id": "j97064zg0e72n07wmnh6j6r3557wkv0s",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Questions about using AI to reduce barriers and potential pitfalls for BSL interpretation."
+  },
+  {
+    "id": "j97a0144xkwjeqn7t8xw17q4wn7wjs9f",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Government Legal Department's AI centre of excellence offering expert support to colleagues across government."
+  },
+  {
+    "id": "j97d5w65jc3gs9fjpqjybjncbh7wj38h",
+    "sentiment": "positive",
+    "confidence": 0.78,
+    "reasoning": "AI making it possible to engage with more information and conversation than was previously possible."
+  },
+  {
+    "id": "j97aqycbaj8b7e366mr9r139197wjn5b",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Government grant to BioNTech for expansion of R&D and AI activities in UK over next decade."
+  },
+  {
+    "id": "j97dpa50yt4vegcwbqcvvsym217wjv5p",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "First allocations include pioneering AI tools to modernise the state and make public services more efficient."
+  },
+  {
+    "id": "j973ex936xn33916va1b0bctgs7wkf03",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "UK and China can strengthen global AI safety regulations and share domestic approaches."
+  },
+  {
+    "id": "j977wyyr0km1yc4bwrrwnfcz3x7wktkte",
+    "sentiment": "positive",
+    "confidence": 0.78,
+    "reasoning": "Exploring opportunities for AI to reduce future cost of court transcripts with better accuracy."
+  },
+  {
+    "id": "j979wtq1xgnq5ge618f35bd30d7wk7q7",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI systems can scan CCTV footage and highlight relevant content to officers within seconds."
+  },
+  {
+    "id": "j972xdv0ba2src1gr98x69jcys7wjspd",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Concern that AI application will replace people as government makes employment more costly."
+  },
+  {
+    "id": "j9708ck3jcss5whha1w8aff3n97wj8v0",
+    "sentiment": "neutral",
+    "confidence": 0.8,
+    "reasoning": "Need for police to be up to speed on AI and machine learning among other technologies."
+  },
+  {
+    "id": "j970fsq8kf1mjg9xesnz7d6c397wjr4s",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "North Lincolnshire council proposals include AI sector projects that could lead to significant investment."
+  },
+  {
+    "id": "j9741c1tfqb1gcc5a7scs1twfx7wkd6k",
+    "sentiment": "negative",
+    "confidence": 0.78,
+    "reasoning": "Concerns about role of AI in spreading misinformation and influencing elections through various channels."
+  },
+  {
+    "id": "j979j1q5r4ckw1s32pbz3htmx97wjr6d",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Reaffirming support for Scunthorpe's green growth zone and AI sector companies."
+  },
+  {
+    "id": "j972yha96115y2xyfpk6pz2j5n7wkp5t",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Regulatory system must be flexible to accommodate emerging technologies such as AI."
+  },
+  {
+    "id": "j97acn3qwkpbnksjh55fchzmyd7wktsz",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "AI dominance mentioned among trends affecting young people that RSHE guidance must reflect."
+  },
+  {
+    "id": "j975s0jfgsvny00g8cxbqtfb1h7wkafx",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Arts and humanities essential for healthy democracy in a world increasingly driven by AI."
+  },
+  {
+    "id": "j978a96m1szhbzcfk1afn7wq5x7wkvj3",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Rise of AI enables bots to abuse MPs and candidates en masse, harder to trace."
+  },
+  {
+    "id": "j97277s6d1x2b7qthsfp8mph9d7wjfgv",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Convening roundtables to work with industry across AI and creative industries to strike right balance."
+  },
+  {
+    "id": "j97f71ev35jh4cpd28p6xdyw5n7wjhn0",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Actions on AI and copyright will ensure creative industries have more control and remuneration."
+  },
+  {
+    "id": "j97a9xktfcvtzywtvangb29zjx7wkty8",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI can identify cracks and spot potholes before they appear, emerging helpful technology."
+  },
+  {
+    "id": "j971tjafeve12ga7ha3hwertwx7wj0td",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Legislation targeting online offending including abuse and grooming enabled by AI."
+  },
+  {
+    "id": "j972zz5at1nrk3qv62py4eewwn7wkmvj",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "10% of MOD equipment budget on novel technologies like AI will create skilled jobs."
+  },
+  {
+    "id": "j97a0m8s0emkxnkv6mwv9ndbc57wjg69",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Discussions with Scottish counterparts on legislation including child sexual abuse online and AI."
+  },
+  {
+    "id": "j97bqa0m6n1rmt4nkk413xta817wjs02",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Supporting enterprise management incentive scheme for AI technology companies to create prosperity."
+  },
+  {
+    "id": "j97cdkw9vf6eyvrsdm016jdkdn7wj7ax",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Legislation on online offending, abuse and grooming enabled by AI put in place."
+  },
+  {
+    "id": "j975705jhzbsej5nz4xtj7j5zn7wkd22",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Piloting AI technology for court transcripts accuracy - costs prohibitive, accuracy not yet there."
+  },
+  {
+    "id": "j977fk6d72xgr24s3f25g7q7rs7wkagc",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Training social care staff in AI to automate routine tasks, seizing opportunities for benefit."
+  },
+  {
+    "id": "j970qbj6ms02246gg3q9baes5n7wk44g",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about plans to measure emissions associated with AI in relation to net zero target."
+  },
+  {
+    "id": "j97dh2jzqnhkbz5h24f58x5wr57wjbzz",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "AI models can produce news summaries, giving tech firms influence over type of news we see."
+  },
+  {
+    "id": "j976zprfgnsxmych7weeaxcthx7wj2sy",
+    "sentiment": "positive",
+    "confidence": 0.85,
+    "reasoning": "Human-specific approaches like AI produce results more relevant to people than animal testing."
+  },
+  {
+    "id": "j97c976gr30cp9273bh15b7hpx7wjg5c",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Defines AI and machine learning systems for algorithmic transparency in Carer's Allowance overpayments."
+  },
+  {
+    "id": "j978x3xq8vx8wgpyjbrxbb5zc97wkqw1",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government moving ahead on role of AI as Tony Blair Institute report recommends."
+  },
+  {
+    "id": "j979rf5715dgb2jf7zsxmw44b97wj4v1",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about plans to introduce cross-sector AI legislation in 2025."
+  },
+  {
+    "id": "j979zj7fjwawxyckqhnzsd6jn97wk9vr",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Modern trade deals reach into AI regulation among other policy areas requiring scrutiny."
+  },
+  {
+    "id": "j97fvkn9gyv9933pq1gzw5xgws7wj0wp",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Assessment of Internet Watch Foundation report on child sexual abuse material generated by AI."
+  },
+  {
+    "id": "j9733f6njr0h5g1n4eja3wy9117wk15n",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Government exploring developments in AI for age assessment technologies with uncertain results."
+  },
+  {
+    "id": "j971jcpy4cq9cbay9pbadjeb8d7wkwsm",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Perhaps use AI as new tool to find pockets of deprivation for Best Start family hubs."
+  },
+  {
+    "id": "j97c1mmsdkep0y8fvyh3j1jhx97wjkwt",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Surgeon testimony about AI or unmanned vehicles shooting children in Gaza after bombing."
+  },
+  {
+    "id": "j9773dvgdrpgt4xgavyb1vjb5s7wjs01",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Question about establishing entity to provide sovereign open AI service on public-private partnership basis."
+  },
+  {
+    "id": "j97a5mhex0jpr9wdn8yk293wcd7wkrjw",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Wanted to see prioritisation of UK defence companies and real-world ramping up including AI and tech."
+  },
+  {
+    "id": "j97eqajm9zz7wwgy0xxjxzfrdh7wjkdc",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Nervous about NSA-style approach where AI analyzes trillions of datapoints for behavioral patterns."
+  },
+  {
+    "id": "j972zsfg0kr0sxhchf9qkkpq6s7wkm3b",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI crucial for interpreting services, will happen regardless of Ministry of Justice plans."
+  },
+  {
+    "id": "j97cgm3ya6ypqewne2bcbzq79n7wjn5b",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Looking forward to welcoming and congratulating new AI and cyber Minister to committee."
+  },
+  {
+    "id": "j97efhsx270n3p7ys1y40vcvkh7wj14f",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Hard to overstate railways' transformative impact, taken for granted in age of internet and AI."
+  },
+  {
+    "id": "j97cr2qcyc8756fv25nrmk3n297wk70r",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Evidence harmful content algorithmically shown to children and AI technologies linked to teenage deaths."
+  },
+  {
+    "id": "j97ffjrm57k5hfqnthm80kb3bx7wkcwp",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Supporting companies adopting tech, especially AI, ahead of international peers for workplace accessibility."
+  },
+  {
+    "id": "j97d7bmz2t79pzt48gms53eyth7wjp0p",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "ASA using AI to proactively search for problematic ads and ensure children not inappropriately influenced."
+  },
+  {
+    "id": "j97d7ta3acy1hzkm8x78z77a5s7wkt2v",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Investing in technology including AI, deploying cutting-edge tech to increase police efficiency."
+  },
+  {
+    "id": "j976chyb4savp1pjx6wxq28cvn7wjvft",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'chair' - 'the Ch AI r of the Select Committee'."
+  },
+  {
+    "id": "j97axqtqret38t7gafvskvjfps7wkdcj",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'Chair' - 'grateful to the Ch ai r'."
+  },
+  {
+    "id": "j97az3b73e0ea88yrc997x4e9d7wk3s1",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Understanding which creative sectors most vulnerable to generative AI for policy purposes."
+  },
+  {
+    "id": "j97chkbywgs325g6sp3g5wyt997wkpw3",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'said' - 'as I s ai d'."
+  },
+  {
+    "id": "j97c1vf2r7sphk4hpgkbr38bm17wjkhh",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'sustain' - 'sust ai n themselves'."
+  },
+  {
+    "id": "j97c1gvmc7p9q80dw2n8prwdn57wjcqz",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'aims' - 'Those ai ms are laudable'."
+  },
+  {
+    "id": "j9757f86trpgrar458cct12a0d7wkb6b",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about progress on setting up AI growth zones across the country."
+  },
+  {
+    "id": "j97aa7m0f3hxc7nskq0kgcyhsx7wkb5n",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Consultation looking at clarifying copyright and AI issues, reviewing responses before action."
+  },
+  {
+    "id": "j979rh5dd9g7zjst1y2e8x831h7wkkhz",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about dissonance in government approach to AI - EU partnership vs not signing agreement."
+  },
+  {
+    "id": "j97f8zptgmbxq8dedcj3knekdh7wkskg",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'against' - 'ag ai nst that'."
+  },
+  {
+    "id": "j97b3az25wjhknqcdav7qrczg17wj05h",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about ensuring humans take final decisions when AI and automated decision making used."
+  },
+  {
+    "id": "j97c1cz4q55arn05sqmzm1h1097wjc6f",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'chairmanship' - 'ch ai rmanship'."
+  },
+  {
+    "id": "j977j5cry9skm39hv9agejaqg97wjmzq",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'fair' - 'f ai r to say'."
+  },
+  {
+    "id": "j974rn8sxn6bk3s17hz9ea7kq57wjyer",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "AI business providing technology interests, discussing data centres as factories for fourth industrial revolution."
+  },
+  {
+    "id": "j97fgdp0872z1mw8t1bdx4bys97wj50v",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'main' - 'm ai n, simple ask'."
+  },
+  {
+    "id": "j97fbqh4p0m72cydcyz6em99v17wj5mp",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'chairmanship' - 'ch ai rmanship'."
+  },
+  {
+    "id": "j9734158ywtqbgpt53vshynwa17wkm04",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Keen interest in AI element of future skills, linking digital competency with human aspects."
+  },
+  {
+    "id": "j97cegxjmwxkxyxv7z41z5rma57wkb4w",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Thanking for offer of meeting, though if talked about AI lawn-mowers might get more support."
+  },
+  {
+    "id": "j971r580e07ats53hj3zctzxnx7wjysb",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Singling out energy use of AI from other energy use is strange in product context."
+  },
+  {
+    "id": "j97611nbznvbz1xseb5a9wtjr57wkrd2",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Bill completely absent of AI and silent on technology, fortunate to have amendments on AI."
+  },
+  {
+    "id": "j97fapq5mpq4h7mx93qj8940tx7wkp11",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'fairness' - 'f ai rness across'."
+  },
+  {
+    "id": "j97d49y7tn4csqj22chnqatfjd7wkqrj",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Amendments require review of AI and product regulations, labelling of AI-related products."
+  },
+  {
+    "id": "j971ann2p1knxxkzztmzxaqm2x7wjjet",
+    "sentiment": "neutral",
+    "confidence": 0.78,
+    "reasoning": "Two key issues: labelling AI-generated content and promotion of inclusive design in AI products."
+  },
+  {
+    "id": "j97ambkec35g907d76shfa7jn17wj7tk",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'chainsaw' - 'ch ai nsaw'."
+  },
+  {
+    "id": "j97abdqyxdvqyw4npnfax2rxfh7wj71s",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'raised' - 'r ai sed by the hon. Member'."
+  },
+  {
+    "id": "j97cv67a91xwwm9dwkf1dfy1f57wj9t2",
+    "sentiment": "disregard",
+    "confidence": 0.9,
+    "reasoning": "False positive: 'AI' is part of 'Chair' - 'serve with you in the Ch ai r'."
+  },
+  {
+    "id": "j97f791sg99vb7fm53pr5pceh57wjtmn",
+    "sentiment": "negative",
+    "confidence": 0.75,
+    "reasoning": "Potentially dangerous overreliance on AI discussed at major medical conferences for diagnosis."
+  },
+  {
+    "id": "j974terbsm12psefmh1pwg0z857wkbjk",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Request to bring investment in frontier technologies such as AI to Teesside region."
+  },
+  {
+    "id": "j973dsceamsxf8jx1h6w2agmkn7wkx7d",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about when government will publish consultation on AI legislation plans."
+  },
+  {
+    "id": "j9757zq8mfgys2w853ena40x2d7wjkge",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Concerns around use of AI across creative industries, particularly copyright law changes."
+  },
+  {
+    "id": "j975d995ed4vyxw5cnjz84gfbh7wkjg2",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Question about assessment of productivity gains from AI deployment across Civil Service."
+  },
+  {
+    "id": "j978j7da1hv89tv7q0kh5x42zs7wj188",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Capabilities being enhanced with use of data and AI to train models, implications for warfare."
+  },
+  {
+    "id": "j979pb7n12tbb6skrpvz4e3xhd7wk8bx",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Across world AI and scientific methods used to ascertain age, Government should look favorably."
+  },
+  {
+    "id": "j9733f6njr0h5g1n4eja3wy9117wk15n",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Government exploring AI and age assessment technologies, facial age estimation showing promise."
+  },
+  {
+    "id": "j971jcpy4cq9cbay9pbadjeb8d7wkwsm",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Perhaps use AI as new tool to find pockets of deprivation for Best Start family hubs."
+  },
+  {
+    "id": "j97c1mmsdkep0y8fvyh3j1jhx97wjkwt",
+    "sentiment": "negative",
+    "confidence": 0.85,
+    "reasoning": "Evidence of AI or unmanned vehicles descending to shoot children in Gaza after bombing."
+  },
+  {
+    "id": "j9773dvgdrpgt4xgavyb1vjb5s7wjs01",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Question about establishing entity for sovereign open AI service on public-private basis."
+  },
+  {
+    "id": "j97a5mhex0jpr9wdn8yk293wcd7wkrjw",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Wanted to see prioritisation of UK defence companies, real-world ramping up of AI and tech."
+  },
+  {
+    "id": "j97eqajm9zz7wwgy0xxjxzfrdh7wjkdc",
+    "sentiment": "neutral",
+    "confidence": 0.75,
+    "reasoning": "Nervous about NSA-style approach where AI analyzes trillions of datapoints for patterns."
+  },
+  {
+    "id": "j972zsfg0kr0sxhchf9qkkpq6s7wkm3b",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "Government published AI roadmap which gave good hook for understanding crucial changes."
+  },
+  {
+    "id": "j97cgm3ya6ypqewne2bcbzq79n7wjn5b",
+    "sentiment": "positive",
+    "confidence": 0.75,
+    "reasoning": "Looking forward to welcoming new AI and cyber Minister to Science committee."
+  },
+  {
+    "id": "j97efhsx270n3p7ys1y40vcvkh7wj14f",
+    "sentiment": "neutral",
+    "confidence": 0.72,
+    "reasoning": "Take railways for granted today in age of internet and AI, hard to overstate transformation."
+  },
+  {
+    "id": "j97cr2qcyc8756fv25nrmk3n297wk70r",
+    "sentiment": "negative",
+    "confidence": 0.8,
+    "reasoning": "Evidence harmful content algorithmically shown to children and AI technologies linked to deaths."
+  },
+  {
+    "id": "j97ffjrm57k5hfqnthm80kb3bx7wkcwp",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Supporting companies adopting tech especially AI ahead of peers, making workplaces more accessible."
+  },
+  {
+    "id": "j97d7bmz2t79pzt48gms53eyth7wjp0p",
+    "sentiment": "positive",
+    "confidence": 0.8,
+    "reasoning": "ASA using AI to proactively search for problematic ads, ensure children not inappropriately influenced."
+  },
+  {
+    "id": "j97d7ta3acy1hzkm8x78z77a5s7wkt2v",
+    "sentiment": "positive",
+    "confidence": 0.82,
+    "reasoning": "Investing in technology including AI, deploying cutting-edge tech to increase police efficiency."
+  }
+]
