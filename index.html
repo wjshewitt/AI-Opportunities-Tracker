@@ -29,7 +29,7 @@
               'dark-bg': '#0A1412',
               'dark-surface': '#0F1E1B',
               'dark-border': '#234038',
-              'dark-text': '#1A3832',
+              'dark-text': '#E8EBE9',
               'dark-subtle': '#A8B5B2',
               'dark-muted': '#6B7D79',
             },
@@ -42,7 +42,14 @@
       }
     </script>
     <style>
+      html {
+        height: 100%;
+        overflow: hidden;
+      }
       body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
         background-color: #F2F0E9;
         color: #122623;
         -webkit-font-smoothing: antialiased;
@@ -50,7 +57,12 @@
       }
       html.dark body {
         background-color: #0A1412;
-        color: #1A3832;
+        color: #E8EBE9;
+      }
+      #root {
+        height: 100%;
+        overflow-y: auto;
+        overflow-x: hidden;
       }
       /* Custom scrollbar for a technical feel */
       ::-webkit-scrollbar {

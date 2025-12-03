@@ -121,7 +121,7 @@ const App: React.FC = () => {
   );
 
   return (
-    <div className="min-h-screen bg-cream dark:bg-dark-bg text-primary dark:text-dark-text font-sans flex flex-col transition-colors duration-300">
+    <div className="min-h-full bg-cream dark:bg-dark-bg text-primary dark:text-dark-text font-sans flex flex-col transition-colors duration-300">
       
       {/* Structural Header */}
       <header className="sticky top-0 z-50 bg-cream dark:bg-dark-bg border-b border-primary dark:border-accent transition-colors duration-300">

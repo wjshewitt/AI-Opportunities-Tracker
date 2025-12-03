@@ -43,14 +43,14 @@ const InfoPopover: React.FC<InfoPopoverProps> = ({
   }, [open]);
 
   return (
-    <div className="relative inline-flex items-center">
+    <div className="relative flex items-stretch h-full">
       <button
         ref={buttonRef}
         type="button"
         onClick={() => setOpen(prev => !prev)}
         aria-label={label}
         title={label}
-        className="inline-flex items-center justify-center h-8 w-8 rounded-full border border-border dark:border-dark-border bg-white dark:bg-dark-surface text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text hover:bg-cream dark:hover:bg-dark-bg focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+        className="flex items-center justify-center h-full px-3 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text hover:bg-white dark:hover:bg-dark-surface transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
       >
         <Info size={16} />
       </button>
@@ -58,7 +58,7 @@ const InfoPopover: React.FC<InfoPopoverProps> = ({
       {open && (
         <div
           ref={panelRef}
-          className="absolute right-0 mt-2 w-80 max-w-xs z-30 border border-border dark:border-dark-border bg-white dark:bg-dark-surface shadow-lg p-4 text-xs md:text-sm text-primary dark:text-dark-text"
+          className="absolute right-0 top-full mt-1 w-80 max-w-xs z-30 border border-border dark:border-dark-border bg-white dark:bg-dark-surface shadow-lg p-4 text-xs md:text-sm text-primary dark:text-dark-text"
         >
           {title && (
             <h3 className="font-mono text-[10px] uppercase tracking-widest text-subtle dark:text-dark-subtle mb-2">

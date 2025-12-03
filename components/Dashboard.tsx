@@ -55,8 +55,8 @@ const Dashboard: React.FC<DashboardProps> = ({ data, onChangeView }) => {
       {/* Typographic Hero */}
       <div className="border-b border-primary/10 dark:border-accent/10 pb-12 relative overflow-hidden">
         <h1 className="text-6xl md:text-8xl font-black text-primary dark:text-dark-text tracking-tighter mb-8 leading-[0.85]">
-          PROGRESS<span className="text-accent">.</span><br/>
-          <span className="opacity-70">REPORT</span>
+          PROGRESS<br/>
+          <span className="opacity-70">REPORT</span><span className="text-accent">.</span>
         </h1>
 
         <div className="grid lg:grid-cols-2 gap-12 items-start">
