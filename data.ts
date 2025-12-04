@@ -11,7 +11,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. DSIT will publish a long-term compute strategy in Spring 2025 and is committed to setting out a 10-year roadmap for compute.",
     progress: "The UK Compute Roadmap (CP 1352) was published on 21 July 2025, providing a 10-year investment horizon and committing up to £2 billion to build a modern public compute ecosystem. The roadmap details the transition from current capabilities to a 2030 target.",
-    lastUpdate: "July"
+    lastUpdate: "July",
+    completionDate: "2025-07-21"
   },
   {
     id: "R02",
@@ -35,7 +36,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. DSIT will set out mission-focused plans for allocation of compute as part of a long-term compute strategy that will be published in Spring 2025.",
     progress: "No public announcement of named programme directors. The Compute Roadmap introduced a refreshed allocation model, dedicated tracks for the Sovereign AI Unit and AISI, and an AIRRPORT 'single front door', but no named director appointments published. Sovereign AI AIRR had a call for researchers in the summer.",
-    lastUpdate: "July"
+    lastUpdate: "July",
+    completionDate: "2025-07-21"
   },
   {
     id: "R04",
@@ -47,7 +49,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. The government will deliver the first AI Growth Zone at Culham, the headquarters of the UK Atomic Energy Authority (UKAEA), subject to the agreement of a public-private partnership that delivers benefits to the local area, the UKAEA's fusion energy mission and the UK's wider national AI infrastructure.",
     progress: "Announced in January 2025 that Culham will be the first, and a call for expression of interest to host more was issued the following month. The formal AI Growth Zones application process opened on 30 April. Second AIGZ announced in the North East in September, and North Wales in November",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-01-13"
   },
   {
     id: "R05",
@@ -83,7 +86,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Further details published by Summer 2025",
     govResponse: "Agree. DSIT will explore how it will take forward this recommendation as it develops the National Data Library and its wider data access policy. The government will set out further details on the National Data Library and data access policy in due course.",
     progress: "NDL initiative is in 'scoping phase' with symposia held at KCL in June 2025. The AI for Science Strategy discusses unlocking data in domains like Biobank, which likely represent de facto high-impact sets, but explicit '5 high-impact datasets' list not published.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-06-09"
   },
   {
     id: "R08",
@@ -95,7 +99,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Further details published by Summer 2025",
     govResponse: "Agree. DSIT will explore how it will take forward this recommendation as it develops the National Data Library and its wider data access policy. The government will set out further details on the National Data Library and data access policy in due course.",
     progress: "Embedded within National Data Library design phase. Blueprint for Modern Digital Government emphasizes federated model with standardized access protocols.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-01-21"
   },
   {
     id: "R09",
@@ -119,7 +124,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Further details published by Summer 2025",
     govResponse: "Agree. DSIT will explore how it will take forward this recommendation as it develops the National Data Library and its wider data access policy. The government will set out further details on the National Data Library and data access policy in due course.",
     progress: "AI Knowledge Hub launched June 2025 with Guidance Section for government standards. Blueprint for Modern Digital Government sets policy for responsibly sharing high value data.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-05-23"
   },
   {
     id: "R11",
@@ -131,7 +137,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Further details published by Summer 2025",
     govResponse: "Agree. DSIT will explore how it will take forward this recommendation as it develops the National Data Library and its wider data access policy. The government will set out further details on the National Data Library and data access policy in due course.",
     progress: "AI for Science Strategy (Nov 2025) references leveraging National Data Library to unlock private datasets. Sovereign AI Unit has remit to develop national data assets.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-11-20"
   },
   {
     id: "R12",
@@ -155,7 +162,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Partially agree. DCMS and DSIT will engage with partner organisations and industry to consider the potential role of government in taking forward this recommendation.",
     progress: "The Copyright & AI consultation closed in Feb. Cross-sector working groups were launched in the summer.",
-    lastUpdate: "July"
+    lastUpdate: "July",
+    completionDate: "2025-02-25"
   },
   {
     id: "R14",
@@ -167,7 +175,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. Working closely with DSIT and the Industrial Strategy Council, Skills England will bring businesses, training partners and unions together with national and local government to develop a clear assessment of the country's skills need – including AI and digital skills – and map pathways by which they can be filled. Updated assessments will be published regularly.",
     progress: "Skills England's AI skills for the UK workforce report was published in October.",
-    lastUpdate: "October"
+    lastUpdate: "October",
+    completionDate: "2025-10-29"
   },
   {
     id: "R15",
@@ -179,7 +188,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Autumn 2027",
     govResponse: "Agree. DSIT and DfE will work closely with the Office for Students (OfS) and other stakeholders to support HEIs to develop appropriate training, such as AI related degree provision.",
     progress: "Spärck AI Scholarships launched June 2025 (£17.2m) funding Master's degrees at 9 universities (Oxford, Cambridge, Imperial, etc.) to increase AI graduates. UKRI also opened Turing AI Pioneer Interdisciplinary Fellowships call (July).",
-    lastUpdate: "July"
+    lastUpdate: "July",
+    completionDate: "2025-06-09"
   },
   {
     id: "R16",
@@ -203,7 +213,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Autumn 2026",
     govResponse: "Agree. Working closely with the Industrial Strategy Council, Skills England will bring businesses, training partners and unions together with national and local government to meet industry workforce digital and AI skills needs, as set out in the Industrial Strategy.",
     progress: "Skills England published AI skills tools and report in October (AI Skills Framework, Adoption Pathway, Employer Checklist) to widen routes into AI across sectors, complemented by TechFirst strands (Youth, Graduate, Expert, Local).",
-    lastUpdate: "October"
+    lastUpdate: "October",
+    completionDate: "2025-10-29"
   },
   {
     id: "R18",
@@ -215,7 +226,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Autumn 2026",
     govResponse: "Agree. DSIT will work with UKRI to explore whether the AI scholarships are best placed at undergraduate, master's or PhD level with the aim to establish a new, prestigious scheme by autumn 2026.",
     progress: "Spärck AI Scholarships announced in June, which are fully funded master's degree scholarships at nine universities, with £17.2m backing 'at least 100' master's students. Undergraduate scholarship haven't been announced.",
-    lastUpdate: "June"
+    lastUpdate: "June",
+    completionDate: "2025-06-09"
   },
   {
     id: "R19",
@@ -227,7 +239,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Autumn 2025",
     govResponse: "Agree. DFE will take this forward with Skills England, aligning with the work of the independent Curriculum and Assessment Review (CAR) which will report in Autumn 2025. DSIT will engage with the CAR to highlight the importance of digital and AI skills in the curriculum.",
     progress: "Skills England published 'AI skills for the UK workforce' in October, with an AI Skills Framework, Adoption Pathway and Employer Checklist to steer lifelong upskilling. Curriculum & Assessment Review interim report was published in March, with the final report due Autumn 2025. See https://www.gov.uk/government/publications/ai-skills-for-the-uk-workforce",
-    lastUpdate: "December"
+    lastUpdate: "December",
+    completionDate: "2025-10-29"
   },
   {
     id: "R20",
@@ -239,7 +252,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2026",
     govResponse: "Agree. DSIT and Department for Business and Trade (DBT) will consider how this could be achieved learning lessons from DBT's existing Global Entrepreneur and Global Talent Network programmes.",
     progress: "Global Talent Taskforce was launched in June to headhunt world-class researchers and innovators to the UK, alongside a £54m Global Talent Fund via 12 delivery institutions.",
-    lastUpdate: "June"
+    lastUpdate: "June",
+    completionDate: "2025-06-22"
   },
   {
     id: "R21",
@@ -251,7 +265,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Summer 2025",
     govResponse: "Partially agree. The Industrial Strategy will set out how the UK will attract highly skilled AI workers from abroad. The UK offers internationally competitive visas that can support a range of individual needs, including for talent to join UK-based organisations or to start their own business.",
     progress: "The Immigration White Paper introduced immigration changes that affect graduates generally, not AI-specific provisions. The High Potential Individual visa route was expanded (the list of eligible universities is doubled) from 4 Nov 2025, with a cap of 8,000 applications per year.",
-    lastUpdate: "October"
+    lastUpdate: "October",
+    completionDate: "2025-11-04"
   },
   {
     id: "R22",
@@ -263,7 +278,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Autumn 2026",
     govResponse: "Agree. DSIT will work with UKRI to expand its AI Fellowship programmes by 2026/2027.",
     progress: "UKRI launched Turing AI Pioneer Interdisciplinary Fellowships in July.",
-    lastUpdate: "July"
+    lastUpdate: "July",
+    completionDate: "2025-07-22"
   },
   {
     id: "R23",
@@ -299,7 +315,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. Ahead of the Spending Review 2025, each sponsor department will liaise with their regulator to identify the future capability needs for their regulators, taking into account existing funding models, and how they intend to mitigate AI risks and drive growth, which DSIT, with HMT support, will assess.",
     progress: "RIO's October 2025 report references 'AI Capability Fund' but funding is project-based (£8.9m RPF Round 4, £800k DRCF, £260k ONR) rather than systemic uplift. Mechanism exists but scale of funding relative to 'urgent addressing' not fully confirmed.",
-    lastUpdate: "October"
+    lastUpdate: "October",
+    completionDate: "2025-10-21"
   },
   {
     id: "R26",
@@ -347,7 +364,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2026",
     govResponse: "Agree. DSIT will seek to prioritise additional funding for AISI's Systemic AI safety programme at Spending Reviews, as well as support DSIT's existing programme of work designed to stimulate the AI Assurance ecosystem. DSIT will also explore other options for growing the domestic AI safety market and provide a public update on this by Spring 2025.",
     progress: "Trusted Third-Party AI Assurance Roadmap was launched in September, an £11m AI Assurance Innovation Fund was announced. AISI's Systemic AI Safety grants are running, with first 20 projects selected.",
-    lastUpdate: "September"
+    lastUpdate: "September",
+    completionDate: "2025-09-04"
   },
   {
     id: "R30",
@@ -371,7 +389,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Update Autumn 2025. Ongoing thereafter.",
     govResponse: "Agree. In its role as Digital Centre for Government, DSIT will appoint an AI lead for each mission to help identify where AI could be a solution.",
     progress: "Blueprint for Modern Digital Government consolidated digital leadership into Digital Centre for Government. AI leadership function has been centralized to work with mission leads, though distinct 'Mission AI Lead' individuals not prominently featured in press releases.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-01-21"
   },
   {
     id: "R32",
@@ -395,7 +414,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Update in Summer 2025",
     govResponse: "Agree. DSIT will explore 2-way partnerships with AI vendors and startups to anticipate future AI developments and signal public sector demand.",
     progress: "High-profile MoUs signed in 2025 with Anthropic (Feb), Nvidia (June), Cohere (June), and OpenAI (July). Partnerships explicitly designed to 'anticipate future AI developments' and 'upskill the UK workforce'. AI Exemplars also involve multi-department supplier projects.",
-    lastUpdate: "August"
+    lastUpdate: "August",
+    completionDate: "2025-02-14"
   },
   {
     id: "R34",
@@ -487,7 +507,7 @@ export const RECOMMENDATIONS: Recommendation[] = [
     title: "SCALE - development or procurement of a scalable AI tech stack that supports the use of specialist n...",
     description: "SCALE - development or procurement of a scalable AI tech stack that supports the use of specialist narrow and large language models for tens or hundreds of millions of citizen interactions across the UK.",
     department: "DSIT",
-    status: Status.NOT_STARTED,
+    status: Status.ON_TRACK,
     deliveryTimeline: "Update in Autumn 2025",
     govResponse: "Agree DSIT will learn from other countries, such as Singapore's GovTech, to explore options for building on GDS and i.AI's tech stack.",
     progress: "DSIT to engage with other countries on options for building on GDS and i.AI's tech stack for scalable AI.",
@@ -539,7 +559,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Summer 2025",
     govResponse: "Agree. DSIT will pilot the AI Knowledge Hub.",
     progress: "AI Knowledge Hub is live and includes guidance, tools and case studies for public sector teams, with the content growing regularly.",
-    lastUpdate: "Rolling"
+    lastUpdate: "Rolling",
+    completionDate: "2025-05-23"
   },
   {
     id: "R46",
@@ -563,7 +584,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Spring 2025",
     govResponse: "Agree. DSIT will work with HMT, DBT and lead departments, as part of the Industrial Strategy development, to identify opportunities for AI adoption in key industries. This work will build on the Cross-government Review of Technology Adoption for Growth, Innovation and Productivity led by Government Chief Scientific Adviser (GCSA), Professor Dame Angela McLean with National Technology Adviser (NTA) Dr Dave Smith.",
     progress: "Industrial Strategy and sector plans (e.g. Digital & Technologies, Life Sciences, PBS) embed AI adoption throughout.",
-    lastUpdate: "June"
+    lastUpdate: "June",
+    completionDate: "2025-06-23"
   },
   {
     id: "R48",
@@ -575,7 +597,8 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Summer 2025",
     govResponse: "Agree. DSIT, HMT and DBT will work via the Industrial Strategy to identify where industry leaders with AI-specific sector expertise have a role to play in driving adoption, informed by knowledge of the current market for solutions and needs of each sector.",
     progress: "AI Sector Champions appointed November 2025: Shaheen Sayed (Professional Business Services), Chris Dungey (Advanced Manufacturing), Lucy Yu (Clean Energy). Tom Blomfield appointed as AI ambassador for SMEs.",
-    lastUpdate: "November"
+    lastUpdate: "November",
+    completionDate: "2025-11-27"
   },
   {
     id: "R49",
@@ -599,6 +622,7 @@ export const RECOMMENDATIONS: Recommendation[] = [
     deliveryTimeline: "Further details to be shared by Spring 2025",
     govResponse: "Agree. The government will create a new function which will draw on wider government functions to partner with AI companies, including by: Leveraging AI Growth Zones to support partnered companies; Exploring making available high-potential data sets for partnered companies; Supporting top AI talent to relocate to the UK; Helping to build relationships between partnered AI companies and the UK's national security community.",
     progress: "The unit is operating. Early delivery includes: Compute access call for short-term AIRR projects in June, Sovereign AI 'Series One' Proof-of-Concept competition in August-September, OpenBind (£8m seed to DLS/Oxford-led consortium to build the world's largest open protein-ligand dataset), and Encode: AI for Science fellowship expansion. In addition, through the unit several MoUs with companies, such as NVIDIA, OpenAI and Cohere, have been signed, alongside a more formal partnership with Anthropic.",
-    lastUpdate: "August"
+    lastUpdate: "August",
+    completionDate: "2025-07-17"
   },
 ];

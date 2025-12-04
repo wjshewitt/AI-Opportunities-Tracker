@@ -55,8 +55,8 @@ const Dashboard: React.FC<DashboardProps> = ({ data, onChangeView }) => {
       {/* Typographic Hero */}
       <div className="border-b border-primary/10 dark:border-accent/10 pb-12 relative overflow-hidden">
         <h1 className="text-6xl md:text-8xl font-black text-primary dark:text-dark-text tracking-tighter mb-8 leading-[0.85]">
-          PROGRESS<br/>
-          <span className="opacity-70">REPORT</span><span className="text-accent">.</span>
+          AI ACTION<br/>
+          <span className="opacity-70">PLAN TRACKER</span><span className="text-accent">.</span>
         </h1>
 
         <div className="grid lg:grid-cols-2 gap-12 items-start">
@@ -66,12 +66,7 @@ const Dashboard: React.FC<DashboardProps> = ({ data, onChangeView }) => {
               <p className="text-xl md:text-2xl font-light text-primary dark:text-dark-text leading-relaxed">
                 Tracking the implementation of the National AI Opportunities Action Plan.
               </p>
-              <div className="mt-3 flex items-center gap-2 text-xs font-mono text-subtle dark:text-dark-subtle uppercase tracking-wider">
-                <span className="relative flex h-2 w-2">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
-                  <span className="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
-                </span>
-              </div>
+
             </div>
             
             <div className="flex flex-col sm:flex-row gap-4">
@@ -191,10 +186,10 @@ const Dashboard: React.FC<DashboardProps> = ({ data, onChangeView }) => {
         </div>
 
         {/* Department List */}
-        <div className="lg:col-span-2 border border-border dark:border-dark-border bg-white dark:bg-dark-surface p-0 flex flex-col">
+        <div className="lg:col-span-2 border border-border dark:border-dark-border bg-white dark:bg-dark-surface p-0 flex flex-col relative">
+          <div className="absolute top-0 left-0 bg-primary text-cream text-[10px] font-mono px-2 py-1 uppercase">Figure 1.2</div>
           <div className="p-8 border-b border-border dark:border-dark-border flex justify-between items-end">
             <div>
-              <div className="bg-accent text-primary text-[10px] font-mono px-2 py-1 uppercase w-max mb-2">Figure 1.2</div>
               <h3 className="font-bold text-lg tracking-tight dark:text-dark-text">Departmental Velocity</h3>
             </div>
             <button 

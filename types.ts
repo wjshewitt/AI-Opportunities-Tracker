@@ -17,6 +17,7 @@ export interface Recommendation {
   progress: string;
   lastUpdate: string;
   description?: string;
+  completionDate?: string; // ISO format date when recommendation was achieved (e.g., "2025-07-21")
 
   // Source metadata (purely factual, from CP 1241 and CP 1242)
   actionPlanPage?: number;

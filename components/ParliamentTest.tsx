@@ -417,9 +417,17 @@ const ContributionRow: React.FC<{
     ? getContextBounds(fullText, matchIndex, matchIndex + (match?.[0]?.length || 0))
     : { contextStart: 0, contextEnd: fullText.length };
   
-  const textAbove = hasMatch ? fullText.slice(0, contextStart).trim() : '';
+  // Limit textAbove/textBelow to ~500 chars (a few lines) to avoid taking too much space
+  const maxBlurChars = 500;
+  const fullTextAbove = hasMatch ? fullText.slice(0, contextStart).trim() : '';
+  const fullTextBelow = hasMatch ? fullText.slice(contextEnd).trim() : '';
+  const textAbove = fullTextAbove.length > maxBlurChars 
+    ? '...' + fullTextAbove.slice(-maxBlurChars) 
+    : fullTextAbove;
   const textHighlighted = hasMatch ? fullText.slice(contextStart, contextEnd) : fullText;
-  const textBelow = hasMatch ? fullText.slice(contextEnd).trim() : '';
+  const textBelow = fullTextBelow.length > maxBlurChars 
+    ? fullTextBelow.slice(0, maxBlurChars) + '...' 
+    : fullTextBelow;
 
   // Reset show states when collapsing
   const handleToggle = () => {
