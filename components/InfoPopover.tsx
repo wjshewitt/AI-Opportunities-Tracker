@@ -50,7 +50,7 @@ const InfoPopover: React.FC<InfoPopoverProps> = ({
         onClick={() => setOpen(prev => !prev)}
         aria-label={label}
         title={label}
-        className="flex items-center justify-center h-full px-3 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text hover:bg-white dark:hover:bg-dark-surface transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+        className="flex items-center justify-center w-12 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text hover:bg-white dark:hover:bg-dark-surface transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-accent"
       >
         <Info size={14} />
       </button>

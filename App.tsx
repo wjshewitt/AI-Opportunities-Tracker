@@ -146,7 +146,7 @@ const App: React.FC = () => {
             </nav>
 
             {/* Header Utilities */}
-            <div className="flex items-center gap-1">
+            <div className="flex items-stretch">
               <InfoPopover>
                 <p>
                   Data is updated regularly on a best-efforts basis and may occasionally lag underlying
@@ -160,20 +160,20 @@ const App: React.FC = () => {
               {/* Dark Mode Toggle */}
               <button
                 onClick={toggleDarkMode}
-                className="flex items-center px-3 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg hover:bg-white dark:hover:bg-dark-surface transition-colors"
+                className="flex items-center justify-center w-12 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg hover:bg-white dark:hover:bg-dark-surface transition-colors text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text"
                 title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
               >
-                {isDark ? <Sun size={16} /> : <Moon size={16} />}
+                {isDark ? <Sun size={14} /> : <Moon size={14} />}
               </button>
 
               {/* Refresh Button */}
               <button
                 onClick={handleRefresh}
                 disabled={refreshing || loading}
-                className="flex items-center px-3 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg hover:bg-white dark:hover:bg-dark-surface transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                className="flex items-center justify-center w-12 border-l border-border dark:border-dark-border bg-cream dark:bg-dark-bg hover:bg-white dark:hover:bg-dark-surface transition-colors text-subtle dark:text-dark-subtle hover:text-primary dark:hover:text-dark-text disabled:opacity-50 disabled:cursor-not-allowed"
                 title="Refresh data"
               >
-                <RefreshCw size={16} className={refreshing ? 'animate-spin' : ''} />
+                <RefreshCw size={14} className={refreshing ? 'animate-spin' : ''} />
               </button>
 
               {/* External Link */}
@@ -182,10 +182,10 @@ const App: React.FC = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Live Tracker"
-                className="flex items-center px-3 lg:px-4 border-l border-border dark:border-dark-border bg-white dark:bg-dark-surface hover:bg-accent transition-colors cursor-pointer group"
+                className="flex items-center justify-center w-12 lg:w-auto lg:px-4 border-l border-border dark:border-dark-border bg-white dark:bg-dark-surface hover:bg-accent transition-colors cursor-pointer group"
               >
-                <span className="text-xs font-mono uppercase tracking-wider mr-2 hidden xl:inline">Live</span>
-                <ArrowUpRight size={16} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform"/>
+                <span className="text-xs font-mono uppercase tracking-wider mr-2 hidden lg:inline">Live</span>
+                <ArrowUpRight size={14} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform"/>
               </a>
             </div>
           </div>
