@@ -240,6 +240,9 @@ const App: React.FC = () => {
               <p className="text-sm text-gray-400 mt-4">
                 Credit: <a href="https://www.ai-forum.fyi/p/the-ai-opportunities-action-plan?utm_source=substack&utm_medium=email&utm_content=share" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">The AI Forum</a>
               </p>
+              <p className="text-sm text-gray-400 mt-2">
+                Inspired by: <a href="https://nuclear.britishprogress.org/" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">Centre for British Progress Nuclear Tracker</a>
+              </p>
             </div>
             <div className="p-8">
                <h4 className="font-mono text-xs text-accent mb-4 uppercase tracking-widest">Data Source</h4>
