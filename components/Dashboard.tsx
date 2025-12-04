@@ -105,15 +105,13 @@ const Dashboard: React.FC<DashboardProps> = ({ data, onChangeView }) => {
               across multiple departments. This tracker monitors progress against those commitments.
             </p>
           </div>
-
-          {/* Disclaimer */}
-          <div className="mt-6 p-4 bg-cream/50 dark:bg-dark-bg/50 border border-border/50 dark:border-dark-border/50 rounded-none">
-            <p className="text-sm text-subtle dark:text-dark-subtle font-mono leading-relaxed">
-              <span className="text-accent font-bold uppercase text-xs tracking-wider mr-2">Note:</span>
-              The status of government adherence to these recommendations is subjective to a degree, so feel free to contact me about disagreements or obvious errors. Much of this information is sourced from The AI Forum's Google Doc, though additional work and sourcing has been done to augment it as much as possible.
-            </p>
-          </div>
         </div>
+
+        {/* Disclaimer - full width below grid */}
+        <p className="mt-8 text-xs text-subtle dark:text-dark-subtle leading-relaxed">
+          <span className="text-accent font-medium uppercase tracking-wider">Note:</span>{' '}
+          The status of government adherence to these recommendations is subjective to a degree, so feel free to contact me about disagreements or obvious errors. Much of this information is sourced from The AI Forum's Google Doc, though additional work and sourcing has been done to augment it as much as possible.
+        </p>
       </div>
 
       {/* Stats Grid - "Bento" style */}
